@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+aiohttp
+asyncio
+certifi
+lxml
+requests
