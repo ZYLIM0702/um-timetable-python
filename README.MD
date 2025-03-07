@@ -55,27 +55,42 @@ This project is a fork of the original [UM timetable scraper](https://github.com
 
 Before running the scraper, review and update any configurable variables in the code.
 
-- **Concurrency and Timing Settings:**  
-  Adjust the following parameters according to your needs:
+### **Concurrency and Timing Settings:**  
+Adjust the following parameters according to your needs:
 
-  ```python
-  PAGE_CONCURRENCY = 2         # Number of concurrent page fetches
-  RESERVATION_CONCURRENCY = 3  # Number of concurrent reservation detail fetches
-  PAGE_SIZE = 100              # Number of items per page request
-  BATCH_DELAY = 1.5            # Delay (in seconds) between page batches
-  RETRY_BASE_DELAY = 1.0       # Base delay for exponential backoff (in seconds)
-  ```
+```python
+PAGE_CONCURRENCY = 2         # Number of concurrent page fetches
+RESERVATION_CONCURRENCY = 3  # Number of concurrent reservation detail fetches
+PAGE_SIZE = 100              # Number of items per page request
+BATCH_DELAY = 1.5            # Delay (in seconds) between page batches
+RETRY_BASE_DELAY = 1.0       # Base delay for exponential backoff (in seconds)
+```
 
-- **Data Range and Output Files:**  
-  Define the range of lecturer IDs and the maximum number of items to fetch. Also, set your desired output filenames:
+### **Data Range and Output Files:**  
+Define the range of lecturer IDs and the maximum number of items to fetch. Also, set your desired output filenames:
 
-  ```python
-  START_LEC_ID = 8600
-  END_LEC_ID = 13700
-  MAX_ITEMS_TO_FETCH = 35000
-  FINAL_FILENAME = "course_events_with_details.json"
-  LEC_OUTPUT = "lecturer_details.json"
-  ```
+```python
+START_LEC_ID = 8600
+END_LEC_ID = 13700
+MAX_ITEMS_TO_FETCH = 35000
+FINAL_FILENAME = "course_events_with_details.json"
+LEC_OUTPUT = "lecturer_details.json"
+```
+
+### **User Login Input**
+Update UM email and password before proceeding:
+
+```python
+
+# Wait for email field and enter email
+WebDriverWait(driver, 10).until(EC.element_to_be_clickable(EMAILFIELD)).send_keys("EMAIL@siswa365.um.edu.my")
+
+# Click Next
+WebDriverWait(driver, 10).until(EC.element_to_be_clickable(NEXTBUTTON)).click()
+
+# Wait for password field and enter password
+WebDriverWait(driver, 10).until(EC.element_to_be_clickable(PASSWORDFIELD)).send_keys("PASSWORD")
+```
 
 ---
 
