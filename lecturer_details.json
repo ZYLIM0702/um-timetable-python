@@ -3753,23 +3753,6 @@
     }
   },
   {
-    "id": 8843,
-    "details": {
-      "Full Name": "ANITA KUMARI BINTI ABDULLAH",
-      "E-mail": "ANITA_KUMARI@UM.EDU.MY",
-      "Primary field": "761108065268",
-      "Code": "761108065268",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "V",
-      "Department": "V-X",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8844,
     "details": {
       "Full Name": "ELIZA BINTI HAFIZ",
@@ -72450,23 +72433,6 @@
       "Faculty": "T",
       "Department": "T-X",
       "Job Category": "E"
-    }
-  },
-  {
-    "id": 12922,
-    "details": {
-      "Full Name": "MOHAMAD AKMAL BIN IBRAHIM",
-      "E-mail": "AKMALIBRAHIM13@UM.EDU.MY",
-      "Primary field": "00016424",
-      "Code": "00016424",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "A",
-      "Department": "A-E",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
     }
   },
   {
