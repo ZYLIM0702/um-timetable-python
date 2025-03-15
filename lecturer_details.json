@@ -2748,23 +2748,6 @@
     }
   },
   {
-    "id": 8784,
-    "details": {
-      "Full Name": "ROSMAWATI BINTI MOHAMED",
-      "E-mail": "ROSMOHAMED@UM.EDU.MY",
-      "Primary field": "00000411",
-      "Code": "00000411",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PROFESOR KEHORMAT",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8785,
     "details": {
       "Full Name": "ELANTTAMIL A/L MARUTHAI",
@@ -4072,23 +4055,6 @@
       "Location": "UMKL",
       "Faculty": "B",
       "Department": "B-A",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 8862,
-    "details": {
-      "Full Name": "AHMAD SHUHAIMI BIN ABU BAKAR",
-      "E-mail": "SHUHAIMI@UM.EDU.MY",
-      "Primary field": "00011485",
-      "Code": "00011485",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-M",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
@@ -38739,23 +38705,6 @@
       "Location": "UMKL",
       "Faculty": "C",
       "Department": "C-M",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10897,
-    "details": {
-      "Full Name": "AFFENDI BIN YANG AMRI",
-      "E-mail": "AFFENDI@UM.EDU.MY",
-      "Primary field": "700923105853",
-      "Code": "700923105853",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-H",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
