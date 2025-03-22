@@ -17883,24 +17883,6 @@
     }
   },
   {
-    "id": 9671,
-    "details": {
-      "Full Name": "FUNG SHIN YEE",
-      "E-mail": "SYFUNG@UM.EDU.MY",
-      "Primary field": "00005672",
-      "Code": "00005672",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-C",
-      "Job Title": "PROFESOR",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
     "id": 9672,
     "details": {
       "Full Name": "NOR LIYANA BT MOHD SHUIB",
@@ -26951,23 +26933,6 @@
       "Faculty": "T",
       "Department": "T-A",
       "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10203,
-    "details": {
-      "Full Name": "SONIA KUMARI A/P SELVARAJAN",
-      "E-mail": "SONIAKUMARI@UM.EDU.MY",
-      "Primary field": "00014535",
-      "Code": "00014535",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "AA",
-      "Department": "AA15",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -59784,23 +59749,6 @@
       "Department": "B-A",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
-    }
-  },
-  {
-    "id": 12133,
-    "details": {
-      "Full Name": "JAUHAR LISA BINTI JUNAIDI",
-      "E-mail": "LISA@UM.EDU.MY",
-      "Primary field": "00009451",
-      "Code": "00009451",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M27",
-      "Job Title": "JURUTEKNOLOGI MAKMAL PERUBATAN",
-      "Job Category": "N"
     }
   },
   {
