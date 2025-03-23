@@ -28283,6 +28283,23 @@
     }
   },
   {
+    "id": 10281,
+    "details": {
+      "Full Name": "SHARIFAH BASIRAH BINTI SYED MUHSIN",
+      "E-mail": "BASIRAH@UM.EDU.MY",
+      "Primary field": "00013140",
+      "Code": "00013140",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-A",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10282,
     "details": {
       "Full Name": "LEE WAY SEAH",
