@@ -33656,6 +33656,23 @@
     }
   },
   {
+    "id": 10597,
+    "details": {
+      "Full Name": "HALIJAH BINTI IBRAHIM",
+      "E-mail": "IHALIJAH@UM.EDU.MY",
+      "Primary field": "00004306",
+      "Code": "00004306",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-H",
+      "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10598,
     "details": {
       "Full Name": "ZAINURRAHMAN BIN AFANDI",
@@ -82858,6 +82875,23 @@
       "Faculty": "G",
       "Department": "G-8AF",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13566,
+    "details": {
+      "Full Name": "LEE SOON LOONG",
+      "E-mail": "LEE_SL@UM.EDU.MY",
+      "Primary field": "00015300",
+      "Code": "00015300",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-H",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
       "Job Category": "A"
     }
   },
