@@ -38880,23 +38880,6 @@
     }
   },
   {
-    "id": 10905,
-    "details": {
-      "Full Name": "CHEE KEN NEE",
-      "E-mail": "CHEEKENNEE@UM.EDU.MY",
-      "Primary field": "830828075081",
-      "Code": "830828075081",
-      "In Use? (Y/N)": "Y",
-      "Title": "TS. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-S",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10906,
     "details": {
       "Full Name": "FIRDAUS BIN ABDULLAH",
@@ -39824,23 +39807,6 @@
       "Location": "UMKL",
       "Faculty": "T",
       "Department": "T-E",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10961,
-    "details": {
-      "Full Name": "ABDUL RAHMAN IDRIS",
-      "E-mail": "ARIDRIS@UM.EDU.MY",
-      "Primary field": "480701035309",
-      "Code": "480701035309",
-      "In Use? (Y/N)": "Y",
-      "Title": "DATO'",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-D",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -51733,6 +51699,23 @@
       "Faculty": "G",
       "Department": "G-7I-A",
       "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 11659,
+    "details": {
+      "Full Name": "ASNIZA BINTI ZAKARIA",
+      "E-mail": "ASNIZA@UM.EDU.MY",
+      "Primary field": "00009268",
+      "Code": "00009268",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-X",
+      "Job Title": "PEGAWAI KHIDMAT PELANGGAN",
       "Job Category": "N"
     }
   },
