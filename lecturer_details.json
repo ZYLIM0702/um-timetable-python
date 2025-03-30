@@ -44875,6 +44875,23 @@
     }
   },
   {
+    "id": 11257,
+    "details": {
+      "Full Name": "ROSMAWATI BINTI MOHD ALI",
+      "E-mail": "ROSMA@UM.EDU.MY",
+      "Primary field": "00001898",
+      "Code": "00001898",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-11H",
+      "Job Title": "KETUA PENOLONG PENDAFTAR KANAN",
+      "Job Category": "E",
+      "Position Held (e.g. Dean)": "E"
+    }
+  },
+  {
     "id": 11258,
     "details": {
       "Full Name": "KHOO SAW SIAN",
@@ -51716,23 +51733,6 @@
       "Faculty": "G",
       "Department": "G-7I-A",
       "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
-    "id": 11659,
-    "details": {
-      "Full Name": "ASNIZA BINTI ZAKARIA",
-      "E-mail": "ASNIZA@UM.EDU.MY",
-      "Primary field": "00009268",
-      "Code": "00009268",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-X",
-      "Job Title": "PEGAWAI KHIDMAT PELANGGAN",
       "Job Category": "N"
     }
   },
