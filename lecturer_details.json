@@ -153,6 +153,23 @@
     }
   },
   {
+    "id": 8630,
+    "details": {
+      "Full Name": "FAUZIAH BINTI ABDUL BAB",
+      "E-mail": "GEEPU3@UM.EDU.MY",
+      "Primary field": "00007299",
+      "Code": "00007299",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-M",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 8631,
     "details": {
       "Full Name": "NORCHAYA BINTI YAHAYA",
