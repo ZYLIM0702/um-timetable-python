@@ -16090,6 +16090,23 @@
     }
   },
   {
+    "id": 9566,
+    "details": {
+      "Full Name": "SHAMSUL BAHRI BIN YUSOFF",
+      "E-mail": "shamsul.yusoff@um.edu.my",
+      "Primary field": "710608105705",
+      "Code": "710608105705",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA08",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9567,
     "details": {
       "Full Name": "HASLIDA BINTI ABU HASAN",
@@ -40998,23 +41015,6 @@
       "Location": "UMKL",
       "Faculty": "T",
       "Department": "T-C",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11031,
-    "details": {
-      "Full Name": "CHE CHONG CHIN",
-      "E-mail": "CHECHONGCHIN@UM.EDU.MY",
-      "Primary field": "00015243",
-      "Code": "00015243",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-TA",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
@@ -83305,23 +83305,6 @@
       "Faculty": "G",
       "Department": "G-8C",
       "Job Title": "FELO PENYELIDIK PRINSIPAL",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13593,
-    "details": {
-      "Full Name": "AMIRA MAS AYU BINTI AMIR MUSTAFA",
-      "E-mail": "AMIRAMASAYU@UM.EDU.MY",
-      "Primary field": "00015660",
-      "Code": "00015660",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "B",
-      "Department": "B-Z",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
       "Job Category": "A"
     }
   },
