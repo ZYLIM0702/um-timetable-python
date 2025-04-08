@@ -41020,6 +41020,23 @@
     }
   },
   {
+    "id": 11031,
+    "details": {
+      "Full Name": "CHE CHONG CHIN",
+      "E-mail": "CHECHONGCHIN@UM.EDU.MY",
+      "Primary field": "00015243",
+      "Code": "00015243",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-TA",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11032,
     "details": {
       "Full Name": "MUHAMAD FAIZAL BIN ABD AZIZ",
@@ -83305,6 +83322,23 @@
       "Faculty": "G",
       "Department": "G-8C",
       "Job Title": "FELO PENYELIDIK PRINSIPAL",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13593,
+    "details": {
+      "Full Name": "AMIRA MAS AYU BINTI AMIR MUSTAFA",
+      "E-mail": "AMIRAMASAYU@UM.EDU.MY",
+      "Primary field": "00015660",
+      "Code": "00015660",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-Z",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
       "Job Category": "A"
     }
   },
