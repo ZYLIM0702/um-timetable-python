@@ -11350,6 +11350,23 @@
     }
   },
   {
+    "id": 9288,
+    "details": {
+      "Full Name": "SYAHRUL FITHRI MUSA",
+      "E-mail": "SHAPUTRA_78@HOTMAIL.COM",
+      "Primary field": "780820016623",
+      "Code": "780820016623",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "R",
+      "Department": "R-R",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9289,
     "details": {
       "Full Name": "RISHYA A/L MANIKAM",
@@ -62429,23 +62446,6 @@
       "Department": "W-R",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
-    }
-  },
-  {
-    "id": 12290,
-    "details": {
-      "Full Name": "DAYANG MURNI BINTI ABDUL GHAFAR",
-      "E-mail": "DAYANG@UM.EDU.MY",
-      "Primary field": "00007483",
-      "Code": "00007483",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-I",
-      "Job Title": "SETIAUSAHA PEJABAT",
-      "Job Category": "N"
     }
   },
   {
