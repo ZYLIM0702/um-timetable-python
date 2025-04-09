@@ -4847,23 +4847,6 @@
     }
   },
   {
-    "id": 8907,
-    "details": {
-      "Full Name": "MARZUDI MD YUNUS",
-      "E-mail": "MARZUDI@UM.EDU.MY",
-      "Primary field": "00014471",
-      "Code": "00014471",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "J",
-      "Department": "J-C",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8908,
     "details": {
       "Full Name": "LAM CHEE SOON",
@@ -80352,21 +80335,6 @@
       "Location": "UMKL",
       "Faculty": "P",
       "Department": "P-A",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13413,
-    "details": {
-      "Full Name": "THALWATHTHE GEDARA NADEEKA SHAYAMALIE GUNARATHNE",
-      "E-mail": "nadeekatgns@gmail.com",
-      "Primary field": "00016179",
-      "Code": "00016179",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-TA",
       "Job Category": "A"
     }
   },
