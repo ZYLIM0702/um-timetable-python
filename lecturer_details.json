@@ -65772,6 +65772,23 @@
     }
   },
   {
+    "id": 12494,
+    "details": {
+      "Full Name": "MUHAMMAD HAFIZH BIN SHAFIE PATT",
+      "E-mail": "HAFIZHPATT@UM.EDU.MY",
+      "Primary field": "00016319",
+      "Code": "00016319",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-7I-A",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
+    }
+  },
+  {
     "id": 12495,
     "details": {
       "Full Name": "ARNI NURFATIN BINTI ARPA",
@@ -70389,6 +70406,22 @@
       "Location": "UMKL",
       "Faculty": "A",
       "Department": "A-L",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12790,
+    "details": {
+      "Full Name": "MOHAMAD HISYAM BIN ISMAIL",
+      "E-mail": "HISYAM_ISMAIL@UM.EDU.MY",
+      "Primary field": "870111026123",
+      "Code": "870111026123",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-M",
       "Job Category": "A"
     }
   },
