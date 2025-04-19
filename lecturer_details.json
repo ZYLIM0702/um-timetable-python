@@ -1249,6 +1249,23 @@
     }
   },
   {
+    "id": 8696,
+    "details": {
+      "Full Name": "NOR HASNIAH BINTI KASIM",
+      "E-mail": "NORHASNIAH@UM.EDU.MY",
+      "Primary field": "00007604",
+      "Code": "00007604",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA04",
+      "Job Title": "PENSYARAH",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8697,
     "details": {
       "Full Name": "NUR AISHAH BINTI MOHD TAIB",
@@ -2623,23 +2640,6 @@
       "Location": "UMKL",
       "Faculty": "B",
       "Department": "B-A",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 8778,
-    "details": {
-      "Full Name": "JAMALUDIN BIN MOHAMAD",
-      "E-mail": "JAMAL@UM.EDU.MY",
-      "Primary field": "00004322",
-      "Code": "00004322",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-H",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
@@ -13823,23 +13823,6 @@
     }
   },
   {
-    "id": 9434,
-    "details": {
-      "Full Name": "CHOOI KHENG CHIEW",
-      "E-mail": "KC_CHOOI@UM.EDU.MY",
-      "Primary field": "00014023",
-      "Code": "00014023",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PENSYARAH PERUBATAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9435,
     "details": {
       "Full Name": "YEOH KOK KHENG",
@@ -15131,23 +15114,6 @@
       "Faculty": "M",
       "Department": "M-P",
       "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9511,
-    "details": {
-      "Full Name": "CHIU CHEE KIDD",
-      "E-mail": "CHEEKIDD@UM.EDU.MY",
-      "Primary field": "00013200",
-      "Code": "00013200",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-R",
-      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
