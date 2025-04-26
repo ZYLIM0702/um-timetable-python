@@ -9598,6 +9598,23 @@
     }
   },
   {
+    "id": 9185,
+    "details": {
+      "Full Name": "GEETHA A/P GOVINDASAMY",
+      "E-mail": "GEETHAG@UM.EDU.MY",
+      "Primary field": "00004974",
+      "Code": "00004974",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-Y",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9186,
     "details": {
       "Full Name": "NOREEN BINTI JALINUS",
@@ -11872,6 +11889,23 @@
       "Faculty": "R",
       "Department": "R-D",
       "Job Title": "PENSYARAH",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9320,
+    "details": {
+      "Full Name": "NURUL HANIZA BINTI SAMSUDIN",
+      "E-mail": "HANIZA_85@UM.EDU.MY",
+      "Primary field": "00014404",
+      "Code": "00014404",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "J",
+      "Department": "J-B",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
