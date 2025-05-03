@@ -18615,23 +18615,6 @@
     }
   },
   {
-    "id": 9714,
-    "details": {
-      "Full Name": "FAIZATUL IZZA BINTI ROZALLI",
-      "E-mail": "IZZROZALLI@UM.EDU.MY",
-      "Primary field": "00012450",
-      "Code": "00012450",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-Y",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9715,
     "details": {
       "Full Name": "WAN SHARINA RAMLAH WAN AHMAD AMIN JAFFRI",
@@ -29507,23 +29490,6 @@
       "Faculty": "K",
       "Department": "K-K",
       "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10353,
-    "details": {
-      "Full Name": "MAZLIZA BINTI OTHMAN",
-      "E-mail": "MAZLIZA@UM.EDU.MY",
-      "Primary field": "00001309",
-      "Code": "00001309",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "W",
-      "Department": "W-R",
-      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
