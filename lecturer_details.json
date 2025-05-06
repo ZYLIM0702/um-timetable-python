@@ -10468,6 +10468,24 @@
     }
   },
   {
+    "id": 9202,
+    "details": {
+      "Full Name": "BEDJ BEDJ TOUFIK",
+      "E-mail": "TOUFIK@UM.EDU.MY",
+      "Primary field": "00012110",
+      "Secondary field": "BEDJ BEDJ TOUFIK",
+      "Code": "00012110",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-I",
+      "Job Title": "PENSYARAH",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9203,
     "details": {
       "Full Name": "MOHD HAILME ABDUL WAHAB",
@@ -57420,6 +57438,24 @@
       "Faculty": "AA",
       "Department": "AA08",
       "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 11807,
+    "details": {
+      "Full Name": "NURFADHILLAH BINTI AMIR HAMZAH",
+      "E-mail": "FADHILLAH@UM.EDU.MY",
+      "Primary field": "00010240",
+      "Secondary field": "NURFADHILLAH BINTI AMIR HAMZAH",
+      "Code": "00010240",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-7I",
+      "Job Title": "PENOLONG PEGAWAI TEKNOLOGI MAKLUMAT",
       "Job Category": "N"
     }
   },
