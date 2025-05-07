@@ -40730,6 +40730,24 @@
     }
   },
   {
+    "id": 10881,
+    "details": {
+      "Full Name": "MOHD AIZAT BIN MOHD ZAIN",
+      "E-mail": "AIZAT03@UM.EDU.MY",
+      "Primary field": "00015203",
+      "Secondary field": "MOHD AIZAT BIN MOHD ZAIN",
+      "Code": "00015203",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-Z",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10882,
     "details": {
       "Full Name": "MOHD RIDWAN BIN ABDUL WAHID",
