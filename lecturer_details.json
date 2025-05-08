@@ -14526,24 +14526,6 @@
     }
   },
   {
-    "id": 9427,
-    "details": {
-      "Full Name": "MUHAMAD ALIHANAFIAH BIN NORASID",
-      "E-mail": "IMTIAZ_ALHUFFAZ@UM.EDU.MY",
-      "Primary field": "00011857",
-      "Secondary field": "MUHAMAD ALIHANAFIAH BIN NORASID",
-      "Code": "00011857",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-Q",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9428,
     "details": {
       "Full Name": "NISWA @ NORALINA ABDULLAH",
@@ -53107,25 +53089,6 @@
       "Faculty": "M",
       "Department": "M-X",
       "Job Title": "PROFESOR MADYA",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "DEAN"
-    }
-  },
-  {
-    "id": 11567,
-    "details": {
-      "Full Name": "HARITH BIN AHMAD",
-      "E-mail": "HARITH@UM.EDU.MY",
-      "Primary field": "00000367",
-      "Secondary field": "HARITH BIN AHMAD",
-      "Code": "00000367",
-      "In Use? (Y/N)": "Y",
-      "Title": "DATUK PROF. ULUNG DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-M",
-      "Job Title": "PROFESOR ULUNG",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "DEAN"
     }
