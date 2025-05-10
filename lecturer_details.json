@@ -12537,6 +12537,24 @@
     }
   },
   {
+    "id": 9317,
+    "details": {
+      "Full Name": "JULIANA BINTI USMAN",
+      "E-mail": "JULIANA_78@UM.EDU.MY",
+      "Primary field": "00006448",
+      "Secondary field": "JULIANA BINTI USMAN",
+      "Code": "00006448",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-U",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9318,
     "details": {
       "Full Name": "MUZAED BIN RAHBINI",
@@ -15154,6 +15172,24 @@
       "Location": "UMKL",
       "Faculty": "G",
       "Department": "G-8N",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9463,
+    "details": {
+      "Full Name": "YI-LI CHANG",
+      "E-mail": "YILICHANG@UM.EDU.MY",
+      "Primary field": "00014729",
+      "Secondary field": "YI-LI CHANG",
+      "Code": "00014729",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "R",
+      "Department": "R-M",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
