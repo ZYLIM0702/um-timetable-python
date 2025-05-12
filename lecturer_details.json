@@ -36170,6 +36170,24 @@
     }
   },
   {
+    "id": 10627,
+    "details": {
+      "Full Name": "SOONG MING FOONG",
+      "E-mail": "MFSOONG@UM.EDU.MY",
+      "Primary field": "00012099",
+      "Secondary field": "SOONG MING FOONG",
+      "Code": "00012099",
+      "In Use? (Y/N)": "Y",
+      "Title": "TS. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-B",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10628,
     "details": {
       "Full Name": "CHOW CHEE ONN",
