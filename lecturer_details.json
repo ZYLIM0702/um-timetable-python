@@ -3378,6 +3378,24 @@
     }
   },
   {
+    "id": 8810,
+    "details": {
+      "Full Name": "SAAD MEKHILEF",
+      "E-mail": "SAAD@UM.EDU.MY",
+      "Primary field": "00005361",
+      "Secondary field": "SAAD MEKHILEF",
+      "Code": "00005361",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-E",
+      "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8811,
     "details": {
       "Full Name": "MUKHTAR FATIHU HAMZA",
