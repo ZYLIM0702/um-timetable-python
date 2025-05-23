@@ -31707,6 +31707,25 @@
     }
   },
   {
+    "id": 10379,
+    "details": {
+      "Full Name": "YAM KAH KEAN",
+      "E-mail": "YAMKK@UM.EDU.MY",
+      "Primary field": "00009566",
+      "Secondary field": "YAM KAH KEAN",
+      "Code": "00009566",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-A",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
+    }
+  },
+  {
     "id": 10380,
     "details": {
       "Full Name": "WONG KAH HUI",
@@ -72616,6 +72635,24 @@
       "Faculty": "M",
       "Department": "M-F",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12679,
+    "details": {
+      "Full Name": "KIM JUNGA",
+      "E-mail": "KIM_JUNGA@UM.EDU.MY",
+      "Primary field": "00015833",
+      "Secondary field": "KIM JUNGA",
+      "Code": "00015833",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-B",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
