@@ -5024,24 +5024,6 @@
     }
   },
   {
-    "id": 8901,
-    "details": {
-      "Full Name": "CHUAH JOON HUANG",
-      "E-mail": "JHCHUAH@UM.EDU.MY",
-      "Primary field": "00010331",
-      "Secondary field": "CHUAH JOON HUANG",
-      "Code": "00010331",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. IR. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-E",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8902,
     "details": {
       "Full Name": "NUR'AIN BINTI SALEHEN",
@@ -7283,24 +7265,6 @@
       "Faculty": "B",
       "Department": "B-Q",
       "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9026,
-    "details": {
-      "Full Name": "NORSIAH BINTI RAHMAT",
-      "E-mail": "NORSIAHR@UM.EDU.MY",
-      "Primary field": "00009271",
-      "Secondary field": "NORSIAH BINTI RAHMAT",
-      "Code": "00009271",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-TA",
-      "Job Title": "PENSYARAH",
       "Job Category": "A"
     }
   },
@@ -74155,23 +74119,6 @@
       "Location": "UMKL",
       "Faculty": "AA",
       "Department": "AA03",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12767,
-    "details": {
-      "Full Name": "NOR AZIZAH BINTI RAMLI",
-      "E-mail": "NOR_AZIZAH85@YAHOO.COM",
-      "Primary field": "850310086534",
-      "Secondary field": "NOR AZIZAH BINTI RAMLI",
-      "Code": "850310086534",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-7E",
       "Job Category": "A"
     }
   },
