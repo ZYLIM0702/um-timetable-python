@@ -37822,6 +37822,24 @@
     }
   },
   {
+    "id": 10719,
+    "details": {
+      "Full Name": "FARAHANIZA BINTI SUPANDI",
+      "E-mail": "FARAHANIZA@UM.EDU.MY",
+      "Primary field": "00009009",
+      "Secondary field": "FARAHANIZA BINTI SUPANDI",
+      "Code": "00009009",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-H",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10720,
     "details": {
       "Full Name": "AZHAR BIN ARIFFIN",
@@ -37928,25 +37946,6 @@
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
-    "id": 10726,
-    "details": {
-      "Full Name": "SUHANA BINTI MOHD SAID",
-      "E-mail": "SMSAID@UM.EDU.MY",
-      "Primary field": "00005091",
-      "Secondary field": "SUHANA BINTI MOHD SAID",
-      "Code": "00005091",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR IR. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-E",
-      "Job Title": "PROFESOR",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "DEPUTY DEAN/DIRECTOR FOR UNDERGRADUATE"
     }
   },
   {
@@ -40888,24 +40887,6 @@
       "Faculty": "K",
       "Department": "K-U",
       "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10891,
-    "details": {
-      "Full Name": "MOHAZMI BIN MOHAMED",
-      "E-mail": "MOHAZMI@UM.EDU.MY",
-      "Primary field": "00000969",
-      "Secondary field": "MOHAZMI BIN MOHAMED",
-      "Code": "00000969",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-M",
-      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
   },
