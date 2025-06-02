@@ -2928,24 +2928,6 @@
     }
   },
   {
-    "id": 8785,
-    "details": {
-      "Full Name": "ELANTTAMIL A/L MARUTHAI",
-      "E-mail": "ELANTTAMIL@UM.EDU.MY",
-      "Primary field": "00013819",
-      "Secondary field": "ELANTTAMIL A/L MARUTHAI",
-      "Code": "00013819",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-D",
-      "Job Title": "PENSYARAH",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8786,
     "details": {
       "Full Name": "HAZLEE AZIL BIN ILLIAS",
@@ -43357,24 +43339,6 @@
     }
   },
   {
-    "id": 11027,
-    "details": {
-      "Full Name": "NORSHUHANA BINTI MOHD NOOR",
-      "E-mail": "SHUHANANOOR@UM.EDU.MY",
-      "Primary field": "00015221",
-      "Secondary field": "NORSHUHANA BINTI MOHD NOOR",
-      "Code": "00015221",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-7C",
-      "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11028,
     "details": {
       "Full Name": "OMAR AYAD FADHIL AL-ZUHAIRI",
@@ -80658,24 +80622,6 @@
       "Department": "P-P",
       "Job Title": "PENSYARAH",
       "Job Category": "A"
-    }
-  },
-  {
-    "id": 13156,
-    "details": {
-      "Full Name": "NUR AWATIF BINTI RUSLAN",
-      "E-mail": "AWATIF2@UM.EDU.MY",
-      "Primary field": "00015137",
-      "Secondary field": "NUR AWATIF BINTI RUSLAN",
-      "Code": "00015137",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "W",
-      "Department": "W-X",
-      "Job Title": "PENOLONG PENDAFTAR",
-      "Job Category": "E"
     }
   },
   {
