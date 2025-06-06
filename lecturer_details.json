@@ -3830,6 +3830,24 @@
     }
   },
   {
+    "id": 8835,
+    "details": {
+      "Full Name": "ARCHINA A/P BUTHIYAPPAN",
+      "E-mail": "ARCHINA@UM.EDU.MY",
+      "Primary field": "00014594",
+      "Secondary field": "ARCHINA A/P BUTHIYAPPAN",
+      "Code": "00014594",
+      "In Use? (Y/N)": "Y",
+      "Title": "CHM. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-K",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8836,
     "details": {
       "Full Name": "AHMAD ZAKI BIN MOHAMAD AMIN",
@@ -42042,6 +42060,24 @@
     }
   },
   {
+    "id": 10955,
+    "details": {
+      "Full Name": "WAN ZOKHRI BIN WAN IDRIS",
+      "E-mail": "ZOKHRI.IDRIS@UM.EDU.MY",
+      "Primary field": "830503015419",
+      "Secondary field": "WAN ZOKHRI BIN WAN IDRIS",
+      "Code": "830503015419",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10956,
     "details": {
       "Full Name": "MOHD HAFEEZ BIN ZAINOL",
@@ -71632,24 +71668,6 @@
       "Faculty": "M",
       "Department": "M-RM",
       "Job Category": "N"
-    }
-  },
-  {
-    "id": 12621,
-    "details": {
-      "Full Name": "ZURAINEE BINTI MOHAMED NOR",
-      "E-mail": "ZURAINEEMN@UM.EDU.MY",
-      "Primary field": "00000675",
-      "Secondary field": "ZURAINEE BINTI MOHAMED NOR",
-      "Code": "00000675",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-J",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
     }
   },
   {
