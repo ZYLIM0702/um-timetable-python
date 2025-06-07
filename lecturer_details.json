@@ -3054,6 +3054,24 @@
     }
   },
   {
+    "id": 8792,
+    "details": {
+      "Full Name": "TAN TIAN CHYE",
+      "E-mail": "TANTIANCHYE@UM.EDU.MY",
+      "Primary field": "00006949",
+      "Secondary field": "TAN TIAN CHYE",
+      "Code": "00006949",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-J",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8793,
     "details": {
       "Full Name": "MUHAMMAD HAMEEDULLAH BIN MD ASRI",
@@ -13709,6 +13727,24 @@
       "Faculty": "I",
       "Department": "I-B",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9383,
+    "details": {
+      "Full Name": "NURUL NAZIFAH BINTI DATO' HAJI MAT NOH",
+      "E-mail": "NURULNAZIFAH@UM.EDU.MY",
+      "Primary field": "00014042",
+      "Secondary field": "NURUL NAZIFAH BINTI DATO' HAJI MAT NOH",
+      "Code": "00014042",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
