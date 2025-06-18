@@ -5331,6 +5331,24 @@
     }
   },
   {
+    "id": 8918,
+    "details": {
+      "Full Name": "NURUL HUDA BINTI HAMZAH",
+      "E-mail": "NURUL.HUDA.HAMZAH@UM.EDU.MY",
+      "Primary field": "00014860",
+      "Secondary field": "NURUL HUDA BINTI HAMZAH",
+      "Code": "00014860",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-C",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8919,
     "details": {
       "Full Name": "MOHD ZAID BIN MD SHARIF",
@@ -17596,24 +17614,6 @@
     }
   },
   {
-    "id": 9598,
-    "details": {
-      "Full Name": "TENGKU AIN FATHLUN BINTI TENGKU KAMALDEN",
-      "E-mail": "TAFTKAMALDEN@UM.EDU.MY",
-      "Primary field": "00006750",
-      "Secondary field": "TENGKU AIN FATHLUN BINTI TENGKU KAMALDEN",
-      "Code": "00006750",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-H",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9599,
     "details": {
       "Full Name": "VIJAYAN A/L N.KRISHNAN",
@@ -23654,24 +23654,6 @@
       "Location": "UMKL",
       "Faculty": "I",
       "Department": "I-P",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9934,
-    "details": {
-      "Full Name": "ABDUL QAYYUM BIN M SUHAIMI",
-      "E-mail": "QAYYUM@UM.EDU.MY",
-      "Primary field": "880803105091",
-      "Secondary field": "ABDUL QAYYUM BIN M SUHAIMI",
-      "Code": "880803105091",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-S",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
