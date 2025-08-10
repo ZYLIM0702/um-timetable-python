@@ -17614,6 +17614,24 @@
     }
   },
   {
+    "id": 9598,
+    "details": {
+      "Full Name": "TENGKU AIN FATHLUN BINTI TENGKU KAMALDEN",
+      "E-mail": "TAFTKAMALDEN@UM.EDU.MY",
+      "Primary field": "00006750",
+      "Secondary field": "TENGKU AIN FATHLUN BINTI TENGKU KAMALDEN",
+      "Code": "00006750",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-H",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9599,
     "details": {
       "Full Name": "VIJAYAN A/L N.KRISHNAN",
@@ -23654,6 +23672,24 @@
       "Location": "UMKL",
       "Faculty": "I",
       "Department": "I-P",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9934,
+    "details": {
+      "Full Name": "ABDUL QAYYUM BIN M SUHAIMI",
+      "E-mail": "QAYYUM@UM.EDU.MY",
+      "Primary field": "880803105091",
+      "Secondary field": "ABDUL QAYYUM BIN M SUHAIMI",
+      "Code": "880803105091",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-S",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -43395,11 +43431,11 @@
   {
     "id": 11031,
     "details": {
-      "Full Name": "CHE CHONG CHIN",
-      "E-mail": "CHECHONGCHIN@UM.EDU.MY",
-      "Primary field": "00015243",
-      "Secondary field": "CHE CHONG CHIN",
-      "Code": "00015243",
+      "Full Name": "TAN WOEI LING",
+      "E-mail": "TANWOEILING@UM.EDU.MY",
+      "Primary field": "00017086",
+      "Secondary field": "TAN WOEI LING",
+      "Code": "00017086",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
       "Gender": "FEMALE",
@@ -51040,18 +51076,18 @@
   {
     "id": 11454,
     "details": {
-      "Full Name": "A. SASEKUMAR",
-      "E-mail": "SASEKUMAR@UM.EDU.MY",
-      "Primary field": "00000001",
-      "Secondary field": "A. SASEKUMAR",
-      "Code": "00000001",
+      "Full Name": "SERAFETTIN YILMAZ",
+      "E-mail": "YILMAZ@UM.EDU.MY",
+      "Primary field": "00017114",
+      "Secondary field": "SERAFETTIN YILMAZ",
+      "Code": "00017114",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
       "Gender": "MALE",
       "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8U",
-      "Job Title": "PENYELIDIK BERSEKUTU",
+      "Faculty": "Q",
+      "Department": "Q-Q1",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -86632,10 +86668,10 @@
   {
     "id": 13501,
     "details": {
-      "Full Name": "NURSYAFIEQA \u2018IFWAT BINTI MOHMOD ROFIK",
+      "Full Name": "NURSYAFIEQA ‘IFWAT BINTI MOHMOD ROFIK",
       "E-mail": "SYAFIEQAIFWAT@GMAIL.COM",
       "Primary field": "951007055076",
-      "Secondary field": "NURSYAFIEQA \u2018IFWAT BINTI MOHMOD ROFIK",
+      "Secondary field": "NURSYAFIEQA ‘IFWAT BINTI MOHMOD ROFIK",
       "Code": "951007055076",
       "In Use? (Y/N)": "Y",
       "Title": "MISS",
