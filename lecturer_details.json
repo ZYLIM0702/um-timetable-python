@@ -861,6 +861,23 @@
     }
   },
   {
+    "id": 8669,
+    "details": {
+      "Full Name": "WONG SOOK KWUN",
+      "E-mail": "WONGSOOKKWUN@UM.EDU.MY",
+      "Primary field": "631106055546",
+      "Secondary field": "WONG SOOK KWUN",
+      "Code": "631106055546",
+      "In Use? (Y/N)": "Y",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-E",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8670,
     "details": {
       "Full Name": "FAIRUS AINI BINTI PAIRAN",
@@ -20063,6 +20080,24 @@
       "Faculty": "V",
       "Department": "V-X",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9735,
+    "details": {
+      "Full Name": "KHAIRUL BARIAH BINTI ABD LATIF AZMI",
+      "E-mail": "KHAIRUL_BARIAH@UM.EDU.MY",
+      "Primary field": "00009284",
+      "Secondary field": "KHAIRUL BARIAH BINTI ABD LATIF AZMI",
+      "Code": "00009284",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-AJ",
+      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
@@ -59060,24 +59095,6 @@
       "Faculty": "I",
       "Department": "I-B",
       "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11899,
-    "details": {
-      "Full Name": "MIYAIRI EIKO",
-      "E-mail": "MIYAIRI.EIKO@UM.EDU.MY",
-      "Primary field": "00015372",
-      "Secondary field": "MIYAIRI EIKO",
-      "Code": "00015372",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "F",
-      "Department": "F-AJ",
-      "Job Title": "GURU BAHASA JEPUN",
       "Job Category": "A"
     }
   },
