@@ -48085,6 +48085,24 @@
     }
   },
   {
+    "id": 11289,
+    "details": {
+      "Full Name": "WONG POOI FONG",
+      "E-mail": "WONGPF@UM.EDU.MY",
+      "Primary field": "00007435",
+      "Secondary field": "WONG POOI FONG",
+      "Code": "00007435",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-D",
+      "Job Title": "PROFESOR",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11290,
     "details": {
       "Full Name": "FARIDAH BINTI OTHMAN",
