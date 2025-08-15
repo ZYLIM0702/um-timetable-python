@@ -41019,24 +41019,6 @@
     }
   },
   {
-    "id": 10897,
-    "details": {
-      "Full Name": "AFFENDI BIN YANG AMRI",
-      "E-mail": "AFFENDI@UM.EDU.MY",
-      "Primary field": "700923105853",
-      "Secondary field": "AFFENDI BIN YANG AMRI",
-      "Code": "700923105853",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-H",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10898,
     "details": {
       "Full Name": "KANNAKI A/P VAITHLINGAM",
@@ -82806,23 +82788,6 @@
       "Code": "720206045008",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "B",
-      "Department": "B-Q",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13282,
-    "details": {
-      "Full Name": "LAU WIN YEI",
-      "E-mail": "WNY.LAU1@GMAIL.COM",
-      "Primary field": "960307085116",
-      "Secondary field": "LAU WIN YEI",
-      "Code": "960307085116",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "B",
