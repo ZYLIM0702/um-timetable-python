@@ -5458,6 +5458,24 @@
     }
   },
   {
+    "id": 8925,
+    "details": {
+      "Full Name": "FAIZURI BIN ABD. LATIF",
+      "E-mail": "FA72@UM.EDU.MY",
+      "Primary field": "00007557",
+      "Secondary field": "FAIZURI BIN ABD. LATIF",
+      "Code": "00007557",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-A",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8926,
     "details": {
       "Full Name": "THILAGAVATHI A/P SHANMUGANATHAN",
@@ -7591,6 +7609,24 @@
       "Location": "UMKL",
       "Faculty": "F",
       "Department": "F05",
+      "Job Title": "PEGAWAI PERKHIDMATAN PENDIDIKAN",
+      "Job Category": "EA"
+    }
+  },
+  {
+    "id": 9044,
+    "details": {
+      "Full Name": "MOHD YAHYA BIN AHMAD",
+      "E-mail": "MOYA@UM.EDU.MY",
+      "Primary field": "00012527",
+      "Secondary field": "MOHD YAHYA BIN AHMAD",
+      "Code": "00012527",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F04",
       "Job Title": "PEGAWAI PERKHIDMATAN PENDIDIKAN",
       "Job Category": "EA"
     }
