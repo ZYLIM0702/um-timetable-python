@@ -16457,24 +16457,6 @@
     }
   },
   {
-    "id": 9534,
-    "details": {
-      "Full Name": "SURAYA BINTI HAMID",
-      "E-mail": "SURAYA_HAMID@UM.EDU.MY",
-      "Primary field": "00007217",
-      "Secondary field": "SURAYA BINTI HAMID",
-      "Code": "00007217",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "W",
-      "Department": "W-M",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9535,
     "details": {
       "Full Name": "MARIA ANGELA GARCIA GONZALEZ",
@@ -16940,24 +16922,6 @@
       "Faculty": "S",
       "Department": "S-C",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9561,
-    "details": {
-      "Full Name": "HO GWO FUANG",
-      "E-mail": "GWOHO@UM.EDU.MY",
-      "Primary field": "00009501",
-      "Secondary field": "HO GWO FUANG",
-      "Code": "00009501",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-X",
-      "Job Title": "PROFESOR",
       "Job Category": "A"
     }
   },
