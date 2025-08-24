@@ -30176,6 +30176,25 @@
     }
   },
   {
+    "id": 10294,
+    "details": {
+      "Full Name": "SYAHRUL NIZAM BIN KAMARUZZAMAN",
+      "E-mail": "SYAHRULNIZAM@UM.EDU.MY",
+      "Primary field": "00009721",
+      "Secondary field": "SYAHRUL NIZAM BIN KAMARUZZAMAN",
+      "Code": "00009721",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-B",
+      "Job Title": "PROFESOR",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "DEPUTY DEAN/DIRECTOR FOR POSTGRADUATE"
+    }
+  },
+  {
     "id": 10295,
     "details": {
       "Full Name": "ONG SIEW HUI",
@@ -61977,6 +61996,24 @@
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
+    }
+  },
+  {
+    "id": 12060,
+    "details": {
+      "Full Name": "SULAIMAN B. MAHBOB",
+      "E-mail": "SULAIMANMAHBOB@UM.EDU.MY",
+      "Primary field": "480725015273",
+      "Secondary field": "SULAIMAN B. MAHBOB",
+      "Code": "480725015273",
+      "In Use? (Y/N)": "Y",
+      "Title": "TAN SRI",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA07",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
     }
   },
   {
