@@ -3848,6 +3848,24 @@
     }
   },
   {
+    "id": 8836,
+    "details": {
+      "Full Name": "AHMAD ZAKI BIN MOHAMAD AMIN",
+      "E-mail": "AZAKI@UM.EDU.MY",
+      "Primary field": "00014305",
+      "Secondary field": "AHMAD ZAKI BIN MOHAMAD AMIN",
+      "Code": "00014305",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F01",
+      "Job Title": "PEGAWAI PERKHIDMATAN PENDIDIKAN",
+      "Job Category": "EA"
+    }
+  },
+  {
     "id": 8837,
     "details": {
       "Full Name": "KHONG SU YEN",
@@ -5943,6 +5961,24 @@
       "Faculty": "S",
       "Department": "S-H",
       "Job Title": "FELO PENYELIDIK PRINSIPAL",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 8953,
+    "details": {
+      "Full Name": "NOR SHAFINA BINTI MOHAMED NAZARI",
+      "E-mail": "SHAFINA.MNAZARI@UM.EDU.MY",
+      "Primary field": "00013698",
+      "Secondary field": "NOR SHAFINA BINTI MOHAMED NAZARI",
+      "Code": "00013698",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "D",
+      "Department": "D-R",
+      "Job Title": "PENSYARAH PERGIGIAN",
       "Job Category": "A"
     }
   },
@@ -76932,6 +76968,24 @@
       "Department": "G-10A",
       "Job Title": "PENOLONG PENDAFTAR",
       "Job Category": "EA"
+    }
+  },
+  {
+    "id": 12941,
+    "details": {
+      "Full Name": "SYARIFAH MAISARAH BINTI SYED ALWI",
+      "E-mail": "SYMAISARAH.ALWI@UM.EDU.MY",
+      "Primary field": "840914145882",
+      "Secondary field": "SYARIFAH MAISARAH BINTI SYED ALWI",
+      "Code": "840914145882",
+      "In Use? (Y/N)": "N",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-P",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
     }
   },
   {
