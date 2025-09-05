@@ -7396,6 +7396,24 @@
     }
   },
   {
+    "id": 9032,
+    "details": {
+      "Full Name": "YAP SEONG LING",
+      "E-mail": "YAPSL@UM.EDU.MY",
+      "Primary field": "00002550",
+      "Secondary field": "YAP SEONG LING",
+      "Code": "00002550",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-M",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9033,
     "details": {
       "Full Name": "H.N.M EKRAMUL MAHMUD",
