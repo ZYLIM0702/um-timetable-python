@@ -8898,6 +8898,24 @@
     }
   },
   {
+    "id": 9115,
+    "details": {
+      "Full Name": "YUSNIZA BINTI AWANG AHMAD @ MUHAMED",
+      "E-mail": "YUSZ@UM.EDU.MY",
+      "Primary field": "00011938",
+      "Secondary field": "YUSNIZA BINTI AWANG AHMAD @ MUHAMED",
+      "Code": "00011938",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 9116,
     "details": {
       "Full Name": "MOHD NORHASWIRA BIN HASAN",
@@ -9129,6 +9147,24 @@
       "Faculty": "AA",
       "Department": "AA02",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9129,
+    "details": {
+      "Full Name": "SIM SONG LEN",
+      "E-mail": "ALLANSIM@UM.EDU.MY",
+      "Primary field": "770220016241",
+      "Secondary field": "SIM SONG LEN",
+      "Code": "770220016241",
+      "In Use? (Y/N)": "Y",
+      "Title": "SR",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-P",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
