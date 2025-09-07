@@ -30104,6 +30104,24 @@
     }
   },
   {
+    "id": 10290,
+    "details": {
+      "Full Name": "ONG ZHI CHAO",
+      "E-mail": "ALEXONGZC@UM.EDU.MY",
+      "Primary field": "00009509",
+      "Secondary field": "ONG ZHI CHAO",
+      "Code": "00009509",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. IR. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-B",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10291,
     "details": {
       "Full Name": "IHSAN BIN ZAINAL MOKHTAR",
