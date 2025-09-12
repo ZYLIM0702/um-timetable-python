@@ -4173,6 +4173,24 @@
     }
   },
   {
+    "id": 8854,
+    "details": {
+      "Full Name": "MOHD MUHIDEN BIN ABD RAHMAN",
+      "E-mail": "MUHIDEN@UM.EDU.MY",
+      "Primary field": "00002850",
+      "Secondary field": "MOHD MUHIDEN BIN ABD RAHMAN",
+      "Code": "00002850",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-Q",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8855,
     "details": {
       "Full Name": "CHIN AI-VYRN",
@@ -33363,24 +33381,6 @@
       "Faculty": "S",
       "Department": "S-F",
       "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10472,
-    "details": {
-      "Full Name": "NORITOSHI KUDO",
-      "E-mail": "NORITOSHI4755@UM.EDU.MY",
-      "Primary field": "00014991",
-      "Secondary field": "NORITOSHI KUDO",
-      "Code": "00014991",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "F",
-      "Department": "F-AJ",
-      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
