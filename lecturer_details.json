@@ -33385,6 +33385,24 @@
     }
   },
   {
+    "id": 10472,
+    "details": {
+      "Full Name": "NORITOSHI KUDO",
+      "E-mail": "NORITOSHI4755@UM.EDU.MY",
+      "Primary field": "00014991",
+      "Secondary field": "NORITOSHI KUDO",
+      "Code": "00014991",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-AJ",
+      "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10473,
     "details": {
       "Full Name": "CHEE CHIN FEI",
@@ -63527,24 +63545,6 @@
       "Job Title": "PENOLONG PEGAWAI TADBIR",
       "Job Category": "N",
       "Position Held (e.g. Dean)": "N"
-    }
-  },
-  {
-    "id": 12147,
-    "details": {
-      "Full Name": "MARIA BINTI MOHD ISMAIL",
-      "E-mail": "MARIA.ISMAIL@UM.EDU.MY",
-      "Primary field": "00014380",
-      "Secondary field": "MARIA BINTI MOHD ISMAIL",
-      "Code": "00014380",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "AA",
-      "Department": "AA15",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
     }
   },
   {
