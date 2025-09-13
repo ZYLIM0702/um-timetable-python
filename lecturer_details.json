@@ -12501,24 +12501,6 @@
     }
   },
   {
-    "id": 9315,
-    "details": {
-      "Full Name": "THOMAS GEORGE KALLARAKKAL",
-      "E-mail": "THOMASG22@UM.EDU.MY",
-      "Primary field": "00010775",
-      "Secondary field": "THOMAS GEORGE KALLARAKKAL",
-      "Code": "00010775",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-M",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9316,
     "details": {
       "Full Name": "MAZNI BINTI ABDULLAH",
@@ -12731,24 +12713,6 @@
       "Faculty": "S",
       "Department": "S-C",
       "Job Title": "FELO PENYELIDIK",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9328,
-    "details": {
-      "Full Name": "ADIBI RAHIMAN BIN MD NOR",
-      "E-mail": "ADIBI@UM.EDU.MY",
-      "Primary field": "00014850",
-      "Secondary field": "ADIBI RAHIMAN BIN MD NOR",
-      "Code": "00014850",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "H",
-      "Department": "H-X",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
