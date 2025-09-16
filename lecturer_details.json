@@ -40267,6 +40267,24 @@
     }
   },
   {
+    "id": 10855,
+    "details": {
+      "Full Name": "AFFENDI BIN YANG AMRI",
+      "E-mail": "AFFENDI@UM.EDU.MY",
+      "Primary field": "00004263",
+      "Secondary field": "AFFENDI BIN YANG AMRI",
+      "Code": "00004263",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "H",
+      "Department": "H-X",
+      "Job Title": "PEGAWAI PENYELIDIK",
+      "Job Category": "E"
+    }
+  },
+  {
     "id": 10856,
     "details": {
       "Full Name": "RUBIYATUL ADAWIYAH BINTI MUBARAK",
@@ -67224,6 +67242,24 @@
       "Faculty": "O",
       "Department": "O-P",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12356,
+    "details": {
+      "Full Name": "NORHANIZA BINTI SUPA'AT",
+      "E-mail": "NIZA80@UM.EDU.MY",
+      "Primary field": "00008627",
+      "Secondary field": "NORHANIZA BINTI SUPA'AT",
+      "Code": "00008627",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-R",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
     }
   },
   {
