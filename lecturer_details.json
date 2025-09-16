@@ -24529,6 +24529,24 @@
     }
   },
   {
+    "id": 9981,
+    "details": {
+      "Full Name": "TAN TIONG KAI",
+      "E-mail": "TANTK@UM.EDU.MY",
+      "Primary field": "00014654",
+      "Secondary field": "TAN TIONG KAI",
+      "Code": "00014654",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-J",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9982,
     "details": {
       "Full Name": "SAROJA A/P DHANAPAL",
@@ -40246,24 +40264,6 @@
       "Department": "A-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
-    }
-  },
-  {
-    "id": 10855,
-    "details": {
-      "Full Name": "AFFENDI BIN YANG AMRI",
-      "E-mail": "AFFENDI@UM.EDU.MY",
-      "Primary field": "00004263",
-      "Secondary field": "AFFENDI BIN YANG AMRI",
-      "Code": "00004263",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "H",
-      "Department": "H-X",
-      "Job Title": "PEGAWAI PENYELIDIK",
-      "Job Category": "E"
     }
   },
   {
@@ -67227,24 +67227,6 @@
     }
   },
   {
-    "id": 12356,
-    "details": {
-      "Full Name": "NORHANIZA BINTI SUPA'AT",
-      "E-mail": "NIZA80@UM.EDU.MY",
-      "Primary field": "00008627",
-      "Secondary field": "NORHANIZA BINTI SUPA'AT",
-      "Code": "00008627",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-R",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 12357,
     "details": {
       "Full Name": "MAIMUNAH BINTI SAHAK",
@@ -73539,6 +73521,22 @@
       "Job Title": "PROFESOR",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "DEAN"
+    }
+  },
+  {
+    "id": 12731,
+    "details": {
+      "Full Name": "SUHANA BINTI MOHD GHANI",
+      "E-mail": "suhanaghani0@gmail.com",
+      "Primary field": "00016196",
+      "Secondary field": "SUHANA BINTI MOHD GHANI",
+      "Code": "00016196",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Location": "UMKL",
+      "Faculty": "W",
+      "Department": "W-X",
+      "Job Category": "N"
     }
   },
   {
