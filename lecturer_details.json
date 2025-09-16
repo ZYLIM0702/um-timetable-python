@@ -24529,24 +24529,6 @@
     }
   },
   {
-    "id": 9981,
-    "details": {
-      "Full Name": "TAN TIONG KAI",
-      "E-mail": "TANTK@UM.EDU.MY",
-      "Primary field": "00014654",
-      "Secondary field": "TAN TIONG KAI",
-      "Code": "00014654",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-J",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9982,
     "details": {
       "Full Name": "SAROJA A/P DHANAPAL",
@@ -73557,22 +73539,6 @@
       "Job Title": "PROFESOR",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "DEAN"
-    }
-  },
-  {
-    "id": 12731,
-    "details": {
-      "Full Name": "SUHANA BINTI MOHD GHANI",
-      "E-mail": "suhanaghani0@gmail.com",
-      "Primary field": "00016196",
-      "Secondary field": "SUHANA BINTI MOHD GHANI",
-      "Code": "00016196",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Location": "UMKL",
-      "Faculty": "W",
-      "Department": "W-X",
-      "Job Category": "N"
     }
   },
   {
