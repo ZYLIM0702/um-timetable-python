@@ -1215,24 +1215,6 @@
     }
   },
   {
-    "id": 8690,
-    "details": {
-      "Full Name": "KARTINI BINTI RAHMAT",
-      "E-mail": "KATT_XR2000@UM.EDU.MY",
-      "Primary field": "00007315",
-      "Secondary field": "KARTINI BINTI RAHMAT",
-      "Code": "00007315",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-Y",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8691,
     "details": {
       "Full Name": "IMRAN BIN ZAINAL ABIDIN",
@@ -1392,24 +1374,6 @@
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "A"
-    }
-  },
-  {
-    "id": 8700,
-    "details": {
-      "Full Name": "TAN CHOU YONG",
-      "E-mail": "CHOUYONG@UM.EDU.MY",
-      "Primary field": "00012457",
-      "Secondary field": "TAN CHOU YONG",
-      "Code": "00012457",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR IR. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-B",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
     }
   },
   {
