@@ -7414,6 +7414,24 @@
     }
   },
   {
+    "id": 9033,
+    "details": {
+      "Full Name": "H.N.M EKRAMUL MAHMUD",
+      "E-mail": "EKRAMUL@UM.EDU.MY",
+      "Primary field": "00011807",
+      "Secondary field": "H.N.M EKRAMUL MAHMUD",
+      "Code": "00011807",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-C",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9034,
     "details": {
       "Full Name": "LOOI WAI LING",
@@ -82189,6 +82207,23 @@
       "Faculty": "K",
       "Department": "K-A",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13248,
+    "details": {
+      "Full Name": "DWIGHT HEALD PERKINS",
+      "Primary field": "00015996",
+      "Secondary field": "DWIGHT HEALD PERKINS",
+      "Code": "00015996",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "Q",
+      "Department": "Q-Q1",
+      "Job Title": "PROFESOR KEHORMAT",
       "Job Category": "A"
     }
   },
