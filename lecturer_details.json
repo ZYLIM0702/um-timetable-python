@@ -808,24 +808,6 @@
     }
   },
   {
-    "id": 8666,
-    "details": {
-      "Full Name": "MOHAMMED ZAKI BIN ABD RAHMAN",
-      "E-mail": "MZAKI@UM.EDU.MY",
-      "Primary field": "00006335",
-      "Secondary field": "MOHAMMED ZAKI BIN ABD RAHMAN",
-      "Code": "00006335",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "U",
-      "Department": "U-X",
-      "Job Title": "PUSTAKAWAN KANAN",
-      "Job Category": "EA"
-    }
-  },
-  {
     "id": 8667,
     "details": {
       "Full Name": "MOHAMAD RIZAR BIN MOSBAH",
@@ -66427,24 +66409,6 @@
       "Faculty": "K",
       "Department": "K-A",
       "Job Category": "A"
-    }
-  },
-  {
-    "id": 12308,
-    "details": {
-      "Full Name": "SUHAILA NORA BINTI SULAIMAN",
-      "E-mail": "SUHAILANORA@UM.EDU.MY",
-      "Primary field": "00015985",
-      "Secondary field": "SUHAILA NORA BINTI SULAIMAN",
-      "Code": "00015985",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-N",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
     }
   },
   {
