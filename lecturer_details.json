@@ -50422,24 +50422,6 @@
     }
   },
   {
-    "id": 11418,
-    "details": {
-      "Full Name": "AZURA BINTI SENGAH",
-      "E-mail": "AZURA75@UM.EDU.MY",
-      "Primary field": "00008426",
-      "Secondary field": "AZURA BINTI SENGAH",
-      "Code": "00008426",
-      "In Use? (Y/N)": "Y",
-      "Title": "MRS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-X",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 11419,
     "details": {
       "Full Name": "ZAILANI @ ZARODAH BINTI MOHD NORDIN",
@@ -57511,24 +57493,6 @@
       "Department": "M-X",
       "Job Title": "PENOLONG PENDAFTAR",
       "Job Category": "E"
-    }
-  },
-  {
-    "id": 11811,
-    "details": {
-      "Full Name": "MOHD NASARIZAL BIN NAZARUDDIN",
-      "E-mail": "NASARIZAL@UM.EDU.MY",
-      "Primary field": "00013037",
-      "Secondary field": "MOHD NASARIZAL BIN NAZARUDDIN",
-      "Code": "00013037",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-11I",
-      "Job Title": "PENOLONG PENDAFTAR",
-      "Job Category": "EA"
     }
   },
   {
