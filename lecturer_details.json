@@ -3974,6 +3974,24 @@
     }
   },
   {
+    "id": 8843,
+    "details": {
+      "Full Name": "ANITA KUMARI BINTI ABDULLAH",
+      "E-mail": "ANITA_KUMARI@UM.EDU.MY",
+      "Primary field": "761108065268",
+      "Secondary field": "ANITA KUMARI BINTI ABDULLAH",
+      "Code": "761108065268",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "V",
+      "Department": "V-X",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8844,
     "details": {
       "Full Name": "ELIZA BINTI HAFIZ",
@@ -22823,6 +22841,24 @@
       "Faculty": "W",
       "Department": "W-R",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9888,
+    "details": {
+      "Full Name": "ROSSITA BINTI MOHAMAD YUNUS",
+      "E-mail": "ROSSITA@UM.EDU.MY",
+      "Primary field": "00005393",
+      "Secondary field": "ROSSITA BINTI MOHAMAD YUNUS",
+      "Code": "00005393",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-J",
+      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
