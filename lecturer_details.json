@@ -8952,6 +8952,24 @@
     }
   },
   {
+    "id": 9118,
+    "details": {
+      "Full Name": "HARTINI BINTI MOHAMED",
+      "E-mail": "HARTINI.MOHAMED@UM.EDU.MY",
+      "Primary field": "00013253",
+      "Secondary field": "HARTINI BINTI MOHAMED",
+      "Code": "00013253",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "O",
+      "Department": "O-X",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
+    }
+  },
+  {
     "id": 9119,
     "details": {
       "Full Name": "SITI FATIMAH BINTI MOHD YUSOF",
