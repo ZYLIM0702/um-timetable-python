@@ -90,6 +90,24 @@
     }
   },
   {
+    "id": 8626,
+    "details": {
+      "Full Name": "MAZNI BINTI MOHAMED ALI",
+      "E-mail": "MAZNI35@UM.EDU.MY",
+      "Primary field": "00000666",
+      "Secondary field": "MAZNI BINTI MOHAMED ALI",
+      "Code": "00000666",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-J",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 8627,
     "details": {
       "Full Name": "NORASIKIN BINTI CHE MAN",
@@ -18783,24 +18801,6 @@
       "Location": "UMKL",
       "Faculty": "M",
       "Department": "M-K",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9664,
-    "details": {
-      "Full Name": "AZIZAH BINTI MAINAL",
-      "E-mail": "AZIZAH_MAINAL@UM.EDU.MY",
-      "Primary field": "00005176",
-      "Secondary field": "AZIZAH BINTI MAINAL",
-      "Code": "00005176",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-C",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
