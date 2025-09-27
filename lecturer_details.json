@@ -8607,24 +8607,6 @@
     }
   },
   {
-    "id": 9099,
-    "details": {
-      "Full Name": "DIANA LEA BARANOVICH SHOUP",
-      "E-mail": "DR.DIANA@UM.EDU.MY",
-      "Primary field": "00009727",
-      "Secondary field": "DIANA LEA BARANOVICH SHOUP",
-      "Code": "00009727",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-P",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9100,
     "details": {
       "Full Name": "RAMESH A/L T. SUBRAMANIAM",
@@ -9328,24 +9310,6 @@
       "Faculty": "W",
       "Department": "W-K",
       "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9139,
-    "details": {
-      "Full Name": "MEHRAN SOOKHAKIAN",
-      "E-mail": "M.SOKHAKIAN@UM.EDU.MY",
-      "Primary field": "00014720",
-      "Secondary field": "MEHRAN SOOKHAKIAN",
-      "Code": "00014720",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-C",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -18801,6 +18765,24 @@
       "Location": "UMKL",
       "Faculty": "M",
       "Department": "M-K",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9664,
+    "details": {
+      "Full Name": "AZIZAH BINTI MAINAL",
+      "E-mail": "AZIZAH_MAINAL@UM.EDU.MY",
+      "Primary field": "00005176",
+      "Secondary field": "AZIZAH BINTI MAINAL",
+      "Code": "00005176",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-C",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
@@ -80217,24 +80199,6 @@
     }
   },
   {
-    "id": 13132,
-    "details": {
-      "Full Name": "WAN NOOR BAIZURA BINTI ABDUL MALEK",
-      "E-mail": "BAIZURA@UM.EDU.MY",
-      "Primary field": "00008475",
-      "Secondary field": "WAN NOOR BAIZURA BINTI ABDUL MALEK",
-      "Code": "00008475",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "R",
-      "Department": "R-R",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 13133,
     "details": {
       "Full Name": "AHMAD HILMI BIN MOHAMAD NOOR",
@@ -80603,24 +80567,6 @@
       "Location": "UMKL",
       "Faculty": "S",
       "Department": "S-J",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13154,
-    "details": {
-      "Full Name": "SITI ZURAIDA MAARUF",
-      "E-mail": "SITIZURAIDA@UM.EDU.MY",
-      "Primary field": "791002085460",
-      "Secondary field": "SITI ZURAIDA MAARUF",
-      "Code": "791002085460",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. TS. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-X",
-      "Job Title": "PENSYARAH SAMBILAN",
       "Job Category": "A"
     }
   },
