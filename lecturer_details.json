@@ -90,24 +90,6 @@
     }
   },
   {
-    "id": 8626,
-    "details": {
-      "Full Name": "MAZNI BINTI MOHAMED ALI",
-      "E-mail": "MAZNI35@UM.EDU.MY",
-      "Primary field": "00000666",
-      "Secondary field": "MAZNI BINTI MOHAMED ALI",
-      "Code": "00000666",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-J",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 8627,
     "details": {
       "Full Name": "NORASIKIN BINTI CHE MAN",
@@ -1753,6 +1735,24 @@
       "Faculty": "M",
       "Department": "M-H",
       "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 8720,
+    "details": {
+      "Full Name": "SITI SUZLIN BINTI SUPADI",
+      "E-mail": "SUZLIN@UM.EDU.MY",
+      "Primary field": "00006273",
+      "Secondary field": "SITI SUZLIN BINTI SUPADI",
+      "Code": "00006273",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-J",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
