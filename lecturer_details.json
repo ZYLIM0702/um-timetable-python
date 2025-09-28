@@ -13948,6 +13948,24 @@
     }
   },
   {
+    "id": 9395,
+    "details": {
+      "Full Name": "MOHD FADZIL FIRDZAUS BIN MOHD NOR",
+      "E-mail": "FADZIL.MNOR@UM.EDU.MY",
+      "Primary field": "00014711",
+      "Secondary field": "MOHD FADZIL FIRDZAUS BIN MOHD NOR",
+      "Code": "00014711",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8U",
+      "Job Title": "PENSYARAH",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9396,
     "details": {
       "Full Name": "NG KOK HAUR",
@@ -78370,6 +78388,24 @@
       "Location": "UMKL",
       "Faculty": "AA",
       "Department": "AA08",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 13025,
+    "details": {
+      "Full Name": "MUHAMMAD ADLAN BIN ADANAN",
+      "E-mail": "ADLAN@UM.EDU.MY",
+      "Primary field": "00015822",
+      "Secondary field": "MUHAMMAD ADLAN BIN ADANAN",
+      "Code": "00015822",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
     }
