@@ -88210,6 +88210,24 @@
     }
   },
   {
+    "id": 13591,
+    "details": {
+      "Full Name": "AMIRUL SYAFIQ BIN ABDUL JAAFAR",
+      "E-mail": "AMIRUL90@UM.EDU.MY",
+      "Primary field": "00015463",
+      "Secondary field": "AMIRUL SYAFIQ BIN ABDUL JAAFAR",
+      "Code": "00015463",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "Y",
+      "Department": "Y101",
+      "Job Title": "PENSYARAH",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 13592,
     "details": {
       "Full Name": "KAMARUZAMAN JUSOFF",
