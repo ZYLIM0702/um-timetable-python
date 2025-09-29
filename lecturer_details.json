@@ -10450,6 +10450,24 @@
     }
   },
   {
+    "id": 9201,
+    "details": {
+      "Full Name": "WONG NGAN LING",
+      "E-mail": "NLWONG@UM.EDU.MY",
+      "Primary field": "00009536",
+      "Secondary field": "WONG NGAN LING",
+      "Code": "00009536",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-B",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9202,
     "details": {
       "Full Name": "BEDJ BEDJ TOUFIK",
