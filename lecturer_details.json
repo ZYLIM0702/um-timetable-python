@@ -23459,24 +23459,6 @@
     }
   },
   {
-    "id": 9922,
-    "details": {
-      "Full Name": "LAU BENG FYE",
-      "E-mail": "BENGFYE@UM.EDU.MY",
-      "Primary field": "00011808",
-      "Secondary field": "LAU BENG FYE",
-      "Code": "00011808",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-H",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9923,
     "details": {
       "Full Name": "HAIRUL ANUAR BIN TAJUDDIN",
@@ -34496,24 +34478,6 @@
       "Location": "UMKL",
       "Faculty": "T",
       "Department": "T-D",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10534,
-    "details": {
-      "Full Name": "THALMALINGAM A/L M SUPPIAH",
-      "E-mail": "LINGAM51@UM.EDU.MY",
-      "Primary field": "511027105043",
-      "Secondary field": "THALMALINGAM A/L M SUPPIAH",
-      "Code": "511027105043",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "C",
-      "Department": "C-B",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -53562,24 +53526,6 @@
       "Faculty": "M",
       "Department": "M-Y",
       "Job Title": "PENSYARAH PERUBATAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11592,
-    "details": {
-      "Full Name": "NOR AISHAH BINTI ABDULLAH",
-      "E-mail": "AISHAH.ABDULLAH@UM.EDU.MY",
-      "Primary field": "00011633",
-      "Secondary field": "NOR AISHAH BINTI ABDULLAH",
-      "Code": "00011633",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-F",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -85323,24 +85269,6 @@
       "Location": "UMKL",
       "Faculty": "S",
       "Department": "S-C",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13426,
-    "details": {
-      "Full Name": "FUNG HON NGEN",
-      "E-mail": "KENNETHFUNG@UM.EDU.MY",
-      "Primary field": "00015696",
-      "Secondary field": "FUNG HON NGEN",
-      "Code": "00015696",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-F",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
