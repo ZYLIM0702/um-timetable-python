@@ -2389,6 +2389,24 @@
     }
   },
   {
+    "id": 8755,
+    "details": {
+      "Full Name": "INDRA  A/P  VYTHILINGAM",
+      "E-mail": "INDRAV@UM.EDU.MY",
+      "Primary field": "00012030",
+      "Secondary field": "INDRA  A/P  VYTHILINGAM",
+      "Code": "00012030",
+      "In Use? (Y/N)": "Y",
+      "Title": "DATIN PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-J",
+      "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8756,
     "details": {
       "Full Name": "MASRI BAHAROM",
@@ -6214,6 +6232,24 @@
       "Faculty": "G",
       "Department": "G-8U",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 8968,
+    "details": {
+      "Full Name": "MARZIDA BINTI MANSOR",
+      "E-mail": "MARZIDA@UM.EDU.MY",
+      "Primary field": "00000436",
+      "Secondary field": "MARZIDA BINTI MANSOR",
+      "Code": "00000436",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-B",
+      "Job Title": "PROFESOR",
       "Job Category": "A"
     }
   },
@@ -78274,6 +78310,24 @@
       "Primary field": "00007257",
       "Secondary field": "SITI ZUHAIRAH BINTI MOHD ZAID",
       "Code": "00007257",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-1A",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 13021,
+    "details": {
+      "Full Name": "NURZULIANA BINTI AZMAN",
+      "E-mail": "ZULIANA_AZMAN@UM.EDU.MY",
+      "Primary field": "00009227",
+      "Secondary field": "NURZULIANA BINTI AZMAN",
+      "Code": "00009227",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
       "Gender": "FEMALE",
