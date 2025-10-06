@@ -13006,6 +13006,24 @@
     }
   },
   {
+    "id": 9343,
+    "details": {
+      "Full Name": "MAHMOUD MOGHAVVEMI",
+      "E-mail": "MAHMOUD@UM.EDU.MY",
+      "Primary field": "00003221",
+      "Secondary field": "MAHMOUD MOGHAVVEMI",
+      "Code": "00003221",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-E",
+      "Job Title": "PROFESOR",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9344,
     "details": {
       "Full Name": "RAHIMI BIN MD SAAD",
