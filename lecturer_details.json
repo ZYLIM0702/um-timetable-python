@@ -6834,6 +6834,24 @@
     }
   },
   {
+    "id": 9001,
+    "details": {
+      "Full Name": "ROSILAWATI BINTI ZAINOL",
+      "E-mail": "ROSILAWATIZAI@UM.EDU.MY",
+      "Primary field": "00007619",
+      "Secondary field": "ROSILAWATI BINTI ZAINOL",
+      "Code": "00007619",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOC. PROF. GS. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-Z",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9002,
     "details": {
       "Full Name": "QUAH CHEE HEONG",
