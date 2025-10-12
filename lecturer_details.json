@@ -3920,6 +3920,24 @@
     }
   },
   {
+    "id": 8840,
+    "details": {
+      "Full Name": "HITHAYA JEEVAN A/L NARAYANASAMY",
+      "E-mail": "HITHAYAJEEVAN@UM.EDU.MY",
+      "Primary field": "521012025031",
+      "Secondary field": "HITHAYA JEEVAN A/L NARAYANASAMY",
+      "Code": "521012025031",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8841,
     "details": {
       "Full Name": "MARINEY BINTI MOHD YUSOFF",
@@ -8279,6 +8297,24 @@
       "Faculty": "W",
       "Department": "W-R",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9082,
+    "details": {
+      "Full Name": "ASRUL SANI BIN ABDUL RAZAK",
+      "E-mail": "ASRULSANI@UM.EDU.MY",
+      "Primary field": "00007470",
+      "Secondary field": "ASRUL SANI BIN ABDUL RAZAK",
+      "Code": "00007470",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-A",
+      "Job Title": "PENSYARAH",
       "Job Category": "A"
     }
   },
