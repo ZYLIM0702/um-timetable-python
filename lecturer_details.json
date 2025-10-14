@@ -5204,6 +5204,24 @@
     }
   },
   {
+    "id": 8911,
+    "details": {
+      "Full Name": "SABARIA BINTI HASSAN",
+      "E-mail": "SABARIAHASSAN@UM.EDU.MY",
+      "Primary field": "570825045380",
+      "Secondary field": "SABARIA BINTI HASSAN",
+      "Code": "570825045380",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. SR",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-Q",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8912,
     "details": {
       "Full Name": "YEAP LI LING",
@@ -8931,24 +8949,6 @@
       "Department": "G-7I-A",
       "Job Title": "PENOLONG PEGAWAI TADBIR",
       "Job Category": "N"
-    }
-  },
-  {
-    "id": 9118,
-    "details": {
-      "Full Name": "HARTINI BINTI MOHAMED",
-      "E-mail": "HARTINI.MOHAMED@UM.EDU.MY",
-      "Primary field": "00013253",
-      "Secondary field": "HARTINI BINTI MOHAMED",
-      "Code": "00013253",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "O",
-      "Department": "O-X",
-      "Job Title": "PENOLONG PENDAFTAR",
-      "Job Category": "E"
     }
   },
   {
@@ -45266,24 +45266,6 @@
       "Location": "UMKL",
       "Faculty": "I",
       "Department": "I-I",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
-    "id": 11134,
-    "details": {
-      "Full Name": "ZUBAIDAH BINTI OMAR",
-      "E-mail": "ZUMIS@UM.EDU.MY",
-      "Primary field": "00006888",
-      "Secondary field": "ZUBAIDAH BINTI OMAR",
-      "Code": "00006888",
-      "In Use? (Y/N)": "Y",
-      "Title": "MRS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-S",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
     }
