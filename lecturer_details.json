@@ -26406,6 +26406,24 @@
     }
   },
   {
+    "id": 10086,
+    "details": {
+      "Full Name": "MOHAMAD IMRAN BIN IDRIS",
+      "E-mail": "IMRANIDRIS@UM.EDU.MY",
+      "Primary field": "00014212",
+      "Secondary field": "MOHAMAD IMRAN BIN IDRIS",
+      "Code": "00014212",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-P",
+      "Job Title": "PENSYARAH PERUBATAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10087,
     "details": {
       "Full Name": "LOH SIEW YIM",
@@ -66691,6 +66709,24 @@
       "Faculty": "B",
       "Department": "B-Q",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12327,
+    "details": {
+      "Full Name": "MAS ZAIDATUL SYAZANA BINTI ABDUL KHALID",
+      "E-mail": "MASZAIDATUL@UM.EDU.MY",
+      "Primary field": "00007200",
+      "Secondary field": "MAS ZAIDATUL SYAZANA BINTI ABDUL KHALID",
+      "Code": "00007200",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-9F",
+      "Job Title": "PEMBANTU PERAWATAN KESIHATAN",
+      "Job Category": "N"
     }
   },
   {
