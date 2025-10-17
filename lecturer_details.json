@@ -20030,24 +20030,6 @@
     }
   },
   {
-    "id": 9733,
-    "details": {
-      "Full Name": "BILQIS HIJJAS",
-      "E-mail": "BILQIS@UM.EDU.MY",
-      "Primary field": "790124145906",
-      "Secondary field": "BILQIS HIJJAS",
-      "Code": "790124145906",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "R",
-      "Department": "R-T",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9734,
     "details": {
       "Full Name": "KHOO PHAIK LIN SELINA",
@@ -26853,6 +26835,24 @@
       "Faculty": "P",
       "Department": "P-A",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10111,
+    "details": {
+      "Full Name": "SAAD TAYYAB",
+      "E-mail": "SAADTAYYAB2004@UM.EDU.MY",
+      "Primary field": "00007712",
+      "Secondary field": "SAAD TAYYAB",
+      "Code": "00007712",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-H",
+      "Job Title": "PROFESOR",
       "Job Category": "A"
     }
   },
@@ -68534,6 +68534,24 @@
       "Code": "671002015730",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12431,
+    "details": {
+      "Full Name": "VIJAYA LATHA A/P SINNIAH",
+      "E-mail": "VIJAYA@UM.EDU.MY",
+      "Primary field": "760529015512",
+      "Secondary field": "VIJAYA LATHA A/P SINNIAH",
+      "Code": "760529015512",
+      "In Use? (Y/N)": "Y",
+      "Title": "DATIN",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "L",
