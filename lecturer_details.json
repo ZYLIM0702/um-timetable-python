@@ -6055,24 +6055,6 @@
     }
   },
   {
-    "id": 8958,
-    "details": {
-      "Full Name": "ZUBAIDAH BT ZANUL ABIDIN",
-      "E-mail": "ZUBAIDAH_ZANULABIDIN@UM.EDU.MY",
-      "Primary field": "00011913",
-      "Secondary field": "ZUBAIDAH BT ZANUL ABIDIN",
-      "Code": "00011913",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-R",
-      "Job Title": "PENSYARAH PERGIGIAN (TANPA GELARAN)",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8959,
     "details": {
       "Full Name": "ZURAIDA RASTAM SHAHROM",
@@ -7772,24 +7754,6 @@
       "Faculty": "S",
       "Department": "S-M",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9053,
-    "details": {
-      "Full Name": "CHE MASNIFA ATIKAH BINTI ABDUL MALIK",
-      "E-mail": "CMATIKAH@UM.EDU.MY",
-      "Primary field": "920226035858",
-      "Secondary field": "CHE MASNIFA ATIKAH BINTI ABDUL MALIK",
-      "Code": "920226035858",
-      "In Use? (Y/N)": "Y",
-      "Title": "MRS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "AB",
-      "Department": "AB-X",
-      "Job Title": "PENOLONG PENSYARAH",
       "Job Category": "A"
     }
   },
@@ -47004,24 +46968,6 @@
     }
   },
   {
-    "id": 11230,
-    "details": {
-      "Full Name": "CHUA KEK HENG",
-      "E-mail": "KHCHUA@UM.EDU.MY",
-      "Primary field": "00004296",
-      "Secondary field": "CHUA KEK HENG",
-      "Code": "00004296",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Job Title": "PROFESOR",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
     "id": 11231,
     "details": {
       "Full Name": "ANGELINA LAU SIEW LING",
@@ -74973,6 +74919,24 @@
       "Department": "B-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
+    }
+  },
+  {
+    "id": 12816,
+    "details": {
+      "Full Name": "SHAIFUL ANUAR BIN ABU BAKAR",
+      "E-mail": "SAAB@UM.EDU.MY",
+      "Primary field": "00009637",
+      "Secondary field": "SHAIFUL ANUAR BIN ABU BAKAR",
+      "Code": "00009637",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-J",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
     }
   },
   {
