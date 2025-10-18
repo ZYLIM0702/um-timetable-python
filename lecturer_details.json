@@ -25289,6 +25289,24 @@
     }
   },
   {
+    "id": 10024,
+    "details": {
+      "Full Name": "SEYED SATTAR EMAMIAN",
+      "E-mail": "SATTAR.EMAMIAN@UM.EDU.MY",
+      "Primary field": "00015010",
+      "Secondary field": "SEYED SATTAR EMAMIAN",
+      "Code": "00015010",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-B",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10025,
     "details": {
       "Full Name": "KAMISAH BINTI ISMAIL",
