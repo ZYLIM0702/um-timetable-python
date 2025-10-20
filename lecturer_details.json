@@ -6001,6 +6001,24 @@
     }
   },
   {
+    "id": 8955,
+    "details": {
+      "Full Name": "MOHD USMAN BIN MOHD JUNAIDI",
+      "E-mail": "USMANJ@UM.EDU.MY",
+      "Primary field": "00014163",
+      "Secondary field": "MOHD USMAN BIN MOHD JUNAIDI",
+      "Code": "00014163",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-K",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8956,
     "details": {
       "Full Name": "TEOH TEOW CHONG",
