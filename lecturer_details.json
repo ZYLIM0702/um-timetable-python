@@ -21798,6 +21798,24 @@
     }
   },
   {
+    "id": 9831,
+    "details": {
+      "Full Name": "NOORLIDAH BINTI ABDULLAH",
+      "E-mail": "NOORLIDAH@UM.EDU.MY",
+      "Primary field": "00004379",
+      "Secondary field": "NOORLIDAH BINTI ABDULLAH",
+      "Code": "00004379",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-H",
+      "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9832,
     "details": {
       "Full Name": "ZULHABRI BIN ISMAIL",
