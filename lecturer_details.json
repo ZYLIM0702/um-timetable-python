@@ -4716,6 +4716,24 @@
     }
   },
   {
+    "id": 8884,
+    "details": {
+      "Full Name": "WAN NURHIDAYAH BINTI A KARIM",
+      "E-mail": "WANNURHIDAYAH@UM.EDU.MY",
+      "Primary field": "00012618",
+      "Secondary field": "WAN NURHIDAYAH BINTI A KARIM",
+      "Code": "00012618",
+      "In Use? (Y/N)": "Y",
+      "Title": "CHM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F05",
+      "Job Title": "PEGAWAI PERKHIDMATAN PENDIDIKAN",
+      "Job Category": "EA"
+    }
+  },
+  {
     "id": 8885,
     "details": {
       "Full Name": "SHAFIQ BIN RASULAN",
@@ -5797,6 +5815,24 @@
       "Faculty": "K",
       "Department": "K-B",
       "Job Title": "PROFESOR",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 8945,
+    "details": {
+      "Full Name": "TANG TUCK CHEONG",
+      "E-mail": "TANGTUCKCHEONG@UM.EDU.MY",
+      "Primary field": "00013184",
+      "Secondary field": "TANG TUCK CHEONG",
+      "Code": "00013184",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA04",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
