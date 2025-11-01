@@ -2801,24 +2801,6 @@
     }
   },
   {
-    "id": 8778,
-    "details": {
-      "Full Name": "JAMALUDIN BIN MOHAMAD",
-      "E-mail": "JAMAL@UM.EDU.MY",
-      "Primary field": "00004322",
-      "Secondary field": "JAMALUDIN BIN MOHAMAD",
-      "Code": "00004322",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-H",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8779,
     "details": {
       "Full Name": "SAIPOL BARI BIN ABD KARIM",
@@ -10949,24 +10931,6 @@
       "Job Title": "PROFESOR KEHORMAT",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "A"
-    }
-  },
-  {
-    "id": 9230,
-    "details": {
-      "Full Name": "ADELINE CHUA SEAK MAY",
-      "E-mail": "ADELINE@UM.EDU.MY",
-      "Primary field": "00005914",
-      "Secondary field": "ADELINE CHUA SEAK MAY",
-      "Code": "00005914",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR IR. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-K",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
     }
   },
   {
@@ -84509,24 +84473,6 @@
       "Faculty": "G",
       "Department": "G-7E",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13380,
-    "details": {
-      "Full Name": "ELAINE CHOONG KAR MAN",
-      "E-mail": "ELAINE.CHOONG@UM.EDU.MY",
-      "Primary field": "00015490",
-      "Secondary field": "ELAINE CHOONG KAR MAN",
-      "Code": "00015490",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-H",
-      "Job Title": "PENSYARAH PELATIH",
       "Job Category": "A"
     }
   },
