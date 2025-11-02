@@ -82878,6 +82878,24 @@
     }
   },
   {
+    "id": 13287,
+    "details": {
+      "Full Name": "LAILAH BINTI HAMZAH",
+      "E-mail": "LAILAH@UM.EDU.MY",
+      "Primary field": "00006036",
+      "Secondary field": "LAILAH BINTI HAMZAH",
+      "Code": "00006036",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-3G",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 13289,
     "details": {
       "Full Name": "NOR AZZAM BIN ISMAIL",
