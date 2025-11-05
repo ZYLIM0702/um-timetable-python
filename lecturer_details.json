@@ -60124,6 +60124,25 @@
     }
   },
   {
+    "id": 11957,
+    "details": {
+      "Full Name": "MOHD FIRDAUS BIN ABDULLAH",
+      "E-mail": "FIRDAUS.ABDULLAH@UM.EDU.MY",
+      "Primary field": "00015455",
+      "Secondary field": "MOHD FIRDAUS BIN ABDULLAH",
+      "Code": "00015455",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "V",
+      "Department": "V-X",
+      "Job Title": "PENSYARAH",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
+    }
+  },
+  {
     "id": 11958,
     "details": {
       "Full Name": "KOH TONG NGEE",
