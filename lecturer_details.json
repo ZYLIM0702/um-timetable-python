@@ -11529,6 +11529,24 @@
     }
   },
   {
+    "id": 9262,
+    "details": {
+      "Full Name": "FAUZI BIN ZAINIR",
+      "E-mail": "ZFAUZI@UM.EDU.MY",
+      "Primary field": "00005569",
+      "Secondary field": "FAUZI BIN ZAINIR",
+      "Code": "00005569",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA02",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9263,
     "details": {
       "Full Name": "NUR SHAMILA BINTI ABDULLAH",
@@ -18477,6 +18495,24 @@
       "Faculty": "M",
       "Department": "M-F",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9648,
+    "details": {
+      "Full Name": "AMIRA HAJIRAH BT ABD JAMIL",
+      "E-mail": "AMIRA.J@UM.EDU.MY",
+      "Primary field": "00013813",
+      "Secondary field": "AMIRA HAJIRAH BT ABD JAMIL",
+      "Code": "00013813",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "O",
+      "Department": "O-L",
+      "Job Title": "PENSYARAH FARMASI",
       "Job Category": "A"
     }
   },
