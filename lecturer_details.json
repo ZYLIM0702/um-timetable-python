@@ -63512,24 +63512,6 @@
     }
   },
   {
-    "id": 12146,
-    "details": {
-      "Full Name": "MUNAWWARAH BT HUSAIN",
-      "E-mail": "MUNAWWARAH@UM.EDU.MY",
-      "Primary field": "00012289",
-      "Secondary field": "MUNAWWARAH BT HUSAIN",
-      "Code": "00012289",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-X",
-      "Job Title": "PENOLONG PEGAWAI TADBIR",
-      "Job Category": "N",
-      "Position Held (e.g. Dean)": "N"
-    }
-  },
-  {
     "id": 12147,
     "details": {
       "Full Name": "MARIA BINTI MOHD ISMAIL",
@@ -86019,6 +86001,23 @@
       "Location": "UMKL",
       "Faculty": "P",
       "Department": "P-A",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13466,
+    "details": {
+      "Full Name": "NORSYAZWANI BINTI MOHAMAD NAZRI",
+      "E-mail": "WANI_NAZ@YAHOO.COM",
+      "Primary field": "880415085092",
+      "Secondary field": "NORSYAZWANI BINTI MOHAMAD NAZRI",
+      "Code": "880415085092",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
       "Job Category": "A"
     }
   },
