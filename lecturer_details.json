@@ -5132,24 +5132,6 @@
     }
   },
   {
-    "id": 8907,
-    "details": {
-      "Full Name": "MARZUDI MD YUNUS",
-      "E-mail": "MARZUDI@UM.EDU.MY",
-      "Primary field": "00014471",
-      "Secondary field": "MARZUDI MD YUNUS",
-      "Code": "00014471",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "J",
-      "Department": "J-C",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8908,
     "details": {
       "Full Name": "LAM CHEE SOON",
@@ -77727,24 +77709,6 @@
       "Faculty": "M",
       "Department": "M-B",
       "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12988,
-    "details": {
-      "Full Name": "SITI ROSMANI BINTI MD ZIN @ ZAKARIA",
-      "E-mail": "SITI_ROSMANI@UM.EDU.MY",
-      "Primary field": "00010876",
-      "Secondary field": "SITI ROSMANI BINTI MD ZIN @ ZAKARIA",
-      "Code": "00010876",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-A",
-      "Job Title": "PENSYARAH PERUBATAN",
       "Job Category": "A"
     }
   },
