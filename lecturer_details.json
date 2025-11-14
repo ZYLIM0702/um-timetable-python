@@ -78144,6 +78144,24 @@
     }
   },
   {
+    "id": 13012,
+    "details": {
+      "Full Name": "MUHAMMAD AZRUL BIN RAZALI",
+      "E-mail": "MAZRUL@UM.EDU.MY",
+      "Primary field": "00014002",
+      "Secondary field": "MUHAMMAD AZRUL BIN RAZALI",
+      "Code": "00014002",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Title": "PEMBANTU MAKMAL",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 13013,
     "details": {
       "Full Name": "MUHAMMAD SHAFIQ BIN ROHAIDI",
