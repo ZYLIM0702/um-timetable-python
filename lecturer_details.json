@@ -1793,24 +1793,6 @@
     }
   },
   {
-    "id": 8722,
-    "details": {
-      "Full Name": "NOOR AZMI BIN MAT ADENAN",
-      "E-mail": "AZMIE@UM.EDU.MY",
-      "Primary field": "00005836",
-      "Secondary field": "NOOR AZMI BIN MAT ADENAN",
-      "Code": "00005836",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-G",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8723,
     "details": {
       "Full Name": "LUCY LUM CHAI SEE",
@@ -2403,24 +2385,6 @@
       "Faculty": "M",
       "Department": "M-J",
       "Job Title": "PROFESOR KEHORMAT",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 8756,
-    "details": {
-      "Full Name": "MASRI BAHAROM",
-      "E-mail": "MASRIBAHAROM2002@YAHOO.COM",
-      "Primary field": "A1251588",
-      "Secondary field": "MASRI BAHAROM",
-      "Code": "A1251588",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-M",
-      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
