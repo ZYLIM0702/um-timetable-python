@@ -11817,6 +11817,24 @@
     }
   },
   {
+    "id": 9278,
+    "details": {
+      "Full Name": "BARRATT WILLIAM RUGGLES",
+      "E-mail": "WILL.BARRATT@UM.EDU.MY",
+      "Primary field": "00014744",
+      "Secondary field": "BARRATT WILLIAM RUGGLES",
+      "Code": "00014744",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-D",
+      "Job Title": "FULBRIGHT SCHOLAR",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9279,
     "details": {
       "Full Name": "BALAJI RAGHAVENDRAN HANUMANTHARAO",
@@ -55100,6 +55118,24 @@
     }
   },
   {
+    "id": 11679,
+    "details": {
+      "Full Name": "SAMAN MIRZA ABDULLAH",
+      "E-mail": "MAMAYAHIAS@YAHOO.COM",
+      "Primary field": "G2509014",
+      "Secondary field": "SAMAN MIRZA ABDULLAH",
+      "Code": "G2509014",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "W",
+      "Department": "W-M",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11680,
     "details": {
       "Full Name": "PANG YONG KEK",
@@ -59081,6 +59117,24 @@
     }
   },
   {
+    "id": 11901,
+    "details": {
+      "Full Name": "SHIGEKI KOYAMA",
+      "E-mail": "SHIGEKIKOYAMA@UM.EDU.MY",
+      "Primary field": "00015381",
+      "Secondary field": "SHIGEKI KOYAMA",
+      "Code": "00015381",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-AJ",
+      "Job Title": "GURU BAHASA JEPUN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11902,
     "details": {
       "Full Name": "TAKEO YOSHIDA",
@@ -61637,6 +61691,24 @@
       "Department": "U-X",
       "Job Title": "PUSTAKAWAN",
       "Job Category": "EA"
+    }
+  },
+  {
+    "id": 12044,
+    "details": {
+      "Full Name": "VEL KALASHINI A/P PATHMA SIVAN",
+      "E-mail": "SHINI@UM.EDU.MY",
+      "Primary field": "00014712",
+      "Secondary field": "VEL KALASHINI A/P PATHMA SIVAN",
+      "Code": "00014712",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA08",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
     }
   },
   {
@@ -64858,6 +64930,24 @@
       "Faculty": "K",
       "Department": "K-U",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12225,
+    "details": {
+      "Full Name": "MASHIUR RAHMAN",
+      "E-mail": "MASHIUR.RAHMAN@UM.EDU.MY",
+      "Primary field": "00015689",
+      "Secondary field": "MASHIUR RAHMAN",
+      "Code": "00015689",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "C",
+      "Department": "C-O",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -81846,24 +81936,6 @@
       "Primary field": "00008261",
       "Secondary field": "HIROSHI MATSUI",
       "Code": "00008261",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "F",
-      "Department": "F-AJ",
-      "Job Title": "GURU BAHASA JEPUN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13234,
-    "details": {
-      "Full Name": "TATSUYA SAITO",
-      "E-mail": "SAITO@UM.EDU.MY",
-      "Primary field": "00009984",
-      "Secondary field": "TATSUYA SAITO",
-      "Code": "00009984",
       "In Use? (Y/N)": "Y",
       "Title": "MR.",
       "Gender": "MALE",
