@@ -6615,24 +6615,6 @@
     }
   },
   {
-    "id": 8989,
-    "details": {
-      "Full Name": "SITI NADIAH BINTI ABDUL HALIM",
-      "E-mail": "NADIAHHALIM@UM.EDU.MY",
-      "Primary field": "00008199",
-      "Secondary field": "SITI NADIAH BINTI ABDUL HALIM",
-      "Code": "00008199",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-C",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8990,
     "details": {
       "Full Name": "SHAHID BASHIR",
@@ -7283,6 +7265,24 @@
       "Faculty": "B",
       "Department": "B-Q",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9026,
+    "details": {
+      "Full Name": "NORSIAH BINTI RAHMAT",
+      "E-mail": "NORSIAHR@UM.EDU.MY",
+      "Primary field": "00009271",
+      "Secondary field": "NORSIAH BINTI RAHMAT",
+      "Code": "00009271",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-TA",
+      "Job Title": "PENSYARAH",
       "Job Category": "A"
     }
   },
@@ -13749,24 +13749,6 @@
     }
   },
   {
-    "id": 9386,
-    "details": {
-      "Full Name": "IAN CHARLES PATERSON",
-      "E-mail": "IPATERSON@UM.EDU.MY",
-      "Primary field": "00012153",
-      "Secondary field": "IAN CHARLES PATERSON",
-      "Code": "00012153",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-C",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9387,
     "details": {
       "Full Name": "ADITYA TRI HERNOWO",
@@ -18677,24 +18659,6 @@
       "Faculty": "M",
       "Department": "M-F",
       "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9659,
-    "details": {
-      "Full Name": "SIAW YAN LI",
-      "E-mail": "YANLI@UM.EDU.MY",
-      "Primary field": "00014078",
-      "Secondary field": "SIAW YAN LI",
-      "Code": "00014078",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-I",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -37084,24 +37048,6 @@
     }
   },
   {
-    "id": 10680,
-    "details": {
-      "Full Name": "NUR FHATIN NADIA BINTI JASNI",
-      "E-mail": "FHATINNADIA@UM.EDU.MY",
-      "Primary field": "00014427",
-      "Secondary field": "NUR FHATIN NADIA BINTI JASNI",
-      "Code": "00014427",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-H",
-      "Job Title": "PENSYARAH PELATIH",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10681,
     "details": {
       "Full Name": "HELENA AMAN BINTI HASHIM",
@@ -38611,24 +38557,6 @@
       "Faculty": "M",
       "Department": "M-O",
       "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10765,
-    "details": {
-      "Full Name": "ZALFA LAILI BINTI HAMZAH",
-      "E-mail": "ZALFA@UM.EDU.MY",
-      "Primary field": "00013345",
-      "Secondary field": "ZALFA LAILI BINTI HAMZAH",
-      "Code": "00013345",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "AA",
-      "Department": "AA03",
-      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
@@ -41570,24 +41498,6 @@
       "Location": "UMKL",
       "Faculty": "G",
       "Department": "G-7E",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10930,
-    "details": {
-      "Full Name": "ADRIAN HARE",
-      "E-mail": "ADRIANEHARE@UM.EDU.MY",
-      "Primary field": "500594420",
-      "Secondary field": "ADRIAN HARE",
-      "Code": "500594420",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-B",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -49351,24 +49261,6 @@
       "Faculty": "G",
       "Department": "G-7E",
       "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11361,
-    "details": {
-      "Full Name": "HIROYASU TSUBOI",
-      "E-mail": "GOROGORO1412@UM.EDU.MY",
-      "Primary field": "00014688",
-      "Secondary field": "HIROYASU TSUBOI",
-      "Code": "00014688",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "F",
-      "Department": "F-X",
-      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
@@ -75172,22 +75064,6 @@
     }
   },
   {
-    "id": 12828,
-    "details": {
-      "Full Name": "LUQMAN ALHAKIM BIN ABDULL",
-      "E-mail": "luqmanhakim19999@gmail.com",
-      "Primary field": "00016247",
-      "Secondary field": "LUQMAN ALHAKIM BIN ABDULL",
-      "Code": "00016247",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-X",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 12829,
     "details": {
       "Full Name": "MOHAMAD AIMAN HASEEF BIN MOHD AZLEE",
@@ -84527,24 +84403,6 @@
       "Faculty": "D",
       "Department": "D-P",
       "Job Title": "PENSYARAH PERGIGIAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13382,
-    "details": {
-      "Full Name": "CHEW CHANG CHUAN",
-      "E-mail": "CHEWCHANGCHUAN@UM.EDU.MY",
-      "Primary field": "00015499",
-      "Secondary field": "CHEW CHANG CHUAN",
-      "Code": "00015499",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PENSYARAH PERUBATAN",
       "Job Category": "A"
     }
   },
