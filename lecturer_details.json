@@ -126,6 +126,24 @@
     }
   },
   {
+    "id": 8628,
+    "details": {
+      "Full Name": "NORAZLINA BINTI DOL @ OTHMAN",
+      "E-mail": "AZLIENA@UM.EDU.MY",
+      "Primary field": "00006412",
+      "Secondary field": "NORAZLINA BINTI DOL @ OTHMAN",
+      "Code": "00006412",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "U",
+      "Department": "U-X",
+      "Job Title": "PUSTAKAWAN KANAN",
+      "Job Category": "EA"
+    }
+  },
+  {
     "id": 8629,
     "details": {
       "Full Name": "NUR HASHIMAH BINTI KAMAN REDZAWAN",
@@ -6471,6 +6489,24 @@
     }
   },
   {
+    "id": 8982,
+    "details": {
+      "Full Name": "GOH KIM LENG",
+      "E-mail": "KLGOH@UM.EDU.MY",
+      "Primary field": "00001590",
+      "Secondary field": "GOH KIM LENG",
+      "Code": "00001590",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA04",
+      "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8983,
     "details": {
       "Full Name": "ABU HANIFAH HAJI ABDULLAH",
@@ -6923,24 +6959,6 @@
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
-    "id": 9008,
-    "details": {
-      "Full Name": "MOHD NASIR BIN ABDUL MAJID",
-      "E-mail": "NASIR2016@UM.EDU.MY",
-      "Primary field": "770807025331",
-      "Secondary field": "MOHD NASIR BIN ABDUL MAJID",
-      "Code": "770807025331",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-P",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
     }
   },
   {
@@ -16799,24 +16817,6 @@
     }
   },
   {
-    "id": 9556,
-    "details": {
-      "Full Name": "LIM KHENG SEANG",
-      "E-mail": "KSLIMUM@UM.EDU.MY",
-      "Primary field": "00008586",
-      "Secondary field": "LIM KHENG SEANG",
-      "Code": "00008586",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9557,
     "details": {
       "Full Name": "BADRUL HISHAM BIN MOHAMAD JAN",
@@ -26460,24 +26460,6 @@
     }
   },
   {
-    "id": 10091,
-    "details": {
-      "Full Name": "LIM SOK LI",
-      "E-mail": "SOKLI@UM.EDU.MY",
-      "Primary field": "00014179",
-      "Secondary field": "LIM SOK LI",
-      "Code": "00014179",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-J",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10092,
     "details": {
       "Full Name": "TUAN ZAHARINIE BINTI TUAN ZAHARI",
@@ -27143,24 +27125,6 @@
       "Faculty": "G",
       "Department": "G-8J",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10129,
-    "details": {
-      "Full Name": "AHMAD FARIS BIN MOHD ADNAN",
-      "E-mail": "AHMAD_FARISZ@UM.EDU.MY",
-      "Primary field": "00010566",
-      "Secondary field": "AHMAD FARIS BIN MOHD ADNAN",
-      "Code": "00010566",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-H",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -49427,6 +49391,24 @@
     }
   },
   {
+    "id": 11366,
+    "details": {
+      "Full Name": "NOR HALIZA BINTI HARUN",
+      "E-mail": "LIZZA_84@UM.EDU.MY",
+      "Primary field": "00008107",
+      "Secondary field": "NOR HALIZA BINTI HARUN",
+      "Code": "00008107",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-T",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 11367,
     "details": {
       "Full Name": "NURUL HUDA BINTI MEHAT",
@@ -61097,6 +61079,24 @@
       "Department": "A-P",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12014,
+    "details": {
+      "Full Name": "CHE MAZNI BINTI SIDEK",
+      "E-mail": "MAZNI_SIDEK@UM.EDU.MY",
+      "Primary field": "00008190",
+      "Secondary field": "CHE MAZNI BINTI SIDEK",
+      "Code": "00008190",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-X",
+      "Job Title": "KETUA PENOLONG PENDAFTAR",
+      "Job Category": "E"
     }
   },
   {
@@ -73623,6 +73623,24 @@
     }
   },
   {
+    "id": 12740,
+    "details": {
+      "Full Name": "MOHD NAJIB BIN BAHAROM",
+      "E-mail": "NAJIBXPDC@UM.EDU.MY",
+      "Primary field": "00006563",
+      "Secondary field": "MOHD NAJIB BIN BAHAROM",
+      "Code": "00006563",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "O",
+      "Department": "O-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N",
+      "Position Held (e.g. Dean)": "N"
+    }
+  },
+  {
     "id": 12741,
     "details": {
       "Full Name": "SYAFIQ FALIQ BIN ALFAN",
@@ -79124,6 +79142,23 @@
       "Department": "J-B",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 13075,
+    "details": {
+      "Full Name": "FATIN NURFAKHRANA BINTI MOHD AKASHAH",
+      "E-mail": "fatinnurfakhrana@gmail.com",
+      "Primary field": "00016360",
+      "Secondary field": "FATIN NURFAKHRANA BINTI MOHD AKASHAH",
+      "Code": "00016360",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-3G",
+      "Job Category": "N"
     }
   },
   {
