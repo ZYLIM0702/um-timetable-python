@@ -4932,6 +4932,25 @@
     }
   },
   {
+    "id": 8896,
+    "details": {
+      "Full Name": "CHANG SIOW WEE",
+      "E-mail": "SIOWWEE@UM.EDU.MY",
+      "Primary field": "00009640",
+      "Secondary field": "CHANG SIOW WEE",
+      "Code": "00009640",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-H",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
+    }
+  },
+  {
     "id": 8897,
     "details": {
       "Full Name": "AHMAD HATIM BIN SULAIMAN",
@@ -41592,24 +41611,6 @@
     }
   },
   {
-    "id": 10931,
-    "details": {
-      "Full Name": "NOR WAHIDA BINTI HAJI AHAMAD",
-      "E-mail": "NORWAHIDA@UM.EDU.MY",
-      "Primary field": "820413035740",
-      "Secondary field": "NOR WAHIDA BINTI HAJI AHAMAD",
-      "Code": "820413035740",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-S",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10932,
     "details": {
       "Full Name": "SHAHIZAT BIN AMIR",
@@ -47577,6 +47578,23 @@
       "Faculty": "I",
       "Department": "I-A",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11263,
+    "details": {
+      "Full Name": "NORHAYATI KAMARUDDIN",
+      "E-mail": "DRNORHAY@UM.EDU.MY",
+      "Primary field": "650911115226",
+      "Secondary field": "NORHAYATI KAMARUDDIN",
+      "Code": "650911115226",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-A",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -62701,24 +62719,6 @@
     }
   },
   {
-    "id": 12103,
-    "details": {
-      "Full Name": "ROHANA BINTI ABD JALIL",
-      "E-mail": "ROHANA_MED@UM.EDU.MY",
-      "Primary field": "00001968",
-      "Secondary field": "ROHANA BINTI ABD JALIL",
-      "Code": "00001968",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N",
-      "Position Held (e.g. Dean)": "N"
-    }
-  },
-  {
     "id": 12104,
     "details": {
       "Full Name": "AWANG BHUKHARI BIN MATSAT",
@@ -63024,6 +63024,24 @@
       "Department": "A-K",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12121,
+    "details": {
+      "Full Name": "NOR RASHIDAH BINTI SHEIK ALLAUDIN",
+      "E-mail": "NORRASHIDAH@UM.EDU.MY",
+      "Primary field": "00013616",
+      "Secondary field": "NOR RASHIDAH BINTI SHEIK ALLAUDIN",
+      "Code": "00013616",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-I",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
     }
   },
   {
@@ -74261,24 +74279,6 @@
     }
   },
   {
-    "id": 12777,
-    "details": {
-      "Full Name": "NUR AMIRAH BINTI CHE SOH",
-      "E-mail": "NURAMIRAH_CHESOH@UM.EDU.MY",
-      "Primary field": "00015854",
-      "Secondary field": "NUR AMIRAH BINTI CHE SOH",
-      "Code": "00015854",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "J",
-      "Department": "J-D",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12778,
     "details": {
       "Full Name": "KAVITHA A/P R GANESAN NATHAN",
@@ -81329,6 +81329,24 @@
       "Faculty": "P",
       "Department": "P-P",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13200,
+    "details": {
+      "Full Name": "JIMMYN PARC",
+      "E-mail": "JIMMYN.PARC@UM.EDU.MY",
+      "Primary field": "00015732",
+      "Secondary field": "JIMMYN PARC",
+      "Code": "00015732",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-Y",
+      "Job Title": "PROFESOR MADYA DR.",
       "Job Category": "A"
     }
   },
