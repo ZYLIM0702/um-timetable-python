@@ -5240,24 +5240,6 @@
     }
   },
   {
-    "id": 8913,
-    "details": {
-      "Full Name": "LAI SIEW MEI PAULINE",
-      "E-mail": "PLAI@UM.EDU.MY",
-      "Primary field": "00011620",
-      "Secondary field": "LAI SIEW MEI PAULINE",
-      "Code": "00011620",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-M",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8914,
     "details": {
       "Full Name": "KARTHIKEYAN CHANDRASEKARAN",
@@ -22304,6 +22286,24 @@
     }
   },
   {
+    "id": 9859,
+    "details": {
+      "Full Name": "MOHAMAD FADHIL HADI BIN JAMALUDDIN",
+      "E-mail": "FADHIL.HADI@UM.EDU.MY",
+      "Primary field": "00010841",
+      "Secondary field": "MOHAMAD FADHIL HADI BIN JAMALUDDIN",
+      "Code": "00010841",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-B",
+      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9860,
     "details": {
       "Full Name": "NAZIRAH BINTI HASNAN",
@@ -23258,6 +23258,24 @@
       "Department": "D-M",
       "Job Title": "PENSYARAH PERGIGIAN",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 9913,
+    "details": {
+      "Full Name": "HANIZURA BINTI MOHD HANIFF",
+      "E-mail": "HANIZURA@UM.EDU.MY",
+      "Primary field": "00006367",
+      "Secondary field": "HANIZURA BINTI MOHD HANIFF",
+      "Code": "00006367",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-10C",
+      "Job Title": "PEGAWAI TEKNOLOGI MAKLUMAT",
+      "Job Category": "E"
     }
   },
   {
@@ -41629,6 +41647,24 @@
     }
   },
   {
+    "id": 10934,
+    "details": {
+      "Full Name": "MAHDI TOUSIZADEH",
+      "E-mail": "TOOSIZADEH@UM.EDU.MY",
+      "Primary field": "00015049",
+      "Secondary field": "MAHDI TOUSIZADEH",
+      "Code": "00015049",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8F",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10935,
     "details": {
       "Full Name": "SOFYA BINTI ZULKIFFLI",
@@ -45199,24 +45235,6 @@
     }
   },
   {
-    "id": 11133,
-    "details": {
-      "Full Name": "SUZANA BINTI MUHAMAD ZAIN",
-      "E-mail": "SUZAIN@UM.EDU.MY",
-      "Primary field": "00002729",
-      "Secondary field": "SUZANA BINTI MUHAMAD ZAIN",
-      "Code": "00002729",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-I",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 11134,
     "details": {
       "Full Name": "ZUBAIDAH BINTI OMAR",
@@ -46349,6 +46367,24 @@
       "Faculty": "P",
       "Department": "P-P",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11197,
+    "details": {
+      "Full Name": "NORA BINTI ABDUL AZIZ",
+      "E-mail": "NORA_ABDUL_AZIZ@UM.EDU.MY",
+      "Primary field": "00011335",
+      "Secondary field": "NORA BINTI ABDUL AZIZ",
+      "Code": "00011335",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-S",
+      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
   },
@@ -69596,6 +69632,24 @@
       "Faculty": "G",
       "Department": "G-7I-E",
       "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 12497,
+    "details": {
+      "Full Name": "MOHD ZAMRI BIN SARBANGI",
+      "E-mail": "JPUNK_REALL@UM.EDU.MY",
+      "Primary field": "00012750",
+      "Secondary field": "MOHD ZAMRI BIN SARBANGI",
+      "Code": "00012750",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-1D",
+      "Job Title": "PENGAWAL KESELAMATAN",
       "Job Category": "N"
     }
   },
