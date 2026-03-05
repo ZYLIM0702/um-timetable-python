@@ -25612,24 +25612,6 @@
     }
   },
   {
-    "id": 10042,
-    "details": {
-      "Full Name": "MAS AYU BINTI SAID",
-      "E-mail": "MAS_AYU@UM.EDU.MY",
-      "Primary field": "00005806",
-      "Secondary field": "MAS AYU BINTI SAID",
-      "Code": "00005806",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-O",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10043,
     "details": {
       "Full Name": "NUR LISA BINTI ZAHARAN",
@@ -48790,24 +48772,6 @@
     }
   },
   {
-    "id": 11329,
-    "details": {
-      "Full Name": "MOHD FITRY BIN ZAINAL ABIDIN",
-      "E-mail": "MOHDFITRY@UM.EDU.MY",
-      "Primary field": "00012160",
-      "Secondary field": "MOHD FITRY BIN ZAINAL ABIDIN",
-      "Code": "00012160",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-B",
-      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11330,
     "details": {
       "Full Name": "RUSNAH SYAHILA BINTI DUALI HUSSEN",
@@ -51287,6 +51251,24 @@
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N",
       "Position Held (e.g. Dean)": "N"
+    }
+  },
+  {
+    "id": 11467,
+    "details": {
+      "Full Name": "MUKHTAR BIN ZAKARIA",
+      "E-mail": "MUKHTAZA@UM.EDU.MY",
+      "Primary field": "661027025135",
+      "Secondary field": "MUKHTAR BIN ZAKARIA",
+      "Code": "661027025135",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-M",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
     }
   },
   {
@@ -84847,6 +84829,24 @@
       "Faculty": "M",
       "Department": "M-M",
       "Job Title": "PROFESOR",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13401,
+    "details": {
+      "Full Name": "LIEW YEW TOONG",
+      "E-mail": "LYEWTOONG@UM.EDU.MY",
+      "Primary field": "00014665",
+      "Secondary field": "LIEW YEW TOONG",
+      "Code": "00014665",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-I",
+      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
   },
