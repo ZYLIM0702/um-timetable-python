@@ -29637,6 +29637,24 @@
     }
   },
   {
+    "id": 10265,
+    "details": {
+      "Full Name": "VIDA JAWIN",
+      "E-mail": "VIDA@UM.EDU.MY",
+      "Primary field": "00013848",
+      "Secondary field": "VIDA JAWIN",
+      "Code": "00013848",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-L",
+      "Job Title": "PENSYARAH PERUBATAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10266,
     "details": {
       "Full Name": "NORAZURA BINTI MUHAMAD BUNNORI",
@@ -46498,6 +46516,24 @@
     }
   },
   {
+    "id": 11203,
+    "details": {
+      "Full Name": "NORSHAZRIMAN SULAIMAN",
+      "E-mail": "SHAZRI@UM.EDU.MY",
+      "Primary field": "00010212",
+      "Secondary field": "NORSHAZRIMAN SULAIMAN",
+      "Code": "00010212",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-Y",
+      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11204,
     "details": {
       "Full Name": "TIONG VUNJIA",
@@ -50132,6 +50168,24 @@
     }
   },
   {
+    "id": 11405,
+    "details": {
+      "Full Name": "JUNICHI MEGURO",
+      "E-mail": "JMEGURO0801@UM.EDU.MY",
+      "Primary field": "00014994",
+      "Secondary field": "JUNICHI MEGURO",
+      "Code": "00014994",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-AJ",
+      "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11406,
     "details": {
       "Full Name": "ZUBAIDAH BINTI ISMAIL",
@@ -51233,24 +51287,6 @@
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N",
       "Position Held (e.g. Dean)": "N"
-    }
-  },
-  {
-    "id": 11467,
-    "details": {
-      "Full Name": "MUKHTAR BIN ZAKARIA",
-      "E-mail": "MUKHTAZA@UM.EDU.MY",
-      "Primary field": "661027025135",
-      "Secondary field": "MUKHTAR BIN ZAKARIA",
-      "Code": "661027025135",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-M",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
     }
   },
   {
@@ -53597,6 +53633,24 @@
       "Faculty": "S",
       "Department": "S-C",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11598,
+    "details": {
+      "Full Name": "TOSHIO MIZUNO",
+      "E-mail": "TMIZUNO0811@UM.EDU.MY",
+      "Primary field": "00013313",
+      "Secondary field": "TOSHIO MIZUNO",
+      "Code": "00013313",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
@@ -74433,6 +74487,23 @@
     }
   },
   {
+    "id": 12788,
+    "details": {
+      "Full Name": "LIM TECK WYN",
+      "E-mail": "TECKWYN@RESCU.COM.MY",
+      "Primary field": "750201105849",
+      "Secondary field": "LIM TECK WYN",
+      "Code": "750201105849",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-L",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 12789,
     "details": {
       "Full Name": "NOVEL ANAK LYNDON",
@@ -79142,6 +79213,24 @@
       "Faculty": "G",
       "Department": "G-3G",
       "Job Category": "N"
+    }
+  },
+  {
+    "id": 13076,
+    "details": {
+      "Full Name": "ELANNI BINTI MD AFFANDI",
+      "E-mail": "ELANNIAFFANDI@UM.EDU.MY",
+      "Primary field": "00015088",
+      "Secondary field": "ELANNI BINTI MD AFFANDI",
+      "Code": "00015088",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-G",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
     }
   },
   {
@@ -84758,24 +84847,6 @@
       "Faculty": "M",
       "Department": "M-M",
       "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13401,
-    "details": {
-      "Full Name": "LIEW YEW TOONG",
-      "E-mail": "LYEWTOONG@UM.EDU.MY",
-      "Primary field": "00014665",
-      "Secondary field": "LIEW YEW TOONG",
-      "Code": "00014665",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-I",
-      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
   },
