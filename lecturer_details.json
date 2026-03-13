@@ -15141,24 +15141,6 @@
     }
   },
   {
-    "id": 9462,
-    "details": {
-      "Full Name": "TEO CHEE HOW",
-      "E-mail": "CHEEHOW.TEO@UM.EDU.MY",
-      "Primary field": "00014086",
-      "Secondary field": "TEO CHEE HOW",
-      "Code": "00014086",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8N",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9463,
     "details": {
       "Full Name": "YI-LI CHANG",
@@ -19074,6 +19056,24 @@
       "Faculty": "I",
       "Department": "I-B",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9680,
+    "details": {
+      "Full Name": "NORLIDAH ALIAS",
+      "E-mail": "DRNORLIDAH@UM.EDU.MY",
+      "Primary field": "00012036",
+      "Secondary field": "NORLIDAH ALIAS",
+      "Code": "00012036",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-S",
+      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
@@ -34931,24 +34931,6 @@
     }
   },
   {
-    "id": 10560,
-    "details": {
-      "Full Name": "WOO WAI SHENG",
-      "E-mail": "WOOWS@UM.EDU.MY",
-      "Primary field": "00013010",
-      "Secondary field": "WOO WAI SHENG",
-      "Code": "00013010",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-B",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10561,
     "details": {
       "Full Name": "KOAY SU IN",
@@ -40673,6 +40655,24 @@
       "Department": "A-K",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 10880,
+    "details": {
+      "Full Name": "WAN NUR NADIAH BINTI WAN AHMAD RIDZUAN",
+      "E-mail": "WNNADIAH@UM.EDU.MY",
+      "Primary field": "860501335272",
+      "Secondary field": "WAN NUR NADIAH BINTI WAN AHMAD RIDZUAN",
+      "Code": "860501335272",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-E",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "A"
     }
   },
   {
@@ -48865,6 +48865,24 @@
     }
   },
   {
+    "id": 11335,
+    "details": {
+      "Full Name": "ABDULMOGHNI ALI WAZAE AL-ALIMI",
+      "E-mail": "MOGHNI@UM.EDU.MY",
+      "Primary field": "00014900",
+      "Secondary field": "ABDULMOGHNI ALI WAZAE AL-ALIMI",
+      "Code": "00014900",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8K",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11336,
     "details": {
       "Full Name": "SOON SIEW VOON",
@@ -53526,24 +53544,6 @@
       "Faculty": "F",
       "Department": "F-JA",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11594,
-    "details": {
-      "Full Name": "SEDIGHEH MOGHAVVEMI",
-      "E-mail": "SEDIGHEH@UM.EDU.MY",
-      "Primary field": "00012770",
-      "Secondary field": "SEDIGHEH MOGHAVVEMI",
-      "Code": "00012770",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "AA",
-      "Department": "AA14",
-      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
@@ -66784,6 +66784,24 @@
     }
   },
   {
+    "id": 12334,
+    "details": {
+      "Full Name": "ATHI ARASAN A/L S. CUMARASAMY",
+      "E-mail": "ATHIARASAN@YAHOO.COM",
+      "Primary field": "580611106263",
+      "Secondary field": "ATHI ARASAN A/L S. CUMARASAMY",
+      "Code": "580611106263",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-7E",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 12335,
     "details": {
       "Full Name": "POZIAH BINTI ITHNIN",
@@ -71774,24 +71792,6 @@
       "Faculty": "A",
       "Department": "A-U",
       "Job Category": "N"
-    }
-  },
-  {
-    "id": 12632,
-    "details": {
-      "Full Name": "NABEESATHUL SUMAYYA BINTI MOHAMED SADIQ",
-      "E-mail": "SUMAYYASADIQ@UM.EDU.MY",
-      "Primary field": "00016266",
-      "Secondary field": "NABEESATHUL SUMAYYA BINTI MOHAMED SADIQ",
-      "Code": "00016266",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-7I-A",
-      "Job Title": "PENOLONG PENDAFTAR",
-      "Job Category": "E"
     }
   },
   {
