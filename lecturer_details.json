@@ -9476,24 +9476,6 @@
     }
   },
   {
-    "id": 9148,
-    "details": {
-      "Full Name": "MUHAMMAD YAZID BIN JALALUDIN",
-      "E-mail": "YAZIDJAL@UM.EDU.MY",
-      "Primary field": "00005714",
-      "Secondary field": "MUHAMMAD YAZID BIN JALALUDIN",
-      "Code": "00005714",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-L",
-      "Job Title": "PROFESOR DR.",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9149,
     "details": {
       "Full Name": "FADLI BIN ABDULLAH",
@@ -54720,6 +54702,24 @@
     }
   },
   {
+    "id": 11657,
+    "details": {
+      "Full Name": "NUR JAMILAH BINTI OSMAN",
+      "E-mail": "NURJAMILAHOSMAN@UM.EDU.MY",
+      "Primary field": "00010298",
+      "Secondary field": "NUR JAMILAH BINTI OSMAN",
+      "Code": "00010298",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-3G",
+      "Job Title": "PEGAWAI KEWANGAN",
+      "Job Category": "E",
+      "Position Held (e.g. Dean)": "E"
+    }
+  },
+  {
     "id": 11658,
     "details": {
       "Full Name": "ROSLIZA BINTI AMIR",
@@ -60444,6 +60444,24 @@
       "Faculty": "G",
       "Department": "G-8N",
       "Job Title": "PENSYARAH",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11976,
+    "details": {
+      "Full Name": "BONTHA VENKATA SUBRAHMANYA LOKESH",
+      "E-mail": "DRLOKESH.BONTHA@UM.EDU.MY",
+      "Primary field": "00015481",
+      "Secondary field": "BONTHA VENKATA SUBRAHMANYA LOKESH",
+      "Code": "00015481",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "O",
+      "Department": "O-C",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -78156,6 +78174,23 @@
       "Location": "UMKL",
       "Faculty": "K",
       "Department": "K-K",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13015,
+    "details": {
+      "Full Name": "TONOY ROY",
+      "E-mail": "TONOYROY@UM.EDU.MY",
+      "Primary field": "EJ0129760",
+      "Secondary field": "TONOY ROY",
+      "Code": "EJ0129760",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA01",
       "Job Category": "A"
     }
   },
