@@ -15536,6 +15536,24 @@
     }
   },
   {
+    "id": 9484,
+    "details": {
+      "Full Name": "HADIEH MONAJEMI",
+      "E-mail": "H.MONAJEMI@UM.EDU.MY",
+      "Primary field": "00014732",
+      "Secondary field": "HADIEH MONAJEMI",
+      "Code": "00014732",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8T",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9485,
     "details": {
       "Full Name": "LIU XIAOCHEN",
@@ -16667,24 +16685,6 @@
       "Location": "UMKL",
       "Faculty": "K",
       "Department": "K-U",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9548,
-    "details": {
-      "Full Name": "ROSLINA BINTI AHMAD",
-      "E-mail": "ROSLINA@UM.EDU.MY",
-      "Primary field": "00005313",
-      "Secondary field": "ROSLINA BINTI AHMAD",
-      "Code": "00005313",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-B",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
@@ -40640,6 +40640,24 @@
     }
   },
   {
+    "id": 10878,
+    "details": {
+      "Full Name": "SITI NURAINI BINTI MOHAMAD GHAZALI",
+      "E-mail": "SNURAINI@UM.EDU.MY",
+      "Primary field": "860314025228",
+      "Secondary field": "SITI NURAINI BINTI MOHAMAD GHAZALI",
+      "Code": "860314025228",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-E",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10879,
     "details": {
       "Full Name": "NUR ZAHIRAH BINTI ZAHIR",
@@ -48502,6 +48520,24 @@
     }
   },
   {
+    "id": 11315,
+    "details": {
+      "Full Name": "ZURAIDAH BINTI ZULKIFLI",
+      "E-mail": "AZUEREEN@UM.EDU.MY",
+      "Primary field": "00005139",
+      "Secondary field": "ZURAIDAH BINTI ZULKIFLI",
+      "Code": "00005139",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 11316,
     "details": {
       "Full Name": "SITI NORLIZA BINTI KARIM",
@@ -49187,6 +49223,24 @@
       "Faculty": "M",
       "Department": "M-BS",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11354,
+    "details": {
+      "Full Name": "ROGER GERAD IGNATIUS ROZARIO",
+      "E-mail": "ROGER_ROZARIO@UM.EDU.MY",
+      "Primary field": "710731045509",
+      "Secondary field": "ROGER GERAD IGNATIUS ROZARIO",
+      "Code": "710731045509",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "V",
+      "Department": "V-X",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -61367,6 +61421,24 @@
       "Department": "W-R",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12030,
+    "details": {
+      "Full Name": "MOHD FAZIL BIN OTHMAN",
+      "E-mail": "MOHDFAZIL@UM.EDU.MY",
+      "Primary field": "00004961",
+      "Secondary field": "MOHD FAZIL BIN OTHMAN",
+      "Code": "00004961",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-1A",
+      "Job Title": "PEMBANTU OPERASI",
+      "Job Category": "N"
     }
   },
   {
@@ -77217,24 +77289,6 @@
       "Department": "R-M",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
-    }
-  },
-  {
-    "id": 12962,
-    "details": {
-      "Full Name": "ARBAIYAH BINTI MOHD TALIB",
-      "E-mail": "SUE_VOUGE@UM.EDU.MY",
-      "Primary field": "00006690",
-      "Secondary field": "ARBAIYAH BINTI MOHD TALIB",
-      "Code": "00006690",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-TA",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
     }
   },
   {
