@@ -57028,6 +57028,24 @@
     }
   },
   {
+    "id": 11785,
+    "details": {
+      "Full Name": "FAZLINA BINTI ZAKARIA",
+      "E-mail": "FAZLINA83@UM.EDU.MY",
+      "Primary field": "00006677",
+      "Secondary field": "FAZLINA BINTI ZAKARIA",
+      "Code": "00006677",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 11786,
     "details": {
       "Full Name": "ZURAIDAH BINTI MD ZIN",
@@ -64175,23 +64193,6 @@
       "Faculty": "T",
       "Department": "T-C",
       "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12184,
-    "details": {
-      "Full Name": "MUHAMMAD FIRDAUS BIN ZAKARIA",
-      "E-mail": "FIRDAUS_ZAKARIA@UM.EDU.MY",
-      "Primary field": "940707036147",
-      "Secondary field": "MUHAMMAD FIRDAUS BIN ZAKARIA",
-      "Code": "940707036147",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-H",
-      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
