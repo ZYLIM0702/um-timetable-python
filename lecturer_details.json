@@ -61748,23 +61748,6 @@
     }
   },
   {
-    "id": 12047,
-    "details": {
-      "Full Name": "SITI AISYAH BINTI SAMUDIN",
-      "E-mail": "SITIAISYAH.SAMUDIN@UM.EDU.MY",
-      "Primary field": "900201105524",
-      "Secondary field": "SITI AISYAH BINTI SAMUDIN",
-      "Code": "900201105524",
-      "Title": "DR.",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-U",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "A"
-    }
-  },
-  {
     "id": 12048,
     "details": {
       "Full Name": "GOPI KRISHNAN A/L K.K.VIJAYARAGHAVAN",
@@ -64193,6 +64176,23 @@
       "Faculty": "T",
       "Department": "T-C",
       "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12184,
+    "details": {
+      "Full Name": "MUHAMMAD FIRDAUS BIN ZAKARIA",
+      "E-mail": "FIRDAUS_ZAKARIA@UM.EDU.MY",
+      "Primary field": "940707036147",
+      "Secondary field": "MUHAMMAD FIRDAUS BIN ZAKARIA",
+      "Code": "940707036147",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-H",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -84422,23 +84422,6 @@
       "Location": "UMKL",
       "Faculty": "AA",
       "Department": "AA01",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13376,
-    "details": {
-      "Full Name": "SHERYLL CHRISTINE STOTHARD",
-      "E-mail": "SCS0820@GMAIL.COM",
-      "Primary field": "660820105152",
-      "Secondary field": "SHERYLL CHRISTINE STOTHARD",
-      "Code": "660820105152",
-      "In Use? (Y/N)": "Y",
-      "Title": "MRS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "L",
-      "Department": "L-X",
       "Job Category": "A"
     }
   },
