@@ -15428,25 +15428,6 @@
     }
   },
   {
-    "id": 9478,
-    "details": {
-      "Full Name": "IDA HARTINA BINTI AHMED THARBE",
-      "E-mail": "HARTINA@UM.EDU.MY",
-      "Primary field": "00006270",
-      "Secondary field": "IDA HARTINA BINTI AHMED THARBE",
-      "Code": "00006270",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-P",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "A"
-    }
-  },
-  {
     "id": 9479,
     "details": {
       "Full Name": "AZRINA WATI BINTI MAZLAN",
@@ -61748,6 +61729,23 @@
     }
   },
   {
+    "id": 12047,
+    "details": {
+      "Full Name": "SITI AISYAH BINTI SAMUDIN",
+      "E-mail": "SITIAISYAH.SAMUDIN@UM.EDU.MY",
+      "Primary field": "900201105524",
+      "Secondary field": "SITI AISYAH BINTI SAMUDIN",
+      "Code": "900201105524",
+      "Title": "DR.",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-U",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "A"
+    }
+  },
+  {
     "id": 12048,
     "details": {
       "Full Name": "GOPI KRISHNAN A/L K.K.VIJAYARAGHAVAN",
@@ -70499,23 +70497,6 @@
       "Faculty": "F",
       "Department": "F-AJ",
       "Job Title": "GURU BAHASA JEPUN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12550,
-    "details": {
-      "Full Name": "CHONG HO PHIN",
-      "Primary field": "00016244",
-      "Secondary field": "CHONG HO PHIN",
-      "Code": "00016244",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-D",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
       "Job Category": "A"
     }
   },
@@ -84422,6 +84403,23 @@
       "Location": "UMKL",
       "Faculty": "AA",
       "Department": "AA01",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13376,
+    "details": {
+      "Full Name": "SHERYLL CHRISTINE STOTHARD",
+      "E-mail": "SCS0820@GMAIL.COM",
+      "Primary field": "660820105152",
+      "Secondary field": "SHERYLL CHRISTINE STOTHARD",
+      "Code": "660820105152",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
       "Job Category": "A"
     }
   },
