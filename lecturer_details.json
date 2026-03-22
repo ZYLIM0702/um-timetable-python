@@ -6037,6 +6037,24 @@
     }
   },
   {
+    "id": 8957,
+    "details": {
+      "Full Name": "RAMIN ANDALIB",
+      "E-mail": "RAMINANDALIB@UM.EDU.MY",
+      "Primary field": "00015119",
+      "Secondary field": "RAMIN ANDALIB",
+      "Code": "00015119",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-A",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8958,
     "details": {
       "Full Name": "ZUBAIDAH BT ZANUL ABIDIN",
@@ -6069,6 +6087,24 @@
       "Faculty": "L",
       "Department": "L-X",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 8960,
+    "details": {
+      "Full Name": "SHAMSUL BAHRAIN BIN HARON",
+      "E-mail": "SHAMSULBAHRAIN@UM.EDU.MY",
+      "Primary field": "610702045341",
+      "Secondary field": "SHAMSUL BAHRAIN BIN HARON",
+      "Code": "610702045341",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-P",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -19275,24 +19311,6 @@
     }
   },
   {
-    "id": 9693,
-    "details": {
-      "Full Name": "SITI MAZLIPAH BINTI ISMAIL",
-      "E-mail": "SITIMAZLIPAH@UM.EDU.MY",
-      "Primary field": "00005865",
-      "Secondary field": "SITI MAZLIPAH BINTI ISMAIL",
-      "Code": "00005865",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-M",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9694,
     "details": {
       "Full Name": "MOHAMAD SHAZALI BIN SULAIMAN",
@@ -20189,6 +20207,24 @@
       "Faculty": "M",
       "Department": "M-J",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9744,
+    "details": {
+      "Full Name": "KWAN SIEW WAI",
+      "E-mail": "KWANSIEWWAI@UM.EDU.MY",
+      "Primary field": "750725145630",
+      "Secondary field": "KWAN SIEW WAI",
+      "Code": "750725145630",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-M",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -23510,24 +23546,6 @@
       "Faculty": "P",
       "Department": "P-P",
       "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9929,
-    "details": {
-      "Full Name": "ZULKARNAIN BIN JAAFAR",
-      "E-mail": "ZULKARNAINJ@UM.EDU.MY",
-      "Primary field": "00007733",
-      "Secondary field": "ZULKARNAIN BIN JAAFAR",
-      "Code": "00007733",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-X",
-      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
@@ -30966,24 +30984,6 @@
       "Location": "UMKL",
       "Faculty": "H",
       "Department": "H-X",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
-    "id": 10342,
-    "details": {
-      "Full Name": "SALMAH BINTI ABU OTHMAN",
-      "E-mail": "SAL83@UM.EDU.MY",
-      "Primary field": "00007269",
-      "Secondary field": "SALMAH BINTI ABU OTHMAN",
-      "Code": "00007269",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-D",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
     }
@@ -45538,24 +45538,6 @@
       "Faculty": "I",
       "Department": "I-D",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11152,
-    "details": {
-      "Full Name": "WONG YEW HOONG",
-      "E-mail": "YHWONG@UM.EDU.MY",
-      "Primary field": "00012735",
-      "Secondary field": "WONG YEW HOONG",
-      "Code": "00012735",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR IR. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-B",
-      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
@@ -65900,24 +65882,6 @@
       "Department": "AA03",
       "Job Title": "PENSYARAH SAMBILAN",
       "Job Category": "A"
-    }
-  },
-  {
-    "id": 12282,
-    "details": {
-      "Full Name": "NURFAIZAH BINTI MOHD JABIR",
-      "E-mail": "NURFAIZAH@UM.EDU.MY",
-      "Primary field": "00013909",
-      "Secondary field": "NURFAIZAH BINTI MOHD JABIR",
-      "Code": "00013909",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-X",
-      "Job Title": "PENOLONG PEGAWAI TADBIR",
-      "Job Category": "N"
     }
   },
   {
@@ -87963,24 +87927,6 @@
     }
   },
   {
-    "id": 13581,
-    "details": {
-      "Full Name": "FAZIATI BINTI MOHD",
-      "E-mail": "FAZIATI@UM.EDU.MY",
-      "Primary field": "00011156",
-      "Secondary field": "FAZIATI BINTI MOHD",
-      "Code": "00011156",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-X",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 13582,
     "details": {
       "Full Name": "HELEN ANAK BANGGAU",
@@ -88280,6 +88226,24 @@
       "Job Title": "PENSYARAH",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "COORDINATOR BY FACULTY"
+    }
+  },
+  {
+    "id": 13599,
+    "details": {
+      "Full Name": "CHOONG YEOW CHOY",
+      "E-mail": "CHOONGYC@UM.EDU.MY",
+      "Primary field": "00003344",
+      "Secondary field": "CHOONG YEOW CHOY",
+      "Code": "00003344",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
+      "Job Title": "PROFESOR",
+      "Job Category": "A"
     }
   },
   {
