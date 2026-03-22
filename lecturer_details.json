@@ -6037,24 +6037,6 @@
     }
   },
   {
-    "id": 8957,
-    "details": {
-      "Full Name": "RAMIN ANDALIB",
-      "E-mail": "RAMINANDALIB@UM.EDU.MY",
-      "Primary field": "00015119",
-      "Secondary field": "RAMIN ANDALIB",
-      "Code": "00015119",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-A",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8958,
     "details": {
       "Full Name": "ZUBAIDAH BT ZANUL ABIDIN",
@@ -6087,24 +6069,6 @@
       "Faculty": "L",
       "Department": "L-X",
       "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 8960,
-    "details": {
-      "Full Name": "SHAMSUL BAHRAIN BIN HARON",
-      "E-mail": "SHAMSULBAHRAIN@UM.EDU.MY",
-      "Primary field": "610702045341",
-      "Secondary field": "SHAMSUL BAHRAIN BIN HARON",
-      "Code": "610702045341",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-P",
-      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -20225,24 +20189,6 @@
       "Faculty": "M",
       "Department": "M-J",
       "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9744,
-    "details": {
-      "Full Name": "KWAN SIEW WAI",
-      "E-mail": "KWANSIEWWAI@UM.EDU.MY",
-      "Primary field": "750725145630",
-      "Secondary field": "KWAN SIEW WAI",
-      "Code": "750725145630",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-M",
-      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -59495,6 +59441,24 @@
     }
   },
   {
+    "id": 11922,
+    "details": {
+      "Full Name": "NORHANIS BINTI AHMAD",
+      "E-mail": "ARENYS@UM.EDU.MY",
+      "Primary field": "00007667",
+      "Secondary field": "NORHANIS BINTI AHMAD",
+      "Code": "00007667",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 11923,
     "details": {
       "Full Name": "SALMI MARSITA BINTI SHAARI",
@@ -78357,6 +78321,24 @@
     }
   },
   {
+    "id": 13025,
+    "details": {
+      "Full Name": "MUHAMMAD ADLAN BIN ADANAN",
+      "E-mail": "ADLAN@UM.EDU.MY",
+      "Primary field": "00015822",
+      "Secondary field": "MUHAMMAD ADLAN BIN ADANAN",
+      "Code": "00015822",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 13026,
     "details": {
       "Full Name": "MUHAMAD ILLZAM BIN ISHAK",
@@ -84084,6 +84066,24 @@
     }
   },
   {
+    "id": 13357,
+    "details": {
+      "Full Name": "ALI MOHAMMED MANSOOR ALSAHAG",
+      "E-mail": "ALI.MANSOOR@UM.EDU.MY",
+      "Primary field": "00013668",
+      "Secondary field": "ALI MOHAMMED MANSOOR ALSAHAG",
+      "Code": "00013668",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "W",
+      "Department": "W-K",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 13358,
     "details": {
       "Full Name": "HASMIDAR BINTI HASSAN",
@@ -88280,24 +88280,6 @@
       "Job Title": "PENSYARAH",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "COORDINATOR BY FACULTY"
-    }
-  },
-  {
-    "id": 13599,
-    "details": {
-      "Full Name": "CHOONG YEOW CHOY",
-      "E-mail": "CHOONGYC@UM.EDU.MY",
-      "Primary field": "00003344",
-      "Secondary field": "CHOONG YEOW CHOY",
-      "Code": "00003344",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "L",
-      "Department": "L-X",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
     }
   },
   {
