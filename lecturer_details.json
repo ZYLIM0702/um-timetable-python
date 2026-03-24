@@ -7269,6 +7269,24 @@
     }
   },
   {
+    "id": 9025,
+    "details": {
+      "Full Name": "RAHASNAN ABDUL RASHID",
+      "E-mail": "RAHASNANQS@UM.EDU.MY",
+      "Primary field": "611209035013",
+      "Secondary field": "RAHASNAN ABDUL RASHID",
+      "Code": "611209035013",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-Q",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9026,
     "details": {
       "Full Name": "NORSIAH BINTI RAHMAT",
@@ -8263,23 +8281,6 @@
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
-    }
-  },
-  {
-    "id": 9081,
-    "details": {
-      "Full Name": "SHIRAZ MUHAMMAD",
-      "E-mail": "MUH_SHIRAZ@YAHOO.COM",
-      "Primary field": "CC5125641",
-      "Secondary field": "SHIRAZ MUHAMMAD",
-      "Code": "CC5125641",
-      "In Use? (Y/N)": "Y",
-      "Title": "SR",
-      "Location": "UMKL",
-      "Faculty": "W",
-      "Department": "W-R",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
     }
   },
   {
@@ -16832,6 +16833,25 @@
       "Department": "M-P",
       "Job Title": "PROFESOR",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 9557,
+    "details": {
+      "Full Name": "BADRUL HISHAM BIN MOHAMAD JAN",
+      "E-mail": "BADRULES@UM.EDU.MY",
+      "Primary field": "00007658",
+      "Secondary field": "BADRUL HISHAM BIN MOHAMAD JAN",
+      "Code": "00007658",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-K",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
     }
   },
   {
@@ -29488,24 +29508,6 @@
       "Faculty": "S",
       "Department": "S-F",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10259,
-    "details": {
-      "Full Name": "HIDEHARU FUJINAMI",
-      "E-mail": "FUJINAMI@UM.EDU.MY",
-      "Primary field": "00014689",
-      "Secondary field": "HIDEHARU FUJINAMI",
-      "Code": "00014689",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "F",
-      "Department": "F-X",
-      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
@@ -69878,6 +69880,24 @@
       "Department": "K-U",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12511,
+    "details": {
+      "Full Name": "KUHAN A/L KRISHNAN",
+      "E-mail": "KUHANK@UM.EDU.MY",
+      "Primary field": "00007791",
+      "Secondary field": "KUHAN A/L KRISHNAN",
+      "Code": "00007791",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
     }
   },
   {
