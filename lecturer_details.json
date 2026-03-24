@@ -7504,6 +7504,24 @@
     }
   },
   {
+    "id": 9038,
+    "details": {
+      "Full Name": "NOOR MUNIRAH BINTI ISA",
+      "E-mail": "NOORMUNIRAH@UM.EDU.MY",
+      "Primary field": "00010419",
+      "Secondary field": "NOOR MUNIRAH BINTI ISA",
+      "Code": "00010419",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-F",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9039,
     "details": {
       "Full Name": "ROZIE BINTI SARIP",
@@ -7772,6 +7790,24 @@
       "Faculty": "AB",
       "Department": "AB-X",
       "Job Title": "PENOLONG PENSYARAH",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9054,
+    "details": {
+      "Full Name": "WAHIB MOHAMMED MOHSEN ATROOSH",
+      "E-mail": "WAHIB@UM.EDU.MY",
+      "Primary field": "00015172",
+      "Secondary field": "WAHIB MOHAMMED MOHSEN ATROOSH",
+      "Code": "00015172",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-J",
+      "Job Title": "PENSYARAH",
       "Job Category": "A"
     }
   },
@@ -43159,6 +43195,24 @@
     }
   },
   {
+    "id": 11019,
+    "details": {
+      "Full Name": "NOOR HASIMA BINTI A K NAGOOR PITCHAI",
+      "E-mail": "HASIMA@UM.EDU.MY",
+      "Primary field": "00004377",
+      "Secondary field": "NOOR HASIMA BINTI A K NAGOOR PITCHAI",
+      "Code": "00004377",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-H",
+      "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11020,
     "details": {
       "Full Name": "NUR DAYANA BINTI MOHAMED ARIFFIN",
@@ -49499,6 +49553,24 @@
     }
   },
   {
+    "id": 11371,
+    "details": {
+      "Full Name": "INTAN SHAFURA BINTI ABDULLAH",
+      "E-mail": "INTANSHA@UM.EDU.MY",
+      "Primary field": "00006958",
+      "Secondary field": "INTAN SHAFURA BINTI ABDULLAH",
+      "Code": "00006958",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Title": "PENOLONG PEGAWAI TADBIR",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 11372,
     "details": {
       "Full Name": "NORLEELA BINTI AHMAD",
@@ -51288,24 +51360,6 @@
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
-    "id": 11471,
-    "details": {
-      "Full Name": "ADILAH BINTI ABDUL GHAPOR",
-      "E-mail": "ADILAHGHAPOR@UM.EDU.MY",
-      "Primary field": "00012844",
-      "Secondary field": "ADILAH BINTI ABDUL GHAPOR",
-      "Code": "00012844",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "AA",
-      "Department": "AA14",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
     }
   },
   {
@@ -69461,23 +69515,6 @@
       "Department": "G-7I-E",
       "Job Title": "PENOLONG PENDAFTAR",
       "Job Category": "E"
-    }
-  },
-  {
-    "id": 12489,
-    "details": {
-      "Full Name": "MUHAMMAD SUFI BIN MOHD ASRI",
-      "E-mail": "SUFI.MATHS@GMAIL.COM",
-      "Primary field": "00017511",
-      "Secondary field": "MUHAMMAD SUFI BIN MOHD ASRI",
-      "Code": "00017511",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-J",
-      "Job Category": "A"
     }
   },
   {
@@ -88098,24 +88135,6 @@
       "Faculty": "M",
       "Department": "M-X",
       "Job Title": "PENSYARAH PELATIH",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13590,
-    "details": {
-      "Full Name": "AHSAN AHMAD",
-      "E-mail": "AHSAN.AHMAD@UM.EDU.MY",
-      "Primary field": "00015448",
-      "Secondary field": "AHSAN AHMAD",
-      "Code": "00015448",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PENYELIDIK BERSEKUTU",
       "Job Category": "A"
     }
   },
