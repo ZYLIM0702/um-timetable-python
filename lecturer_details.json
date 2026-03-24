@@ -7269,24 +7269,6 @@
     }
   },
   {
-    "id": 9025,
-    "details": {
-      "Full Name": "RAHASNAN ABDUL RASHID",
-      "E-mail": "RAHASNANQS@UM.EDU.MY",
-      "Primary field": "611209035013",
-      "Secondary field": "RAHASNAN ABDUL RASHID",
-      "Code": "611209035013",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "B",
-      "Department": "B-Q",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9026,
     "details": {
       "Full Name": "NORSIAH BINTI RAHMAT",
@@ -28661,24 +28643,6 @@
     }
   },
   {
-    "id": 10211,
-    "details": {
-      "Full Name": "IZLIN BINTI ISMAIL",
-      "E-mail": "IZLIN@UM.EDU.MY",
-      "Primary field": "00005571",
-      "Secondary field": "IZLIN BINTI ISMAIL",
-      "Code": "00005571",
-      "In Use? (Y/N)": "Y",
-      "Title": "DATIN ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "AA",
-      "Department": "AA02",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10212,
     "details": {
       "Full Name": "VILASHINI SOMIAH",
@@ -48246,24 +48210,6 @@
     }
   },
   {
-    "id": 11299,
-    "details": {
-      "Full Name": "V.RATHNA DEVI A/P A.VAITHILINGAM",
-      "E-mail": "RATHNA@UM.EDU.MY",
-      "Primary field": "00009718",
-      "Secondary field": "V.RATHNA DEVI A/P A.VAITHILINGAM",
-      "Code": "00009718",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-R",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11300,
     "details": {
       "Full Name": "ANNA KOBAYASHI",
@@ -51360,6 +51306,24 @@
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
+    }
+  },
+  {
+    "id": 11471,
+    "details": {
+      "Full Name": "ADILAH BINTI ABDUL GHAPOR",
+      "E-mail": "ADILAHGHAPOR@UM.EDU.MY",
+      "Primary field": "00012844",
+      "Secondary field": "ADILAH BINTI ABDUL GHAPOR",
+      "Code": "00012844",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA14",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
     }
   },
   {
@@ -69518,6 +69482,23 @@
     }
   },
   {
+    "id": 12489,
+    "details": {
+      "Full Name": "MUHAMMAD SUFI BIN MOHD ASRI",
+      "E-mail": "SUFI.MATHS@GMAIL.COM",
+      "Primary field": "00017511",
+      "Secondary field": "MUHAMMAD SUFI BIN MOHD ASRI",
+      "Code": "00017511",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-J",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 12490,
     "details": {
       "Full Name": "NOR' AMIRAH BINTI NORDIN",
@@ -87647,24 +87628,6 @@
     }
   },
   {
-    "id": 13562,
-    "details": {
-      "Full Name": "KAMILA BINTI GHAZALI",
-      "E-mail": "KAMILA@UM.EDU.MY",
-      "Primary field": "00004536",
-      "Secondary field": "KAMILA BINTI GHAZALI",
-      "Code": "00004536",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "H",
-      "Department": "H-X",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 13563,
     "details": {
       "Full Name": "GOPINATH VENKATRAMAN",
@@ -88135,6 +88098,24 @@
       "Faculty": "M",
       "Department": "M-X",
       "Job Title": "PENSYARAH PELATIH",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13590,
+    "details": {
+      "Full Name": "AHSAN AHMAD",
+      "E-mail": "AHSAN.AHMAD@UM.EDU.MY",
+      "Primary field": "00015448",
+      "Secondary field": "AHSAN AHMAD",
+      "Code": "00015448",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-P",
+      "Job Title": "PENYELIDIK BERSEKUTU",
       "Job Category": "A"
     }
   },
