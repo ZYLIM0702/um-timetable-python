@@ -7269,6 +7269,24 @@
     }
   },
   {
+    "id": 9025,
+    "details": {
+      "Full Name": "RAHASNAN ABDUL RASHID",
+      "E-mail": "RAHASNANQS@UM.EDU.MY",
+      "Primary field": "611209035013",
+      "Secondary field": "RAHASNAN ABDUL RASHID",
+      "Code": "611209035013",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-Q",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9026,
     "details": {
       "Full Name": "NORSIAH BINTI RAHMAT",
@@ -12984,24 +13002,6 @@
       "Faculty": "K",
       "Department": "K-E",
       "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9344,
-    "details": {
-      "Full Name": "RAHIMI BIN MD SAAD",
-      "E-mail": "RAHIMISAAD@UM.EDU.MY",
-      "Primary field": "00008143",
-      "Secondary field": "RAHIMI BIN MD SAAD",
-      "Code": "00008143",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-A",
-      "Job Title": "PENSYARAH",
       "Job Category": "A"
     }
   },
@@ -27147,24 +27147,6 @@
     }
   },
   {
-    "id": 10128,
-    "details": {
-      "Full Name": "OMID AKBARZADEH PIVEHZHANI",
-      "E-mail": "OMID@UM.EDU.MY",
-      "Primary field": "00014419",
-      "Secondary field": "OMID AKBARZADEH PIVEHZHANI",
-      "Code": "00014419",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8J",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10129,
     "details": {
       "Full Name": "AHMAD FARIS BIN MOHD ADNAN",
@@ -28638,6 +28620,24 @@
       "Location": "UMKL",
       "Faculty": "G",
       "Department": "G-8J",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10211,
+    "details": {
+      "Full Name": "IZLIN BINTI ISMAIL",
+      "E-mail": "IZLIN@UM.EDU.MY",
+      "Primary field": "00005571",
+      "Secondary field": "IZLIN BINTI ISMAIL",
+      "Code": "00005571",
+      "In Use? (Y/N)": "Y",
+      "Title": "DATIN ASSOCIATE PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA02",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
@@ -39009,24 +39009,6 @@
     }
   },
   {
-    "id": 10788,
-    "details": {
-      "Full Name": "NUR AMALINA DAYANA BINTI ABD AZIZ",
-      "E-mail": "N.AMALINADAYANA@UM.EDU.MY",
-      "Primary field": "00014223",
-      "Secondary field": "NUR AMALINA DAYANA BINTI ABD AZIZ",
-      "Code": "00014223",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-X",
-      "Job Title": "PENOLONG PENDAFTAR",
-      "Job Category": "E"
-    }
-  },
-  {
     "id": 10789,
     "details": {
       "Full Name": "SULAIMAN BIN MOHD YASIN",
@@ -48205,6 +48187,24 @@
       "Location": "UMKL",
       "Faculty": "D",
       "Department": "D-M",
+      "Job Title": "PROFESOR",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11299,
+    "details": {
+      "Full Name": "V.RATHNA DEVI A/P A.VAITHILINGAM",
+      "E-mail": "RATHNA@UM.EDU.MY",
+      "Primary field": "00009718",
+      "Secondary field": "V.RATHNA DEVI A/P A.VAITHILINGAM",
+      "Code": "00009718",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "D",
+      "Department": "D-R",
       "Job Title": "PROFESOR",
       "Job Category": "A"
     }
@@ -87624,6 +87624,24 @@
       "Faculty": "G",
       "Department": "G-8AH",
       "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13562,
+    "details": {
+      "Full Name": "KAMILA BINTI GHAZALI",
+      "E-mail": "KAMILA@UM.EDU.MY",
+      "Primary field": "00004536",
+      "Secondary field": "KAMILA BINTI GHAZALI",
+      "Code": "00004536",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "H",
+      "Department": "H-X",
+      "Job Title": "PROFESOR",
       "Job Category": "A"
     }
   },
