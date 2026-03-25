@@ -5837,24 +5837,6 @@
     }
   },
   {
-    "id": 8946,
-    "details": {
-      "Full Name": "AZNI BINTI HAJI AHMAD",
-      "E-mail": "AZNIE_A@UM.EDU.MY",
-      "Primary field": "00011764",
-      "Secondary field": "AZNI BINTI HAJI AHMAD",
-      "Code": "00011764",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-B",
-      "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8947,
     "details": {
       "Full Name": "AIDA SYAFINAZ BINTI MOKHTAR",
@@ -13002,6 +12984,24 @@
       "Faculty": "K",
       "Department": "K-E",
       "Job Title": "PROFESOR",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9344,
+    "details": {
+      "Full Name": "RAHIMI BIN MD SAAD",
+      "E-mail": "RAHIMISAAD@UM.EDU.MY",
+      "Primary field": "00008143",
+      "Secondary field": "RAHIMI BIN MD SAAD",
+      "Code": "00008143",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-A",
+      "Job Title": "PENSYARAH",
       "Job Category": "A"
     }
   },
@@ -27147,6 +27147,24 @@
     }
   },
   {
+    "id": 10128,
+    "details": {
+      "Full Name": "OMID AKBARZADEH PIVEHZHANI",
+      "E-mail": "OMID@UM.EDU.MY",
+      "Primary field": "00014419",
+      "Secondary field": "OMID AKBARZADEH PIVEHZHANI",
+      "Code": "00014419",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8J",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10129,
     "details": {
       "Full Name": "AHMAD FARIS BIN MOHD ADNAN",
@@ -29996,24 +30014,6 @@
     }
   },
   {
-    "id": 10287,
-    "details": {
-      "Full Name": "MOHD IZZUDIN IZZAT BIN ZAINAL ABIDIN",
-      "E-mail": "IZZUDINIZZAT@UM.EDU.MY",
-      "Primary field": "00013804",
-      "Secondary field": "MOHD IZZUDIN IZZAT BIN ZAINAL ABIDIN",
-      "Code": "00013804",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-K",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10288,
     "details": {
       "Full Name": "KAZI ENAMUL HOQUE",
@@ -31669,24 +31669,6 @@
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
-    }
-  },
-  {
-    "id": 10380,
-    "details": {
-      "Full Name": "WONG KAH HUI",
-      "E-mail": "WKAHHUI@UM.EDU.MY",
-      "Primary field": "00007460",
-      "Secondary field": "WONG KAH HUI",
-      "Code": "00007460",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-A",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
     }
   },
   {
@@ -39006,6 +38988,24 @@
       "Department": "Z-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
+    }
+  },
+  {
+    "id": 10788,
+    "details": {
+      "Full Name": "NUR AMALINA DAYANA BINTI ABD AZIZ",
+      "E-mail": "N.AMALINADAYANA@UM.EDU.MY",
+      "Primary field": "00014223",
+      "Secondary field": "NUR AMALINA DAYANA BINTI ABD AZIZ",
+      "Code": "00014223",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "D",
+      "Department": "D-X",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
     }
   },
   {
@@ -77219,22 +77219,6 @@
       "Department": "M-X",
       "Job Title": "PENOLONG PEGAWAI TADBIR",
       "Job Category": "N"
-    }
-  },
-  {
-    "id": 12960,
-    "details": {
-      "Full Name": "SAKINA BT GHAUTH",
-      "E-mail": "sakina.ghauth@gmail.com",
-      "Primary field": "00016157",
-      "Secondary field": "SAKINA BT GHAUTH",
-      "Code": "00016157",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-I",
-      "Job Category": "A"
     }
   },
   {
