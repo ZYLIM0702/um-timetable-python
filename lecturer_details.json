@@ -15286,6 +15286,24 @@
     }
   },
   {
+    "id": 9470,
+    "details": {
+      "Full Name": "ASYRAF ISYRAQI BIN JAMIL",
+      "E-mail": "ISYRAQI@UM.EDU.MY",
+      "Primary field": "00010280",
+      "Secondary field": "ASYRAF ISYRAQI BIN JAMIL",
+      "Code": "00010280",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-B",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9471,
     "details": {
       "Full Name": "LOO FUNG CHIAT",
@@ -26911,24 +26929,6 @@
     }
   },
   {
-    "id": 10115,
-    "details": {
-      "Full Name": "LOH THIAN CHEE",
-      "E-mail": "TCLOH@UM.EDU.MY",
-      "Primary field": "00014625",
-      "Secondary field": "LOH THIAN CHEE",
-      "Code": "00014625",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PENSYARAH PERUBATAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10116,
     "details": {
       "Full Name": "AHMAD ZABIDI BIN ABDUL RAZAK",
@@ -35791,24 +35791,6 @@
       "Faculty": "G",
       "Department": "G-8T",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10608,
-    "details": {
-      "Full Name": "KWAN ZHENLI",
-      "E-mail": "ZHENLI@UM.EDU.MY",
-      "Primary field": "00013918",
-      "Secondary field": "KWAN ZHENLI",
-      "Code": "00013918",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
@@ -47474,6 +47456,24 @@
     }
   },
   {
+    "id": 11257,
+    "details": {
+      "Full Name": "ROSMAWATI BINTI MOHD ALI",
+      "E-mail": "ROSMA@UM.EDU.MY",
+      "Primary field": "00001898",
+      "Secondary field": "ROSMAWATI BINTI MOHD ALI",
+      "Code": "00001898",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-11H",
+      "Job Title": "KETUA PENOLONG PENDAFTAR KANAN",
+      "Job Category": "E",
+      "Position Held (e.g. Dean)": "E"
+    }
+  },
+  {
     "id": 11258,
     "details": {
       "Full Name": "KHOO SAW SIAN",
@@ -50327,6 +50327,24 @@
       "Location": "UMKL",
       "Faculty": "O",
       "Department": "O-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 11416,
+    "details": {
+      "Full Name": "SYED AHMAD ZAMANI BIN SYED OMAR",
+      "E-mail": "SYED.ZAM@UM.EDU.MY",
+      "Primary field": "00012521",
+      "Secondary field": "SYED AHMAD ZAMANI BIN SYED OMAR",
+      "Code": "00012521",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
     }
@@ -72656,24 +72674,6 @@
     }
   },
   {
-    "id": 12684,
-    "details": {
-      "Full Name": "LO YUEH YEA",
-      "E-mail": "JANICE@UM.EDU.MY",
-      "Primary field": "00015841",
-      "Secondary field": "LO YUEH YEA",
-      "Code": "00015841",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-B",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12685,
     "details": {
       "Full Name": "SAROJA A/P DHANAPAL",
@@ -80814,24 +80814,6 @@
       "Faculty": "S",
       "Department": "S-C",
       "Job Title": "PROFESOR KEHORMAT",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 13169,
-    "details": {
-      "Full Name": "KARUTHAN CHINNA",
-      "E-mail": "KARUTHAN@UM.EDU.MY",
-      "Primary field": "00011749",
-      "Secondary field": "KARUTHAN CHINNA",
-      "Code": "00011749",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-O",
-      "Job Title": "PAKAR",
       "Job Category": "A"
     }
   },
