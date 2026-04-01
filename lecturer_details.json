@@ -2819,6 +2819,25 @@
     }
   },
   {
+    "id": 8779,
+    "details": {
+      "Full Name": "SAIPOL BARI BIN ABD KARIM",
+      "E-mail": "SAIPOLBARI@UM.EDU.MY",
+      "Primary field": "00008434",
+      "Secondary field": "SAIPOL BARI BIN ABD KARIM",
+      "Code": "00008434",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. SR DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-Q",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
+    }
+  },
+  {
     "id": 8780,
     "details": {
       "Full Name": "RAM GOPAL RAJ",
@@ -9259,24 +9278,6 @@
     }
   },
   {
-    "id": 9137,
-    "details": {
-      "Full Name": "SEE MEE HOONG",
-      "E-mail": "SMHOONG76@UM.EDU.MY",
-      "Primary field": "00012961",
-      "Secondary field": "SEE MEE HOONG",
-      "Code": "00012961",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-S",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9138,
     "details": {
       "Full Name": "NOVIA ADMODISASTRO",
@@ -10012,6 +10013,24 @@
       "Faculty": "R",
       "Department": "R-M",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9179,
+    "details": {
+      "Full Name": "AZMAN BIN ABD GHANI",
+      "E-mail": "AZMANGEO@UM.EDU.MY",
+      "Primary field": "00004083",
+      "Secondary field": "AZMAN BIN ABD GHANI",
+      "Code": "00004083",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-G",
+      "Job Title": "PROFESOR",
       "Job Category": "A"
     }
   },
@@ -31761,6 +31780,24 @@
     }
   },
   {
+    "id": 10385,
+    "details": {
+      "Full Name": "ONG LOK TIK",
+      "E-mail": "ONGLT@UM.EDU.MY",
+      "Primary field": "00004593",
+      "Secondary field": "ONG LOK TIK",
+      "Code": "00004593",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-C",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10386,
     "details": {
       "Full Name": "TEY LIAN SENG",
@@ -44637,6 +44674,24 @@
     }
   },
   {
+    "id": 11102,
+    "details": {
+      "Full Name": "LIM HIONG CHIN",
+      "E-mail": "HCLIM208@UM.EDU.MY",
+      "Primary field": "00014502",
+      "Secondary field": "LIM HIONG CHIN",
+      "Code": "00014502",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-S",
+      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11103,
     "details": {
       "Full Name": "SHARIFAH AISHAH BINTI OSMAN",
@@ -48406,24 +48461,6 @@
       "Faculty": "F",
       "Department": "F-AJ",
       "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11312,
-    "details": {
-      "Full Name": "NOR'AZZAH BINTI KAMRI",
-      "E-mail": "AZZAH@UM.EDU.MY",
-      "Primary field": "00005424",
-      "Secondary field": "NOR'AZZAH BINTI KAMRI",
-      "Code": "00005424",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-P",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -63385,24 +63422,6 @@
     }
   },
   {
-    "id": 12143,
-    "details": {
-      "Full Name": "TAN HSIAO WEI",
-      "E-mail": "TANHW@UM.EDU.MY",
-      "Primary field": "00010617",
-      "Secondary field": "TAN HSIAO WEI",
-      "Code": "00010617",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8T",
-      "Job Title": "PEGAWAI PENYELIDIK",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12144,
     "details": {
       "Full Name": "W. AMINATUL AFNA BT W. MOHAMMAD RAWI",
@@ -69999,6 +70018,22 @@
     }
   },
   {
+    "id": 12520,
+    "details": {
+      "Full Name": "SITI NURAFIQAH HANANI BINTI SHIEKH ANUAR",
+      "E-mail": "hananianuar19@gmail.com",
+      "Primary field": "00016289",
+      "Secondary field": "SITI NURAFIQAH HANANI BINTI SHIEKH ANUAR",
+      "Code": "00016289",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-G",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 12521,
     "details": {
       "Full Name": "NUR ASIKIN BINTI MISRAN",
@@ -71051,24 +71086,6 @@
       "Faculty": "M",
       "Department": "M-Y",
       "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12592,
-    "details": {
-      "Full Name": "MOHAMAD FADZELI JAAFAR",
-      "E-mail": "FADZELI7004@UM.EDU.MY",
-      "Primary field": "661202055287",
-      "Secondary field": "MOHAMAD FADZELI JAAFAR",
-      "Code": "661202055287",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "J",
-      "Department": "J-X",
-      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -75027,24 +75044,6 @@
       "Faculty": "S",
       "Department": "S-H",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12824,
-    "details": {
-      "Full Name": "MOHAMAD ADAM BIN OMAR",
-      "E-mail": "MOHAMADADAM8889@UM.EDU.MY",
-      "Primary field": "850915025101",
-      "Secondary field": "MOHAMAD ADAM BIN OMAR",
-      "Code": "850915025101",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "A",
-      "Department": "A-D",
-      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
