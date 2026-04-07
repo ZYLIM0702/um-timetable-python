@@ -9223,6 +9223,24 @@
     }
   },
   {
+    "id": 9134,
+    "details": {
+      "Full Name": "FATIMAH BINTI KARI",
+      "E-mail": "FATIMAH_KARI@UM.EDU.MY",
+      "Primary field": "00001633",
+      "Secondary field": "FATIMAH BINTI KARI",
+      "Code": "00001633",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "E",
+      "Department": "E-K",
+      "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9135,
     "details": {
       "Full Name": "NURADILLA BINTI MOHAMAD FAUZI",
@@ -9945,6 +9963,24 @@
     }
   },
   {
+    "id": 9175,
+    "details": {
+      "Full Name": "OSMAN BIN MD RASIP",
+      "E-mail": "OSMANRASIP@UM.EDU.MY",
+      "Primary field": "00009878",
+      "Secondary field": "OSMAN BIN MD RASIP",
+      "Code": "00009878",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-H",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9176,
     "details": {
       "Full Name": "LIM PO TEEN",
@@ -10589,6 +10625,24 @@
       "Faculty": "S",
       "Department": "S-F",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9212,
+    "details": {
+      "Full Name": "SUJATA A/P BALAN",
+      "E-mail": "SUJATABALAN@UM.EDU.MY",
+      "Primary field": "00008954",
+      "Secondary field": "SUJATA A/P BALAN",
+      "Code": "00008954",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -15119,6 +15173,24 @@
       "Faculty": "R",
       "Department": "R-M",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9464,
+    "details": {
+      "Full Name": "MARIAM BINTI ABDULLAH",
+      "E-mail": "MARIAMABD@UM.EDU.MY",
+      "Primary field": "00001349",
+      "Secondary field": "MARIAM BINTI ABDULLAH",
+      "Code": "00001349",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "D",
+      "Department": "D-R",
+      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
@@ -30574,24 +30646,6 @@
     }
   },
   {
-    "id": 10321,
-    "details": {
-      "Full Name": "LEE CHENG SIANG",
-      "E-mail": "CHENGSIANG.LEE@UM.EDU.MY",
-      "Primary field": "00014484",
-      "Secondary field": "LEE CHENG SIANG",
-      "Code": "00014484",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10322,
     "details": {
       "Full Name": "LAI KHIN WEE",
@@ -37026,24 +37080,6 @@
       "Faculty": "AA",
       "Department": "AA01",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10680,
-    "details": {
-      "Full Name": "NUR FHATIN NADIA BINTI JASNI",
-      "E-mail": "FHATINNADIA@UM.EDU.MY",
-      "Primary field": "00014427",
-      "Secondary field": "NUR FHATIN NADIA BINTI JASNI",
-      "Code": "00014427",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-H",
-      "Job Title": "PENSYARAH PELATIH",
       "Job Category": "A"
     }
   },
@@ -61000,24 +61036,6 @@
       "Primary field": "860906436979",
       "Secondary field": "DONOVAN LEE SHYUN HYN",
       "Code": "860906436979",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "L",
-      "Department": "L-X",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12010,
-    "details": {
-      "Full Name": "MUHAMMAD AHNAF BIN ABDUL RAHIM",
-      "E-mail": "AHNAF@UM.EDU.MY",
-      "Primary field": "880427435141",
-      "Secondary field": "MUHAMMAD AHNAF BIN ABDUL RAHIM",
-      "Code": "880427435141",
       "In Use? (Y/N)": "Y",
       "Title": "MR.",
       "Gender": "MALE",
