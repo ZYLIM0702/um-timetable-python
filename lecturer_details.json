@@ -861,23 +861,6 @@
     }
   },
   {
-    "id": 8669,
-    "details": {
-      "Full Name": "WONG SOOK KWUN",
-      "E-mail": "WONGSOOKKWUN@UM.EDU.MY",
-      "Primary field": "631106055546",
-      "Secondary field": "WONG SOOK KWUN",
-      "Code": "631106055546",
-      "In Use? (Y/N)": "Y",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-E",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8670,
     "details": {
       "Full Name": "FAIRUS AINI BINTI PAIRAN",
@@ -7826,6 +7809,24 @@
       "Faculty": "G",
       "Department": "G-7C",
       "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9056,
+    "details": {
+      "Full Name": "ANUSUIYA A/P SUBRAMANIAM",
+      "E-mail": "ANUSUIYA@UM.EDU.MY",
+      "Primary field": "811215085224",
+      "Secondary field": "ANUSUIYA A/P SUBRAMANIAM",
+      "Code": "811215085224",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "C",
+      "Department": "C-B",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -16221,6 +16222,24 @@
     }
   },
   {
+    "id": 9523,
+    "details": {
+      "Full Name": "NUR ADILA BT ANUAR",
+      "E-mail": "NURADILA@UM.EDU.MY",
+      "Primary field": "00010878",
+      "Secondary field": "NUR ADILA BT ANUAR",
+      "Code": "00010878",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-P",
+      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9524,
     "details": {
       "Full Name": "MARDIAN SHAH OMAR",
@@ -16867,6 +16886,24 @@
       "Location": "UMKL",
       "Faculty": "S",
       "Department": "S-H",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9560,
+    "details": {
+      "Full Name": "MAZDIDA BINTI SULAIMAN",
+      "E-mail": "MAZDIDAS@UM.EDU.MY",
+      "Primary field": "00002498",
+      "Secondary field": "MAZDIDA BINTI SULAIMAN",
+      "Code": "00002498",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-C",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
@@ -40231,24 +40268,6 @@
     }
   },
   {
-    "id": 10857,
-    "details": {
-      "Full Name": "NUR'ADILAH BINTI MD JELANI",
-      "E-mail": "NURADILAH@UM.EDU.MY",
-      "Primary field": "00014294",
-      "Secondary field": "NUR'ADILAH BINTI MD JELANI",
-      "Code": "00014294",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "H",
-      "Department": "H-X",
-      "Job Title": "PENOLONG PENDAFTAR",
-      "Job Category": "E",
-      "Position Held (e.g. Dean)": "E"
-    }
-  },
-  {
     "id": 10858,
     "details": {
       "Full Name": "ZAINAB BINTI ISHAK",
@@ -49911,24 +49930,6 @@
       "Faculty": "G",
       "Department": "G-7E",
       "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11394,
-    "details": {
-      "Full Name": "FATHIAH BINTI MOHAMED ZUKI",
-      "E-mail": "FATHIAHMZ@UM.EDU.MY",
-      "Primary field": "00006909",
-      "Secondary field": "FATHIAH BINTI MOHAMED ZUKI",
-      "Code": "00006909",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-K",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -65538,6 +65539,24 @@
       "Location": "UMKL",
       "Faculty": "M",
       "Department": "M-P",
+      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12262,
+    "details": {
+      "Full Name": "RIZAWATI BINTI RAMLI",
+      "E-mail": "DRIEZA79@UM.EDU.MY",
+      "Primary field": "00015411",
+      "Secondary field": "RIZAWATI BINTI RAMLI",
+      "Code": "00015411",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-M",
       "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
