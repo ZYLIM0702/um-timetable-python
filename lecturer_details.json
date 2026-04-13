@@ -4969,24 +4969,6 @@
     }
   },
   {
-    "id": 8898,
-    "details": {
-      "Full Name": "MUHAMMAD NAZRUL BIN NANA KHURIZAN",
-      "E-mail": "NAZRULNANA@UM.EDU.MY",
-      "Primary field": "00009280",
-      "Secondary field": "MUHAMMAD NAZRUL BIN NANA KHURIZAN",
-      "Code": "00009280",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "F",
-      "Department": "F-AJ",
-      "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8899,
     "details": {
       "Full Name": "NGEOW CHOW BING",
@@ -7629,24 +7611,6 @@
       "Department": "F04",
       "Job Title": "PEGAWAI PERKHIDMATAN PENDIDIKAN",
       "Job Category": "EA"
-    }
-  },
-  {
-    "id": 9045,
-    "details": {
-      "Full Name": "NG RUEY TERNG",
-      "E-mail": "RUEYNG@UM.EDU.MY",
-      "Primary field": "00012089",
-      "Secondary field": "NG RUEY TERNG",
-      "Code": "00012089",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-L",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
     }
   },
   {
@@ -44674,24 +44638,6 @@
     }
   },
   {
-    "id": 11101,
-    "details": {
-      "Full Name": "TUNKU SARA BINTI TUNKU AHMAD YAHAYA",
-      "E-mail": "TSARA@UM.EDU.MY",
-      "Primary field": "00000641",
-      "Secondary field": "TUNKU SARA BINTI TUNKU AHMAD YAHAYA",
-      "Code": "00000641",
-      "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-R",
-      "Job Title": "PROFESOR KEHORMAT",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11102,
     "details": {
       "Full Name": "LIM HIONG CHIN",
@@ -48700,24 +48646,6 @@
     }
   },
   {
-    "id": 11324,
-    "details": {
-      "Full Name": "SHARIFAH BINTI ABD RASHID",
-      "E-mail": "SHARIFAHABDRASHID@UM.EDU.MY",
-      "Primary field": "00013989",
-      "Secondary field": "SHARIFAH BINTI ABD RASHID",
-      "Code": "00013989",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-S",
-      "Job Title": "PEMBANTU PROJEK",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 11325,
     "details": {
       "Full Name": "JANATHAL A/P KARUPPAYA",
@@ -52062,6 +51990,24 @@
       "Department": "K-X",
       "Job Title": "PENOLONG PENDAFTAR",
       "Job Category": "E"
+    }
+  },
+  {
+    "id": 11510,
+    "details": {
+      "Full Name": "NURUL FIRDAUS BINTI MD HANIFF",
+      "E-mail": "NURUL81@UM.EDU.MY",
+      "Primary field": "00011956",
+      "Secondary field": "NURUL FIRDAUS BINTI MD HANIFF",
+      "Code": "00011956",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "V",
+      "Department": "V-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
     }
   },
   {
@@ -70519,23 +70465,6 @@
     }
   },
   {
-    "id": 12551,
-    "details": {
-      "Full Name": "SHAMUNI KUNJIAPU",
-      "E-mail": "shaminik25@yahoo.com",
-      "Primary field": "00016249",
-      "Secondary field": "SHAMUNI KUNJIAPU",
-      "Code": "00016249",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Location": "UMKL",
-      "Faculty": "Q",
-      "Department": "Q-Q1",
-      "Job Title": "PENYELIDIK BERSEKUTU",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12552,
     "details": {
       "Full Name": "OKTAVIANUS, M. HUM",
@@ -75236,24 +75165,6 @@
       "Faculty": "AA",
       "Department": "AA01",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12832,
-    "details": {
-      "Full Name": "MUHAMMAD ZUHRY BIN MOHD MAZLAN",
-      "E-mail": "MDZUHRY@GMAIL.COM",
-      "Primary field": "841126036049",
-      "Secondary field": "MUHAMMAD ZUHRY BIN MOHD MAZLAN",
-      "Code": "841126036049",
-      "In Use? (Y/N)": "Y",
-      "Title": "SR",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "B",
-      "Department": "B-Q",
-      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
