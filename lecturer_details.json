@@ -43627,24 +43627,6 @@
     }
   },
   {
-    "id": 11043,
-    "details": {
-      "Full Name": "EMI SHAQIZA BINTI AZIZI",
-      "E-mail": "EMISHAQIZA@UM.EDU.MY",
-      "Primary field": "00011527",
-      "Secondary field": "EMI SHAQIZA BINTI AZIZI",
-      "Code": "00011527",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-7H",
-      "Job Title": "PENOLONG PENDAFTAR KANAN",
-      "Job Category": "E"
-    }
-  },
-  {
     "id": 11044,
     "details": {
       "Full Name": "SITI NOR SHOFFIAH BINTI ZAMARI",
@@ -44075,6 +44057,24 @@
       "Faculty": "G",
       "Department": "G-7E",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11068,
+    "details": {
+      "Full Name": "WAN AFIQAH ANIS BINTI WAN AHMAD",
+      "E-mail": "AFIQAHANIS@UM.EDU.MY",
+      "Primary field": "00012293",
+      "Secondary field": "WAN AFIQAH ANIS BINTI WAN AHMAD",
+      "Code": "00012293",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-I",
+      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
@@ -49621,24 +49621,6 @@
       "Faculty": "S",
       "Department": "S-J",
       "Job Title": "PROFESOR KEHORMAT",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11376,
-    "details": {
-      "Full Name": "AIDAWATI BINTI BUSTAM @ MAINUDIN",
-      "E-mail": "AIDABUSTAM@UM.EDU.MY",
-      "Primary field": "00010071",
-      "Secondary field": "AIDAWATI BINTI BUSTAM @ MAINUDIN",
-      "Code": "00010071",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-X",
-      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
   },
@@ -57514,6 +57496,24 @@
     }
   },
   {
+    "id": 11813,
+    "details": {
+      "Full Name": "HUD BIN HANAPI",
+      "E-mail": "HUDHANAPI@UM.EDU.MY",
+      "Primary field": "00012431",
+      "Secondary field": "HUD BIN HANAPI",
+      "Code": "00012431",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
+    }
+  },
+  {
     "id": 11814,
     "details": {
       "Full Name": "RUHAIDA BINTI BAHRU",
@@ -59564,24 +59564,6 @@
       "Department": "G-1A",
       "Job Title": "PENOLONG PENDAFTAR",
       "Job Category": "E"
-    }
-  },
-  {
-    "id": 11928,
-    "details": {
-      "Full Name": "MOHD AQMAL AL-FARIZ BIN DASUKI",
-      "E-mail": "AQMALFARIZ@UM.EDU.MY",
-      "Primary field": "00015443",
-      "Secondary field": "MOHD AQMAL AL-FARIZ BIN DASUKI",
-      "Code": "00015443",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "R",
-      "Department": "R-R",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
     }
   },
   {
@@ -69465,24 +69447,6 @@
     }
   },
   {
-    "id": 12487,
-    "details": {
-      "Full Name": "SOMAYA MAGED MOHAMED ADWAN",
-      "E-mail": "S.ADWAN@UM.EDU.MY",
-      "Primary field": "00015937",
-      "Secondary field": "SOMAYA MAGED MOHAMED ADWAN",
-      "Code": "00015937",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-E",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12488,
     "details": {
       "Full Name": "SUHAIMA BINTI MOHD SANI @ MUSTAPHA",
@@ -76700,23 +76664,6 @@
       "Faculty": "M",
       "Department": "M-D",
       "Job Title": "PENSYARAH",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12928,
-    "details": {
-      "Full Name": "YUVARAJ RAMASAMY",
-      "E-mail": "YUVARAJ@UM.EDU.MY",
-      "Primary field": "780910105101",
-      "Secondary field": "YUVARAJ RAMASAMY",
-      "Code": "780910105101",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "V",
-      "Department": "V-X",
       "Job Category": "A"
     }
   },
