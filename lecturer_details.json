@@ -7179,6 +7179,24 @@
     }
   },
   {
+    "id": 9020,
+    "details": {
+      "Full Name": "NORHAFIZA BINTI MUDA",
+      "E-mail": "FIZAMUDA@UM.EDU.MY",
+      "Primary field": "00009771",
+      "Secondary field": "NORHAFIZA BINTI MUDA",
+      "Code": "00009771",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F04",
+      "Job Title": "PEGAWAI PERKHIDMATAN PENDIDIKAN",
+      "Job Category": "EA"
+    }
+  },
+  {
     "id": 9021,
     "details": {
       "Full Name": "HAFIZUL BIN MAT",
@@ -41498,24 +41516,6 @@
       "Location": "UMKL",
       "Faculty": "G",
       "Department": "G-7E",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10926,
-    "details": {
-      "Full Name": "SABITHA BINTI MARICAN",
-      "E-mail": "SABITHA@UM.EDU.MY",
-      "Primary field": "590823015004",
-      "Secondary field": "SABITHA BINTI MARICAN",
-      "Code": "590823015004",
-      "In Use? (Y/N)": "Y",
-      "Title": "DATIN ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "E",
-      "Department": "E-P",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
