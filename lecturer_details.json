@@ -29350,25 +29350,6 @@
     }
   },
   {
-    "id": 10249,
-    "details": {
-      "Full Name": "EDMUND TERENCE A/L ERIC BONIFACE GOMEZ",
-      "E-mail": "ETGOMEZ@UM.EDU.MY",
-      "Primary field": "00005536",
-      "Secondary field": "EDMUND TERENCE A/L ERIC BONIFACE GOMEZ",
-      "Code": "00005536",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "E",
-      "Department": "E-P",
-      "Job Title": "PROFESOR",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "DEAN"
-    }
-  },
-  {
     "id": 10250,
     "details": {
       "Full Name": "NURYANA BINTI IDRIS",
@@ -42908,24 +42889,6 @@
     }
   },
   {
-    "id": 11003,
-    "details": {
-      "Full Name": "SYAR MEEZE BIN MOHD RASHID",
-      "E-mail": "SYARMEEZE@UM.EDU.MY",
-      "Primary field": "890305145655",
-      "Secondary field": "SYAR MEEZE BIN MOHD RASHID",
-      "Code": "890305145655",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-X",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11004,
     "details": {
       "Full Name": "MAHALETCHEMY A/P N.NAGALINGAM",
@@ -50186,24 +50149,6 @@
     }
   },
   {
-    "id": 11406,
-    "details": {
-      "Full Name": "ZUBAIDAH BINTI ISMAIL",
-      "E-mail": "ZU_ISMAIL@UM.EDU.MY",
-      "Primary field": "00003163",
-      "Secondary field": "ZUBAIDAH BINTI ISMAIL",
-      "Code": "00003163",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-A",
-      "Job Title": "FELO PENYELIDIK",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11407,
     "details": {
       "Full Name": "ONG SIM YING",
@@ -53687,24 +53632,6 @@
       "Faculty": "M",
       "Department": "M-S",
       "Job Title": "PROFESOR KEHORMAT",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11600,
-    "details": {
-      "Full Name": "NG KEE SEONG",
-      "E-mail": "NGKS@UM.EDU.MY",
-      "Primary field": "00014080",
-      "Secondary field": "NG KEE SEONG",
-      "Code": "00014080",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
   },
@@ -74847,6 +74774,24 @@
       "Location": "UMKL",
       "Faculty": "P",
       "Department": "P-P",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12808,
+    "details": {
+      "Full Name": "SHARYZEE BIN MOHMAD SHUKRI",
+      "E-mail": "sharyzee@um.edu.my",
+      "Primary field": "00016387",
+      "Secondary field": "SHARYZEE BIN MOHMAD SHUKRI",
+      "Code": "00016387",
+      "In Use? (Y/N)": "Y",
+      "Title": "TS. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "B",
+      "Department": "B-A",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
