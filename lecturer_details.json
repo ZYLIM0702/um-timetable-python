@@ -9296,24 +9296,6 @@
     }
   },
   {
-    "id": 9138,
-    "details": {
-      "Full Name": "NOVIA ADMODISASTRO",
-      "E-mail": "NOVIA@UM.EDU.MY",
-      "Primary field": "771120125066",
-      "Secondary field": "NOVIA ADMODISASTRO",
-      "Code": "771120125066",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "W",
-      "Department": "W-K",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9139,
     "details": {
       "Full Name": "MEHRAN SOOKHAKIAN",
@@ -18157,23 +18139,6 @@
     }
   },
   {
-    "id": 9629,
-    "details": {
-      "Full Name": "KEE BOON PIN",
-      "E-mail": "BPKEE@UM.EDU.MY",
-      "Primary field": "00009845",
-      "Secondary field": "KEE BOON PIN",
-      "Code": "00009845",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9630,
     "details": {
       "Full Name": "CHIU WEE SIONG",
@@ -25199,24 +25164,6 @@
     }
   },
   {
-    "id": 10019,
-    "details": {
-      "Full Name": "AZIZAN BINTI BAHARUDDIN",
-      "E-mail": "AZIZANB@UM.EDU.MY",
-      "Primary field": "00003937",
-      "Secondary field": "AZIZAN BINTI BAHARUDDIN",
-      "Code": "00003937",
-      "In Use? (Y/N)": "Y",
-      "Title": "DATUK PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8AE",
-      "Job Title": "PROFESOR KEHORMAT",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10020,
     "details": {
       "Full Name": "MUHAMMAD IMRAN BIN ABDUL HAFIDZ",
@@ -26348,6 +26295,24 @@
       "Faculty": "T",
       "Department": "T-A",
       "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10083,
+    "details": {
+      "Full Name": "NOORSAADAH BINTI ABD RAHMAN",
+      "E-mail": "NOORSAADAH@UM.EDU.MY",
+      "Primary field": "00004034",
+      "Secondary field": "NOORSAADAH BINTI ABD RAHMAN",
+      "Code": "00004034",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-C",
+      "Job Title": "PROFESOR",
       "Job Category": "A"
     }
   },
@@ -28114,6 +28079,24 @@
       "Faculty": "B",
       "Department": "B-P",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10182,
+    "details": {
+      "Full Name": "WANG CHEW YIN",
+      "E-mail": "WANGCY@UM.EDU.MY",
+      "Primary field": "00000445",
+      "Secondary field": "WANG CHEW YIN",
+      "Code": "00000445",
+      "In Use? (Y/N)": "Y",
+      "Title": "DATO' PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-B",
+      "Job Title": "PROFESOR KEHORMAT",
       "Job Category": "A"
     }
   },
@@ -66026,24 +66009,6 @@
     }
   },
   {
-    "id": 12288,
-    "details": {
-      "Full Name": "LAM CHOONG WAH",
-      "E-mail": "CHOONGWAH@UM.EDU.MY",
-      "Primary field": "00016434",
-      "Secondary field": "LAM CHOONG WAH",
-      "Code": "00016434",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "A",
-      "Department": "A-U",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12289,
     "details": {
       "Full Name": "MUHAMMAD FAIZ BIN MOHD ZAKI",
@@ -67188,6 +67153,24 @@
       "Faculty": "O",
       "Department": "O-P",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12356,
+    "details": {
+      "Full Name": "NORHANIZA BINTI SUPA'AT",
+      "E-mail": "NIZA80@UM.EDU.MY",
+      "Primary field": "00008627",
+      "Secondary field": "NORHANIZA BINTI SUPA'AT",
+      "Code": "00008627",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-R",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
     }
   },
   {
