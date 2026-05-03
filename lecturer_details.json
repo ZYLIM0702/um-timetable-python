@@ -9945,6 +9945,24 @@
     }
   },
   {
+    "id": 9174,
+    "details": {
+      "Full Name": "SUHAIZA HANIM BINTI DATO MOHAMAD ZAILANI",
+      "E-mail": "SHMZ@UM.EDU.MY",
+      "Primary field": "00012642",
+      "Secondary field": "SUHAIZA HANIM BINTI DATO MOHAMAD ZAILANI",
+      "Code": "00012642",
+      "In Use? (Y/N)": "Y",
+      "Title": "DATIN SRI PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA14",
+      "Job Title": "PROFESOR",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9175,
     "details": {
       "Full Name": "OSMAN BIN MD RASIP",
@@ -36851,6 +36869,24 @@
     }
   },
   {
+    "id": 10667,
+    "details": {
+      "Full Name": "SAMSUR RIJAL BIN YAHAYA",
+      "E-mail": "SAMSUR@UM.EDU.MY",
+      "Primary field": "00004606",
+      "Secondary field": "SAMSUR RIJAL BIN YAHAYA",
+      "Code": "00004606",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-D",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10668,
     "details": {
       "Full Name": "DEBOSHREE GHOSH",
@@ -39276,6 +39312,24 @@
       "Faculty": "M",
       "Department": "M-P",
       "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10803,
+    "details": {
+      "Full Name": "SHARIFAH MUHAIRAH SHAHABUDIN",
+      "E-mail": "MUHAIRAH@UM.EDU.MY",
+      "Primary field": "00010504",
+      "Secondary field": "SHARIFAH MUHAIRAH SHAHABUDIN",
+      "Code": "00010504",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA15",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -47271,24 +47325,6 @@
       "Faculty": "A",
       "Department": "A-L",
       "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11248,
-    "details": {
-      "Full Name": "HELMI BIN SULAIMAN",
-      "E-mail": "HELMI_S@UM.EDU.MY",
-      "Primary field": "00010061",
-      "Secondary field": "HELMI BIN SULAIMAN",
-      "Code": "00010061",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
   },
@@ -62377,24 +62413,6 @@
     }
   },
   {
-    "id": 12085,
-    "details": {
-      "Full Name": "AHMAD NIZAM BIN AHMAD RADZI",
-      "E-mail": "AHMADNIZAM8@UM.EDU.MY",
-      "Primary field": "620522086049",
-      "Secondary field": "AHMAD NIZAM BIN AHMAD RADZI",
-      "Code": "620522086049",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "B",
-      "Department": "B-A",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12086,
     "details": {
       "Full Name": "SAIFUL AZLI BIN SUFIAN",
@@ -73136,6 +73154,24 @@
     }
   },
   {
+    "id": 12711,
+    "details": {
+      "Full Name": "NASNOOR JUZAILY BIN MOHD NASIRUDDIN",
+      "E-mail": "NASNOORJUZAILY@UM.EDU.MY",
+      "Primary field": "00016373",
+      "Secondary field": "NASNOOR JUZAILY BIN MOHD NASIRUDDIN",
+      "Code": "00016373",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "V",
+      "Department": "V-X",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 12712,
     "details": {
       "Full Name": "MOHD HAFIZEE BIN MOHD HATTA",
@@ -81094,6 +81130,25 @@
       "Faculty": "W",
       "Department": "W-K",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 13188,
+    "details": {
+      "Full Name": "ALIAS BIN ABDULLAH",
+      "E-mail": "DRALIAS@UM.EDU.MY",
+      "Primary field": "00009006",
+      "Secondary field": "ALIAS BIN ABDULLAH",
+      "Code": "00009006",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-Y",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A",
+      "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
     }
   },
   {
