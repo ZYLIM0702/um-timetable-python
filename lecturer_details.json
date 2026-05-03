@@ -4263,24 +4263,6 @@
     }
   },
   {
-    "id": 8859,
-    "details": {
-      "Full Name": "YONG SHIN SHEN",
-      "E-mail": "SHINSHEN@UM.EDU.MY",
-      "Primary field": "00014307",
-      "Secondary field": "YONG SHIN SHEN",
-      "Code": "00014307",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PENSYARAH PERUBATAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8860,
     "details": {
       "Full Name": "WONG CHEE YEAN",
@@ -22768,6 +22750,24 @@
       "Location": "UMKL",
       "Faculty": "P",
       "Department": "P-M",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9885,
+    "details": {
+      "Full Name": "SHALINI A/P NAMASIVAYAM",
+      "E-mail": "SHALININ@UM.EDU.MY",
+      "Primary field": "871228565184",
+      "Secondary field": "SHALINI A/P NAMASIVAYAM",
+      "Code": "871228565184",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-E",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -50512,6 +50512,24 @@
     }
   },
   {
+    "id": 11425,
+    "details": {
+      "Full Name": "ZULAZHAR BIN TAHIR",
+      "E-mail": "ZULAZHAR@UM.EDU.MY",
+      "Primary field": "00005894",
+      "Secondary field": "ZULAZHAR BIN TAHIR",
+      "Code": "00005894",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11426,
     "details": {
       "Full Name": "KARTHICK SEKAR",
@@ -73566,22 +73584,6 @@
       "Location": "UMKL",
       "Faculty": "S",
       "Department": "S-J",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12735,
-    "details": {
-      "Full Name": "VIMALADEVI A/P ANNAMALAI",
-      "E-mail": "devi_vimala25@yahoo.com",
-      "Primary field": "00016263",
-      "Secondary field": "VIMALADEVI A/P ANNAMALAI",
-      "Code": "00016263",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-G",
       "Job Category": "A"
     }
   },
