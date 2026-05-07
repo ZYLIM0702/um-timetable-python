@@ -3559,6 +3559,24 @@
     }
   },
   {
+    "id": 8820,
+    "details": {
+      "Full Name": "CHOO YAO MUN",
+      "E-mail": "YAOMUN@UM.EDU.MY",
+      "Primary field": "00010782",
+      "Secondary field": "CHOO YAO MUN",
+      "Code": "00010782",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-L",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8821,
     "details": {
       "Full Name": "ABDUL HALIM BIN IBRAHIM",
@@ -29691,6 +29709,24 @@
     }
   },
   {
+    "id": 10269,
+    "details": {
+      "Full Name": "NIK FATIN BINTI NIK HASHIM",
+      "E-mail": "NIKFATIN@UM.EDU.MY",
+      "Primary field": "00013075",
+      "Secondary field": "NIK FATIN BINTI NIK HASHIM",
+      "Code": "00013075",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10270,
     "details": {
       "Full Name": "DIANA BINTI ABDUL WAHAB",
@@ -32210,24 +32246,6 @@
       "Location": "UMKL",
       "Faculty": "G",
       "Department": "G-7E",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10410,
-    "details": {
-      "Full Name": "EVELYN KHOR SOOK HIANG",
-      "E-mail": "EVELYN@UM.EDU.MY",
-      "Primary field": "580118015720",
-      "Secondary field": "EVELYN KHOR SOOK HIANG",
-      "Code": "580118015720",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-E",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -35249,24 +35267,6 @@
       "Location": "UMKL",
       "Faculty": "P",
       "Department": "P-B",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 10579,
-    "details": {
-      "Full Name": "AFIZAL BIN ABU OTHMAN",
-      "E-mail": "AFIZALAO@UM.EDU.MY",
-      "Primary field": "731225095039",
-      "Secondary field": "AFIZAL BIN ABU OTHMAN",
-      "Code": "731225095039",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "V",
-      "Department": "V-X",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -47796,6 +47796,24 @@
     }
   },
   {
+    "id": 11276,
+    "details": {
+      "Full Name": "NUR AFIQAH BINTI ROSDEN",
+      "E-mail": "AFIQAHROSDEN@UM.EDU.MY",
+      "Primary field": "00012629",
+      "Secondary field": "NUR AFIQAH BINTI ROSDEN",
+      "Code": "00012629",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "Q",
+      "Department": "Q-Q1",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
+    }
+  },
+  {
     "id": 11277,
     "details": {
       "Full Name": "SEDEK BIN ARIFFIN",
@@ -48280,6 +48298,24 @@
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "A"
+    }
+  },
+  {
+    "id": 11304,
+    "details": {
+      "Full Name": "SUBRAMANIAM A/L RAJU",
+      "E-mail": "MANWINA05@UM.EDU.MY",
+      "Primary field": "690813025629",
+      "Secondary field": "SUBRAMANIAM A/L RAJU",
+      "Code": "690813025629",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-M",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
     }
   },
   {
@@ -67384,6 +67420,24 @@
       "Location": "UMKL",
       "Faculty": "W",
       "Department": "W-M",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12369,
+    "details": {
+      "Full Name": "NEO YEE FENG",
+      "E-mail": "YEEFENG.NEO@GMAIL.COM",
+      "Primary field": "891123435410",
+      "Secondary field": "NEO YEE FENG",
+      "Code": "891123435410",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-D",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
