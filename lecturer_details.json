@@ -21870,24 +21870,6 @@
     }
   },
   {
-    "id": 9835,
-    "details": {
-      "Full Name": "SITI FAIRUS BINTI ABDUL SANI",
-      "E-mail": "S.FAIRUS@UM.EDU.MY",
-      "Primary field": "00014025",
-      "Secondary field": "SITI FAIRUS BINTI ABDUL SANI",
-      "Code": "00014025",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-M",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9836,
     "details": {
       "Full Name": "NOR AISHAH BINTI HAMZAH",
@@ -32485,24 +32467,6 @@
     }
   },
   {
-    "id": 10423,
-    "details": {
-      "Full Name": "NG CHEE GUAN",
-      "E-mail": "CHEEGUAN.NG@UM.EDU.MY",
-      "Primary field": "00012100",
-      "Secondary field": "NG CHEE GUAN",
-      "Code": "00012100",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8U",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10424,
     "details": {
       "Full Name": "MUGGUNDHA RAOOV A/L RAMACHANDRAN",
@@ -37385,6 +37349,24 @@
       "Location": "UMKL",
       "Faculty": "L",
       "Department": "L-X",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10696,
+    "details": {
+      "Full Name": "SANTHI JAYAMALAR A/P R. THANSEKARAN",
+      "E-mail": "SANTHIJ@UM.EDU.MY",
+      "Primary field": "660329106614",
+      "Secondary field": "SANTHI JAYAMALAR A/P R. THANSEKARAN",
+      "Code": "660329106614",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-E",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -43118,6 +43100,24 @@
       "Location": "UMKL",
       "Faculty": "M",
       "Department": "M-K",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 11016,
+    "details": {
+      "Full Name": "NURHAMERA BINTI SALLEH",
+      "E-mail": "NOMY@UM.EDU.MY",
+      "Primary field": "00011118",
+      "Secondary field": "NURHAMERA BINTI SALLEH",
+      "Code": "00011118",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-L",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
     }
