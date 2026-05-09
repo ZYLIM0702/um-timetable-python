@@ -7107,24 +7107,6 @@
     }
   },
   {
-    "id": 9016,
-    "details": {
-      "Full Name": "HAZREEN BIN ABDUL MAJID",
-      "E-mail": "HAZREEN@UM.EDU.MY",
-      "Primary field": "00005978",
-      "Secondary field": "HAZREEN BIN ABDUL MAJID",
-      "Code": "00005978",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-O",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9017,
     "details": {
       "Full Name": "CHAN YOO KUEN",
@@ -7718,24 +7700,6 @@
       "Faculty": "D",
       "Department": "D-R",
       "Job Title": "PENSYARAH PERGIGIAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9050,
-    "details": {
-      "Full Name": "HIDAYAH BINTI MOHD FADZIL",
-      "E-mail": "HIDAYAHFADZIL@UM.EDU.MY",
-      "Primary field": "00013939",
-      "Secondary field": "HIDAYAH BINTI MOHD FADZIL",
-      "Code": "00013939",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-M",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -11759,6 +11723,24 @@
       "Faculty": "M",
       "Department": "M-D",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9275,
+    "details": {
+      "Full Name": "AHMAD NAZRAN BIN FADZLI",
+      "E-mail": "AHMADNAZRAN@UM.EDU.MY",
+      "Primary field": "00010341",
+      "Secondary field": "AHMAD NAZRAN BIN FADZLI",
+      "Code": "00010341",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-S",
+      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
       "Job Category": "A"
     }
   },
@@ -47348,6 +47330,24 @@
     }
   },
   {
+    "id": 11250,
+    "details": {
+      "Full Name": "TAN CHEE LEONG",
+      "E-mail": "CHEELONG@UM.EDU.MY",
+      "Primary field": "00014563",
+      "Secondary field": "TAN CHEE LEONG",
+      "Code": "00014563",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8K",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11251,
     "details": {
       "Full Name": "MOHD FIRDAUS BIN HADI",
@@ -53000,24 +53000,6 @@
       "Department": "J-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
-    }
-  },
-  {
-    "id": 11564,
-    "details": {
-      "Full Name": "HARIKRISHNAN A/L RAMIAH",
-      "E-mail": "HRKHARI@UM.EDU.MY",
-      "Primary field": "00010983",
-      "Secondary field": "HARIKRISHNAN A/L RAMIAH",
-      "Code": "00010983",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR IR. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-E",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
     }
   },
   {
@@ -59959,24 +59941,6 @@
       "Department": "F-X",
       "Job Title": "PEMBANTU TADBIR (KEWANGAN)",
       "Job Category": "N"
-    }
-  },
-  {
-    "id": 11950,
-    "details": {
-      "Full Name": "NURUL RAUDHAH BINTI ZULKIFLI",
-      "E-mail": "RAUDHAH@UM.EDU.MY",
-      "Primary field": "950126016024",
-      "Secondary field": "NURUL RAUDHAH BINTI ZULKIFLI",
-      "Code": "950126016024",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-J",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
     }
   },
   {
@@ -71276,23 +71240,6 @@
       "Primary field": "751225145620",
       "Secondary field": "NOOR AISHAH BINTI ROSLI",
       "Code": "751225145620",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-P",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12602,
-    "details": {
-      "Full Name": "HARTINI BINTI ABDUL RAHMAN",
-      "E-mail": "HARTINI.ABDULRAHMAN@UM.EDU.MY",
-      "Primary field": "800326015356",
-      "Secondary field": "HARTINI BINTI ABDUL RAHMAN",
-      "Code": "800326015356",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
       "Gender": "FEMALE",
