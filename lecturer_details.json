@@ -11763,24 +11763,6 @@
     }
   },
   {
-    "id": 9275,
-    "details": {
-      "Full Name": "AHMAD NAZRAN BIN FADZLI",
-      "E-mail": "AHMADNAZRAN@UM.EDU.MY",
-      "Primary field": "00010341",
-      "Secondary field": "AHMAD NAZRAN BIN FADZLI",
-      "Code": "00010341",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-S",
-      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9276,
     "details": {
       "Full Name": "NOR MALINA BT MANAN",
@@ -13980,6 +13962,23 @@
       "Faculty": "K",
       "Department": "K-K",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9398,
+    "details": {
+      "Full Name": "KATHREINE A/P DEVA BABU",
+      "E-mail": "KATHREINE@UM.EDU.MY",
+      "Primary field": "00014639",
+      "Secondary field": "KATHREINE A/P DEVA BABU",
+      "Code": "00014639",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
@@ -30174,6 +30173,24 @@
       "Faculty": "S",
       "Department": "S-J",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10296,
+    "details": {
+      "Full Name": "BOON PONG YING",
+      "E-mail": "BOONPONGYING56@UM.EDU.MY",
+      "Primary field": "561216016272",
+      "Secondary field": "BOON PONG YING",
+      "Code": "561216016272",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-B",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -47331,24 +47348,6 @@
     }
   },
   {
-    "id": 11250,
-    "details": {
-      "Full Name": "TAN CHEE LEONG",
-      "E-mail": "CHEELONG@UM.EDU.MY",
-      "Primary field": "00014563",
-      "Secondary field": "TAN CHEE LEONG",
-      "Code": "00014563",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8K",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11251,
     "details": {
       "Full Name": "MOHD FIRDAUS BIN HADI",
@@ -47417,6 +47416,24 @@
       "Faculty": "S",
       "Department": "S-C",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11255,
+    "details": {
+      "Full Name": "RAFIDAH BINTI MD NOOR",
+      "E-mail": "FIDAH@UM.EDU.MY",
+      "Primary field": "00006027",
+      "Secondary field": "RAFIDAH BINTI MD NOOR",
+      "Code": "00006027",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. TS. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "W",
+      "Department": "W-R",
+      "Job Title": "PROFESOR",
       "Job Category": "A"
     }
   },
@@ -55727,6 +55744,24 @@
       "Location": "UMKL",
       "Faculty": "K",
       "Department": "K-B",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11716,
+    "details": {
+      "Full Name": "WAN ZURINA BINTI WAN JAAFAR",
+      "E-mail": "WZURINA@UM.EDU.MY",
+      "Primary field": "00008517",
+      "Secondary field": "WAN ZURINA BINTI WAN JAAFAR",
+      "Code": "00008517",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-A",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
@@ -74639,6 +74674,22 @@
       "Department": "A-D",
       "Job Title": "PENSYARAH",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12800,
+    "details": {
+      "Full Name": "PUTERI NUR NASUHA IDAYU BINTI MOHD NAZRI",
+      "E-mail": "puterinasuha.nazri@gmail.com",
+      "Primary field": "00016359",
+      "Secondary field": "PUTERI NUR NASUHA IDAYU BINTI MOHD NAZRI",
+      "Code": "00016359",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Category": "N"
     }
   },
   {
