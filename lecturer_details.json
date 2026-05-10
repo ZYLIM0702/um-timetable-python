@@ -15304,6 +15304,23 @@
     }
   },
   {
+    "id": 9471,
+    "details": {
+      "Full Name": "LOO FUNG CHIAT",
+      "E-mail": "FUNGCHIAT@HOTMAIL.COM",
+      "Primary field": "A3910268",
+      "Secondary field": "LOO FUNG CHIAT",
+      "Code": "A3910268",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Location": "UMKL",
+      "Faculty": "R",
+      "Department": "R-R",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9472,
     "details": {
       "Full Name": "CHE ZARRINA BINTI SA'ARI",
@@ -27325,6 +27342,24 @@
       "Faculty": "O",
       "Department": "O-P",
       "Job Title": "PENSYARAH FARMASI (TANPA GELARAN)",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10138,
+    "details": {
+      "Full Name": "AHMAD ARIFIN BIN SAPAR",
+      "E-mail": "ARIFIN@UM.EDU.MY",
+      "Primary field": "00012015",
+      "Secondary field": "AHMAD ARIFIN BIN SAPAR",
+      "Code": "00012015",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-A",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -40966,24 +41001,6 @@
     }
   },
   {
-    "id": 10897,
-    "details": {
-      "Full Name": "AFFENDI BIN YANG AMRI",
-      "E-mail": "AFFENDI@UM.EDU.MY",
-      "Primary field": "700923105853",
-      "Secondary field": "AFFENDI BIN YANG AMRI",
-      "Code": "700923105853",
-      "In Use? (Y/N)": "Y",
-      "Title": "MR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-H",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10898,
     "details": {
       "Full Name": "KANNAKI A/P VAITHLINGAM",
@@ -47828,6 +47845,24 @@
       "Location": "UMKL",
       "Faculty": "I",
       "Department": "I-Q",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 11278,
+    "details": {
+      "Full Name": "HUTKEMRI",
+      "E-mail": "HUTKEMRI@UM.EDU.MY",
+      "Primary field": "00013716",
+      "Secondary field": "HUTKEMRI",
+      "Code": "00013716",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-M",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
@@ -61317,6 +61352,24 @@
     }
   },
   {
+    "id": 12026,
+    "details": {
+      "Full Name": "NUR EZZATI BINTI ESHAM",
+      "E-mail": "NEZZATIESHAM@UM.EDU.MY",
+      "Primary field": "00015458",
+      "Secondary field": "NUR EZZATI BINTI ESHAM",
+      "Code": "00015458",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-RM",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 12027,
     "details": {
       "Full Name": "ZAINORFARAH BINTI ZAINUDDIN",
@@ -70432,23 +70485,6 @@
     }
   },
   {
-    "id": 12549,
-    "details": {
-      "Full Name": "KUBO AKI",
-      "E-mail": "akikuboak1@gmail.com",
-      "Primary field": "00016243",
-      "Secondary field": "KUBO AKI",
-      "Code": "00016243",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Location": "UMKL",
-      "Faculty": "F",
-      "Department": "F-AJ",
-      "Job Title": "GURU BAHASA JEPUN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12550,
     "details": {
       "Full Name": "CHONG HO PHIN",
@@ -77041,6 +77077,24 @@
       "Department": "M-C",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
+    }
+  },
+  {
+    "id": 12951,
+    "details": {
+      "Full Name": "NUR LIYANA BINTI ABDUL MANAFF",
+      "E-mail": "LIYANAMANAFF@UM.EDU.MY",
+      "Primary field": "00015553",
+      "Secondary field": "NUR LIYANA BINTI ABDUL MANAFF",
+      "Code": "00015553",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "I",
+      "Department": "I-X",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
     }
   },
   {
