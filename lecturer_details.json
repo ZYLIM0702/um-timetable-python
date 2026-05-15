@@ -8193,24 +8193,6 @@
     }
   },
   {
-    "id": 9076,
-    "details": {
-      "Full Name": "ATIFAH BINTI MAHMOOD",
-      "E-mail": "ATIE25@UM.EDU.MY",
-      "Primary field": "910925145424",
-      "Secondary field": "ATIFAH BINTI MAHMOOD",
-      "Code": "910925145424",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-H",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9077,
     "details": {
       "Full Name": "SUSAN SARAH JOHN A/P JOHN NAINAN",
@@ -27382,24 +27364,6 @@
     }
   },
   {
-    "id": 10140,
-    "details": {
-      "Full Name": "NURHIDAYAH BAHAR",
-      "E-mail": "NURHIDAYAHBAHAR@UM.EDU.MY",
-      "Primary field": "00014819",
-      "Secondary field": "NURHIDAYAH BAHAR",
-      "Code": "00014819",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "C",
-      "Department": "C-O",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10141,
     "details": {
       "Full Name": "NOR NAJWA BINTI ISMAIL",
@@ -33471,6 +33435,24 @@
       "Location": "UMKL",
       "Faculty": "F",
       "Department": "F-H",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10478,
+    "details": {
+      "Full Name": "AZMAN BIN MA'AMOR",
+      "E-mail": "AZMAN2111@UM.EDU.MY",
+      "Primary field": "00009636",
+      "Secondary field": "AZMAN BIN MA'AMOR",
+      "Code": "00009636",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-C",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
@@ -67371,24 +67353,6 @@
     }
   },
   {
-    "id": 12365,
-    "details": {
-      "Full Name": "NORLIYA BINTI AHMAD KASSIM",
-      "E-mail": "NORLIYA@UM.EDU.MY",
-      "Primary field": "570621085604",
-      "Secondary field": "NORLIYA BINTI AHMAD KASSIM",
-      "Code": "570621085604",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "W",
-      "Department": "W-M",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12366,
     "details": {
       "Full Name": "SREETHARAN A/L KRISHNAN KUTTY",
@@ -79404,6 +79368,23 @@
       "Faculty": "K",
       "Department": "K-K",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13087,
+    "details": {
+      "Full Name": "AHMAD IBN IBRAHIMY",
+      "E-mail": "AHMAD.IBRAHIMY@GMAIL.COM",
+      "Primary field": "EK0074034",
+      "Secondary field": "AHMAD IBN IBRAHIMY",
+      "Code": "EK0074034",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA04",
       "Job Category": "A"
     }
   },
