@@ -13893,6 +13893,24 @@
     }
   },
   {
+    "id": 9393,
+    "details": {
+      "Full Name": "HAMID ABDULLAH JALAB ALTULEA",
+      "E-mail": "HAMIDJALAB@UM.EDU.MY",
+      "Primary field": "00010840",
+      "Secondary field": "HAMID ABDULLAH JALAB ALTULEA",
+      "Code": "00010840",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "W",
+      "Department": "W-R",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9394,
     "details": {
       "Full Name": "HAJI MOHAMMAD BIN SEMAN",
@@ -49154,6 +49172,24 @@
     }
   },
   {
+    "id": 11350,
+    "details": {
+      "Full Name": "MUZAINI BIN ABU HASSAN",
+      "E-mail": "CIKGUMZ@UM.EDU.MY",
+      "Primary field": "710528055461",
+      "Secondary field": "MUZAINI BIN ABU HASSAN",
+      "Code": "710528055461",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-7E",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11351,
     "details": {
       "Full Name": "NUR ADURA BINTI YAAKUP",
@@ -58843,24 +58879,6 @@
       "Faculty": "M",
       "Department": "M-N",
       "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11888,
-    "details": {
-      "Full Name": "EDY HAFIZAN BIN MOHD SHAHALI",
-      "E-mail": "EDYHAFIZAN@UM.EDU.MY",
-      "Primary field": "00015435",
-      "Secondary field": "EDY HAFIZAN BIN MOHD SHAHALI",
-      "Code": "00015435",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-M",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -75639,6 +75657,24 @@
     }
   },
   {
+    "id": 12860,
+    "details": {
+      "Full Name": "STEFANIE MAGDALENE HELBERT",
+      "E-mail": "STEFFI.HELBERT@UM.EDU.MY",
+      "Primary field": "00016407",
+      "Secondary field": "STEFANIE MAGDALENE HELBERT",
+      "Code": "00016407",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-B",
+      "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 12861,
     "details": {
       "Full Name": "MOHD FAIZ BIN AZMI",
@@ -77407,6 +77443,22 @@
       "Location": "UMKL",
       "Faculty": "M",
       "Department": "M-RM",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12971,
+    "details": {
+      "Full Name": "HAZWANI MAT SAAD",
+      "E-mail": "hazwanimatsaad92@gmail.com",
+      "Primary field": "00016119",
+      "Secondary field": "HAZWANI MAT SAAD",
+      "Code": "00016119",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-JA",
       "Job Category": "A"
     }
   },
