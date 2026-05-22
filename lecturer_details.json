@@ -2228,10 +2228,10 @@
   {
     "id": 8746,
     "details": {
-      "Full Name": "ARBA'IYAH BINTI MOHD NOOR",
+      "Full Name": "ARBA IYAH BINTI MOHD NOOR",
       "E-mail": "ARBAIYAH@UM.EDU.MY",
       "Primary field": "00001137",
-      "Secondary field": "ARBA'IYAH BINTI MOHD NOOR",
+      "Secondary field": "ARBA IYAH BINTI MOHD NOOR",
       "Code": "00001137",
       "In Use? (Y/N)": "Y",
       "Title": "ASSOCIATE PROF. DR.",
@@ -3651,10 +3651,10 @@
   {
     "id": 8825,
     "details": {
-      "Full Name": "CHOW UNG T'CHIANG",
+      "Full Name": "CHOW UNG T CHIANG",
       "E-mail": "CHOWUT@UM.EDU.MY",
       "Primary field": "00004510",
-      "Secondary field": "CHOW UNG T'CHIANG",
+      "Secondary field": "CHOW UNG T CHIANG",
       "Code": "00004510",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -4578,7 +4578,7 @@
       "Secondary field": "MOHD ZAMBRI ZAINUDDIN",
       "Code": "4638777",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "I",
@@ -5044,10 +5044,10 @@
   {
     "id": 8902,
     "details": {
-      "Full Name": "NUR'AIN BINTI SALEHEN",
+      "Full Name": "NUR AIN BINTI SALEHEN",
       "E-mail": "NURAIN_36@UM.EDU.MY",
       "Primary field": "00008924",
-      "Secondary field": "NUR'AIN BINTI SALEHEN",
+      "Secondary field": "NUR AIN BINTI SALEHEN",
       "Code": "00008924",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -6401,10 +6401,10 @@
   {
     "id": 8977,
     "details": {
-      "Full Name": "'ABQARIYAH BINTI YAHYA@AHMAD NOOR",
+      "Full Name": " ABQARIYAH BINTI YAHYA@AHMAD NOOR",
       "E-mail": "ABQARIYAH.YAHYA@UM.EDU.MY",
       "Primary field": "00013101",
-      "Secondary field": "'ABQARIYAH BINTI YAHYA@AHMAD NOOR",
+      "Secondary field": " ABQARIYAH BINTI YAHYA@AHMAD NOOR",
       "Code": "00013101",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -9006,24 +9006,6 @@
     }
   },
   {
-    "id": 9122,
-    "details": {
-      "Full Name": "NORANA BINTI ABU",
-      "E-mail": "NORANA@UM.EDU.MY",
-      "Primary field": "00011396",
-      "Secondary field": "NORANA BINTI ABU",
-      "Code": "00011396",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-X",
-      "Job Title": "PENOLONG PEGAWAI TADBIR",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 9123,
     "details": {
       "Full Name": "NURUL HAYATI BINTI MOKHTAR",
@@ -10972,10 +10954,10 @@
   {
     "id": 9231,
     "details": {
-      "Full Name": "SA'ADAN BIN MAN",
+      "Full Name": "SA ADAN BIN MAN",
       "E-mail": "SAADAN@UM.EDU.MY",
       "Primary field": "00002819",
-      "Secondary field": "SA'ADAN BIN MAN",
+      "Secondary field": "SA ADAN BIN MAN",
       "Code": "00002819",
       "In Use? (Y/N)": "Y",
       "Title": "ASSOCIATE PROF. DR.",
@@ -11242,10 +11224,10 @@
   {
     "id": 9246,
     "details": {
-      "Full Name": "RABI'AH AL-ADAWIYAH BINTI RAHMAT",
+      "Full Name": "RABI AH AL-ADAWIYAH BINTI RAHMAT",
       "E-mail": "RABIAHADAW@UM.EDU.MY",
       "Primary field": "00013128",
-      "Secondary field": "RABI'AH AL-ADAWIYAH BINTI RAHMAT",
+      "Secondary field": "RABI AH AL-ADAWIYAH BINTI RAHMAT",
       "Code": "00013128",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -11459,10 +11441,10 @@
   {
     "id": 9258,
     "details": {
-      "Full Name": "MUHAMMAD REZA BIN Z'ABA",
+      "Full Name": "MUHAMMAD REZA BIN Z ABA",
       "E-mail": "REZA.ZABA@UM.EDU.MY",
       "Primary field": "00014623",
-      "Secondary field": "MUHAMMAD REZA BIN Z'ABA",
+      "Secondary field": "MUHAMMAD REZA BIN Z ABA",
       "Code": "00014623",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -12473,7 +12455,7 @@
       "Secondary field": "ZAINAL ARIFF BIN ABDUL RAHMAN",
       "Code": "00001417",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "D",
@@ -12882,10 +12864,10 @@
   {
     "id": 9337,
     "details": {
-      "Full Name": "TENGKU AHMAD SHAHRIZAL BIN TENGKU DATO' OMAR",
+      "Full Name": "TENGKU AHMAD SHAHRIZAL BIN TENGKU DATO  OMAR",
       "E-mail": "TSHAHRIZAL@UM.EDU.MY",
       "Primary field": "00008161",
-      "Secondary field": "TENGKU AHMAD SHAHRIZAL BIN TENGKU DATO' OMAR",
+      "Secondary field": "TENGKU AHMAD SHAHRIZAL BIN TENGKU DATO  OMAR",
       "Code": "00008161",
       "In Use? (Y/N)": "Y",
       "Title": "ASSOCIATE PROF. DR.",
@@ -13069,7 +13051,7 @@
       "Secondary field": "ISHAK BIN ABDUL RAZAK",
       "Code": "00001420",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "D",
@@ -13413,7 +13395,7 @@
       "Secondary field": "RAJAH A/L RASIAH",
       "Code": "00007773",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. ULUNG DR.",
+      "Title": "DATO  PROF. ULUNG DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "Q",
@@ -13715,10 +13697,10 @@
   {
     "id": 9383,
     "details": {
-      "Full Name": "NURUL NAZIFAH BINTI DATO' HAJI MAT NOH",
+      "Full Name": "NURUL NAZIFAH BINTI DATO  HAJI MAT NOH",
       "E-mail": "NURULNAZIFAH@UM.EDU.MY",
       "Primary field": "00014042",
-      "Secondary field": "NURUL NAZIFAH BINTI DATO' HAJI MAT NOH",
+      "Secondary field": "NURUL NAZIFAH BINTI DATO  HAJI MAT NOH",
       "Code": "00014042",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -14315,7 +14297,7 @@
       "Secondary field": "ROSLAN BIN HASHIM",
       "Code": "00003153",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. IR. DR.",
+      "Title": "DATO  PROF. IR. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "K",
@@ -15323,10 +15305,10 @@
   {
     "id": 9472,
     "details": {
-      "Full Name": "CHE ZARRINA BINTI SA'ARI",
+      "Full Name": "CHE ZARRINA BINTI SA ARI",
       "E-mail": "ZARRINA@UM.EDU.MY",
       "Primary field": "00005207",
-      "Secondary field": "CHE ZARRINA BINTI SA'ARI",
+      "Secondary field": "CHE ZARRINA BINTI SA ARI",
       "Code": "00005207",
       "In Use? (Y/N)": "Y",
       "Title": "PROF. DR.",
@@ -15676,24 +15658,6 @@
       "Faculty": "F",
       "Department": "F-X",
       "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9492,
-    "details": {
-      "Full Name": "ASMULIADI LUBIS",
-      "E-mail": "ASMULIADILUBIS@UM.EDU.MY",
-      "Primary field": "00013965",
-      "Secondary field": "ASMULIADI LUBIS",
-      "Code": "00013965",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-P",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -16654,6 +16618,24 @@
     }
   },
   {
+    "id": 9546,
+    "details": {
+      "Full Name": "PEKAN BIN RAMLI",
+      "E-mail": "PEKAN@UM.EDU.MY",
+      "Primary field": "640704015637",
+      "Secondary field": "PEKAN BIN RAMLI",
+      "Code": "640704015637",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "V",
+      "Department": "V-X",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9547,
     "details": {
       "Full Name": "LIM EINLY",
@@ -17434,10 +17416,10 @@
   {
     "id": 9590,
     "details": {
-      "Full Name": "MARION FRANCENA A/P R.A.D'CRUZ",
+      "Full Name": "MARION FRANCENA A/P R.A.D CRUZ",
       "E-mail": "MARIONFDCRUZ@GMAIL.COM",
       "Primary field": "531106015802",
-      "Secondary field": "MARION FRANCENA A/P R.A.D'CRUZ",
+      "Secondary field": "MARION FRANCENA A/P R.A.D CRUZ",
       "Code": "531106015802",
       "In Use? (Y/N)": "Y",
       "Title": "DATIN",
@@ -18537,10 +18519,10 @@
   {
     "id": 9651,
     "details": {
-      "Full Name": "MOHD RIDHA BIN MUHAMAD @ MOHD ATA'ILLAH",
+      "Full Name": "MOHD RIDHA BIN MUHAMAD @ MOHD ATA ILLAH",
       "E-mail": "RIDHA@UM.EDU.MY",
       "Primary field": "00014051",
-      "Secondary field": "MOHD RIDHA BIN MUHAMAD @ MOHD ATA'ILLAH",
+      "Secondary field": "MOHD RIDHA BIN MUHAMAD @ MOHD ATA ILLAH",
       "Code": "00014051",
       "In Use? (Y/N)": "Y",
       "Title": "IR. DR.",
@@ -19751,7 +19733,7 @@
       "Secondary field": "MOHD YAKUB @ ZULKIFLI BIN MOHD YUSOFF",
       "Code": "00002851",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "I",
@@ -20177,10 +20159,10 @@
   {
     "id": 9742,
     "details": {
-      "Full Name": "WAIL MUIN (AL-HAJ SA'ID) ISMAIL",
+      "Full Name": "WAIL MUIN (AL-HAJ SA ID) ISMAIL",
       "E-mail": "WAILISMAIL@UM.EDU.MY",
       "Primary field": "00010861",
-      "Secondary field": "WAIL MUIN (AL-HAJ SA'ID) ISMAIL",
+      "Secondary field": "WAIL MUIN (AL-HAJ SA ID) ISMAIL",
       "Code": "00010861",
       "In Use? (Y/N)": "Y",
       "Title": "ASSOCIATE PROF. DR.",
@@ -21102,7 +21084,7 @@
       "Secondary field": "HARI CHANDRAN A/L THAMBINAYAGAM",
       "Code": "00007496",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -21139,7 +21121,7 @@
       "Secondary field": "WAN AZMAN BIN WAN AHMAD",
       "Code": "00000584",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -21916,7 +21898,7 @@
       "Secondary field": "KWAN MUN KEONG",
       "Code": "00007274",
       "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR DATO' DR.",
+      "Title": "PROFESSOR DATO  DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -22378,10 +22360,10 @@
   {
     "id": 9864,
     "details": {
-      "Full Name": "FATIN QURRATUL 'AINI BINTI MOHD SUBARI",
+      "Full Name": "FATIN QURRATUL  AINI BINTI MOHD SUBARI",
       "E-mail": "FATINSUBARI@UM.EDU.MY",
       "Primary field": "00015058",
-      "Secondary field": "FATIN QURRATUL 'AINI BINTI MOHD SUBARI",
+      "Secondary field": "FATIN QURRATUL  AINI BINTI MOHD SUBARI",
       "Code": "00015058",
       "Title": "MISS",
       "Gender": "FEMALE",
@@ -23227,10 +23209,10 @@
   {
     "id": 9911,
     "details": {
-      "Full Name": "CHAN PHOOI M'NG",
+      "Full Name": "CHAN PHOOI M NG",
       "E-mail": "JACINTA@UM.EDU.MY",
       "Primary field": "00012271",
-      "Secondary field": "CHAN PHOOI M'NG",
+      "Secondary field": "CHAN PHOOI M NG",
       "Code": "00012271",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -23299,10 +23281,10 @@
   {
     "id": 9915,
     "details": {
-      "Full Name": "NUR BAITI 'AFINI BINTI NORMADHI",
+      "Full Name": "NUR BAITI  AFINI BINTI NORMADHI",
       "E-mail": "AFININORMADHI@UM.EDU.MY",
       "Primary field": "00014955",
-      "Secondary field": "NUR BAITI 'AFINI BINTI NORMADHI",
+      "Secondary field": "NUR BAITI  AFINI BINTI NORMADHI",
       "Code": "00014955",
       "Title": "MISS",
       "Gender": "FEMALE",
@@ -24677,10 +24659,10 @@
   {
     "id": 9991,
     "details": {
-      "Full Name": "SALINAH BINTI JA'AFAR",
+      "Full Name": "SALINAH BINTI JA AFAR",
       "E-mail": "B1SALINA@UM.EDU.MY",
       "Primary field": "00001278",
-      "Secondary field": "SALINAH BINTI JA'AFAR",
+      "Secondary field": "SALINAH BINTI JA AFAR",
       "Code": "00001278",
       "In Use? (Y/N)": "Y",
       "Title": "ASSOCIATE PROF. DR.",
@@ -26803,6 +26785,24 @@
     }
   },
   {
+    "id": 10109,
+    "details": {
+      "Full Name": "NOR NAZRINA MOHAMAD NAZRY",
+      "E-mail": "NAZRINA@UM.EDU.MY",
+      "Primary field": "00015115",
+      "Secondary field": "NOR NAZRINA MOHAMAD NAZRY",
+      "Code": "00015115",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-S",
+      "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10110,
     "details": {
       "Full Name": "AZLAN KAMAL NAZYUNNIYAH BIN ARIFIN",
@@ -27632,24 +27632,6 @@
     }
   },
   {
-    "id": 10156,
-    "details": {
-      "Full Name": "CHIN OI HOONG",
-      "E-mail": "OHCHIN@UM.EDU.MY",
-      "Primary field": "00005816",
-      "Secondary field": "CHIN OI HOONG",
-      "Code": "00005816",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-M",
-      "Job Title": "PENYELIDIK BERSEKUTU",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10157,
     "details": {
       "Full Name": "ZARINA BINTI ZAKARIA",
@@ -28108,7 +28090,7 @@
       "Secondary field": "WANG CHEW YIN",
       "Code": "00000445",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -28584,6 +28566,24 @@
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "T",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 10209,
+    "details": {
+      "Full Name": "DR. ZUBER HASSAN",
+      "E-mail": "ZUBERHASSAN@UM.EDU.MY",
+      "Primary field": "620414035535",
+      "Secondary field": "DR. ZUBER HASSAN",
+      "Code": "620414035535",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-M",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -29950,7 +29950,7 @@
       "Secondary field": "MOHD HAMDI BIN ABD SHUKOR",
       "Code": "00003188",
       "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR DATO'  IR. DR.",
+      "Title": "PROFESSOR DATO   IR. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "K",
@@ -30509,7 +30509,7 @@
       "Secondary field": "ADEEBA BINTI KAMARULZAMAN",
       "Code": "00000544",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -30757,10 +30757,10 @@
   {
     "id": 10330,
     "details": {
-      "Full Name": "NOR 'IZZATI BINTI SAEDON",
+      "Full Name": "NOR  IZZATI BINTI SAEDON",
       "E-mail": "IZZATI@UM.EDU.MY",
       "Primary field": "00010058",
-      "Secondary field": "NOR 'IZZATI BINTI SAEDON",
+      "Secondary field": "NOR  IZZATI BINTI SAEDON",
       "Code": "00010058",
       "In Use? (Y/N)": "Y",
       "Title": "ASSOCIATE PROF. DR.",
@@ -32143,6 +32143,24 @@
     }
   },
   {
+    "id": 10407,
+    "details": {
+      "Full Name": "NURHANIS BINTI MUHAMAAD MUDZAFFAR",
+      "E-mail": "NURHANIS@UM.EDU.MY",
+      "Primary field": "870406065250",
+      "Secondary field": "NURHANIS BINTI MUHAMAAD MUDZAFFAR",
+      "Code": "870406065250",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-E",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10408,
     "details": {
       "Full Name": "SAYUTI AB GHANI",
@@ -33406,10 +33424,10 @@
   {
     "id": 10478,
     "details": {
-      "Full Name": "AZMAN BIN MA'AMOR",
+      "Full Name": "AZMAN BIN MA AMOR",
       "E-mail": "AZMAN2111@UM.EDU.MY",
       "Primary field": "00009636",
-      "Secondary field": "AZMAN BIN MA'AMOR",
+      "Secondary field": "AZMAN BIN MA AMOR",
       "Code": "00009636",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -34167,7 +34185,7 @@
       "Secondary field": "A.L. MUTHIAH",
       "Code": "00013841",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "Q",
@@ -35067,7 +35085,7 @@
       "Secondary field": "WILLIAM R STEVENSON",
       "Code": "T370533",
       "In Use? (Y/N)": "Y",
-      "Title": "BRIGIDIER JENDERAL DATO'",
+      "Title": "BRIGIDIER JENDERAL DATO ",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "C",
@@ -35850,10 +35868,10 @@
   {
     "id": 10614,
     "details": {
-      "Full Name": "SHA'ARY BIN MAT DIN",
+      "Full Name": "SHA ARY BIN MAT DIN",
       "E-mail": "SHAARY@UM.EDU.MY",
       "Primary field": "00002453",
-      "Secondary field": "SHA'ARY BIN MAT DIN",
+      "Secondary field": "SHA ARY BIN MAT DIN",
       "Code": "00002453",
       "In Use? (Y/N)": "Y",
       "Title": "MR.",
@@ -36752,7 +36770,7 @@
       "Secondary field": "YAACOB BIN HARUN",
       "Code": "461217025471",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' DR.",
+      "Title": "DATO  DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "J",
@@ -37194,10 +37212,10 @@
   {
     "id": 10689,
     "details": {
-      "Full Name": "JAMA'YAH BINTI ZAKARIA",
+      "Full Name": "JAMA YAH BINTI ZAKARIA",
       "E-mail": "JADIN1404@GMAIL.COM",
       "Primary field": "591215105588",
-      "Secondary field": "JAMA'YAH BINTI ZAKARIA",
+      "Secondary field": "JAMA YAH BINTI ZAKARIA",
       "Code": "591215105588",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -37668,7 +37686,7 @@
       "Secondary field": "NOOR AZUAN BIN ABU OSMAN",
       "Code": "00004999",
       "In Use? (Y/N)": "Y",
-      "Title": "PROF. DATO' SERI IR. DR.",
+      "Title": "PROF. DATO  SERI IR. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "K",
@@ -39264,10 +39282,10 @@
   {
     "id": 10804,
     "details": {
-      "Full Name": "IZLINA BINTI SUPA'AT",
+      "Full Name": "IZLINA BINTI SUPA AT",
       "E-mail": "IZLINA@UM.EDU.MY",
       "Primary field": "00007350",
-      "Secondary field": "IZLINA BINTI SUPA'AT",
+      "Secondary field": "IZLINA BINTI SUPA AT",
       "Code": "00007350",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -40215,10 +40233,10 @@
   {
     "id": 10857,
     "details": {
-      "Full Name": "NUR'ADILAH BINTI MD JELANI",
+      "Full Name": "NUR ADILAH BINTI MD JELANI",
       "E-mail": "NURADILAH@UM.EDU.MY",
       "Primary field": "00014294",
-      "Secondary field": "NUR'ADILAH BINTI MD JELANI",
+      "Secondary field": "NUR ADILAH BINTI MD JELANI",
       "Code": "00014294",
       "Title": "MADAM",
       "Gender": "FEMALE",
@@ -41099,7 +41117,7 @@
       "Secondary field": "FIRDAUS BIN ABDULLAH",
       "Code": "440603105493",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' DR.",
+      "Title": "DATO  DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "J",
@@ -42050,7 +42068,7 @@
       "Secondary field": "ISAHAK BIN HARON",
       "Code": "401218075257",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' EMERITUS PROF. DR.",
+      "Title": "DATO  EMERITUS PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "P",
@@ -42086,7 +42104,7 @@
       "Secondary field": "ABDUL RAHMAN IDRIS",
       "Code": "480701035309",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO'",
+      "Title": "DATO ",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "P",
@@ -43521,10 +43539,10 @@
   {
     "id": 11041,
     "details": {
-      "Full Name": "NIYYAH 'AISYAH BINTI JALI",
+      "Full Name": "NIYYAH  AISYAH BINTI JALI",
       "E-mail": "NYALIE@UM.EDU.MY",
       "Primary field": "00001315",
-      "Secondary field": "NIYYAH 'AISYAH BINTI JALI",
+      "Secondary field": "NIYYAH  AISYAH BINTI JALI",
       "Code": "00001315",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -43919,10 +43937,10 @@
   {
     "id": 11063,
     "details": {
-      "Full Name": "SITI NUR MASYITHAH BINTI MA'AROF",
+      "Full Name": "SITI NUR MASYITHAH BINTI MA AROF",
       "E-mail": "MASYITHAH@UM.EDU.MY",
       "Primary field": "00008760",
-      "Secondary field": "SITI NUR MASYITHAH BINTI MA'AROF",
+      "Secondary field": "SITI NUR MASYITHAH BINTI MA AROF",
       "Code": "00008760",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -44538,7 +44556,7 @@
       "Secondary field": "CHRISTOPHER BOEY CHIONG MENG",
       "Code": "00000722",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -44610,7 +44628,7 @@
       "Secondary field": "TUNKU SARA BINTI TUNKU AHMAD YAHAYA",
       "Code": "00000641",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -45343,10 +45361,10 @@
   {
     "id": 11142,
     "details": {
-      "Full Name": "SYAKIRAH BINTI RIFA'IN @ MOHD RIFAIN",
+      "Full Name": "SYAKIRAH BINTI RIFA IN @ MOHD RIFAIN",
       "E-mail": "SYAKIRAH87@UM.EDU.MY",
       "Primary field": "00014409",
-      "Secondary field": "SYAKIRAH BINTI RIFA'IN @ MOHD RIFAIN",
+      "Secondary field": "SYAKIRAH BINTI RIFA IN @ MOHD RIFAIN",
       "Code": "00014409",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -47066,7 +47084,7 @@
       "Secondary field": "AHMAD HIDAYAT BIN BUANG",
       "Code": "00002799",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' DR.",
+      "Title": "DATO  DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "I",
@@ -48413,10 +48431,10 @@
   {
     "id": 11312,
     "details": {
-      "Full Name": "NOR'AZZAH BINTI KAMRI",
+      "Full Name": "NOR AZZAH BINTI KAMRI",
       "E-mail": "AZZAH@UM.EDU.MY",
       "Primary field": "00005424",
-      "Secondary field": "NOR'AZZAH BINTI KAMRI",
+      "Secondary field": "NOR AZZAH BINTI KAMRI",
       "Code": "00005424",
       "In Use? (Y/N)": "Y",
       "Title": "ASSOCIATE PROF. DR.",
@@ -49339,10 +49357,10 @@
   {
     "id": 11363,
     "details": {
-      "Full Name": "NURUL' AINAA BINTI YAHYA",
+      "Full Name": "NURUL  AINAA BINTI YAHYA",
       "E-mail": "AINAAY@UM.EDU.MY",
       "Primary field": "00014429",
-      "Secondary field": "NURUL' AINAA BINTI YAHYA",
+      "Secondary field": "NURUL  AINAA BINTI YAHYA",
       "Code": "00014429",
       "In Use? (Y/N)": "Y",
       "Title": "MISS",
@@ -51353,7 +51371,7 @@
       "Secondary field": "ZALIHA BINTI OMAR",
       "Code": "00000999",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -51527,10 +51545,10 @@
   {
     "id": 11484,
     "details": {
-      "Full Name": "NOR BADRUL ANUAR BIN JUMA'AT",
+      "Full Name": "NOR BADRUL ANUAR BIN JUMA AT",
       "E-mail": "BADRUL@UM.EDU.MY",
       "Primary field": "00006193",
-      "Secondary field": "NOR BADRUL ANUAR BIN JUMA'AT",
+      "Secondary field": "NOR BADRUL ANUAR BIN JUMA AT",
       "Code": "00006193",
       "In Use? (Y/N)": "Y",
       "Title": "PROF. TS. DR.",
@@ -51713,7 +51731,7 @@
       "Secondary field": "MOHD ZAMBRI BIN ZAINUDDIN",
       "Code": "00004223",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "I",
@@ -51887,10 +51905,10 @@
   {
     "id": 11504,
     "details": {
-      "Full Name": "NOR'AIDAH BINTI MOHD IBRAHIM",
+      "Full Name": "NOR AIDAH BINTI MOHD IBRAHIM",
       "E-mail": "NORAIDAH@UM.EDU.MY",
       "Primary field": "00004586",
-      "Secondary field": "NOR'AIDAH BINTI MOHD IBRAHIM",
+      "Secondary field": "NOR AIDAH BINTI MOHD IBRAHIM",
       "Code": "00004586",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -53122,7 +53140,7 @@
       "Secondary field": "PREPAGERAN A/L NARAYANAN",
       "Code": "00006184",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -54321,24 +54339,6 @@
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
-    }
-  },
-  {
-    "id": 11639,
-    "details": {
-      "Full Name": "WAN JEFREY BASIRUN",
-      "E-mail": "JEFF@UM.EDU.MY",
-      "Primary field": "00004063",
-      "Secondary field": "WAN JEFREY BASIRUN",
-      "Code": "00004063",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-C",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
     }
   },
   {
@@ -56093,10 +56093,10 @@
   {
     "id": 11737,
     "details": {
-      "Full Name": "SA'DIAH BINTI TALIB @ ABDULLAH",
+      "Full Name": "SA DIAH BINTI TALIB @ ABDULLAH",
       "E-mail": "SAADIAHTALIB@UM.EDU.MY",
       "Primary field": "00012964",
-      "Secondary field": "SA'DIAH BINTI TALIB @ ABDULLAH",
+      "Secondary field": "SA DIAH BINTI TALIB @ ABDULLAH",
       "Code": "00012964",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -57228,10 +57228,10 @@
   {
     "id": 11800,
     "details": {
-      "Full Name": "KHAIRUL BARIAH BINTI MUA'AD",
+      "Full Name": "KHAIRUL BARIAH BINTI MUA AD",
       "E-mail": "ABBY_BARIAH@UM.EDU.MY",
       "Primary field": "00010273",
-      "Secondary field": "KHAIRUL BARIAH BINTI MUA'AD",
+      "Secondary field": "KHAIRUL BARIAH BINTI MUA AD",
       "Code": "00010273",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -57937,7 +57937,7 @@
       "Secondary field": "MOHD JAMIL BIN MAAH",
       "Code": "00004028",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "F",
@@ -60802,7 +60802,7 @@
       "Secondary field": "DATO PROFESSOR DR NOOR INAYAH BINTI YAAKUB",
       "Code": "690709075626",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "Z",
@@ -62793,10 +62793,10 @@
   {
     "id": 12110,
     "details": {
-      "Full Name": "NOR'AZIM BIN MOHD YUNOS",
+      "Full Name": "NOR AZIM BIN MOHD YUNOS",
       "E-mail": "NORAZIM@UM.EDU.MY",
       "Primary field": "00004814",
-      "Secondary field": "NOR'AZIM BIN MOHD YUNOS",
+      "Secondary field": "NOR AZIM BIN MOHD YUNOS",
       "Code": "00004814",
       "In Use? (Y/N)": "Y",
       "Title": "PROF. DR.",
@@ -63514,10 +63514,10 @@
   {
     "id": 12150,
     "details": {
-      "Full Name": "MOHD RAZALI BIN YA'COB @ JUSOH",
+      "Full Name": "MOHD RAZALI BIN YA COB @ JUSOH",
       "E-mail": "ZALI_SEJARAH@UM.EDU.MY",
       "Primary field": "851111115069",
-      "Secondary field": "MOHD RAZALI BIN YA'COB @ JUSOH",
+      "Secondary field": "MOHD RAZALI BIN YA COB @ JUSOH",
       "Code": "851111115069",
       "In Use? (Y/N)": "Y",
       "Title": "MR.",
@@ -63593,7 +63593,7 @@
       "Secondary field": "ILANGO KARUPPANNAN",
       "Code": "600914045061",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' DR.",
+      "Title": "DATO  DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "AA",
@@ -64450,10 +64450,10 @@
   {
     "id": 12202,
     "details": {
-      "Full Name": "SHAFA'ATUSSARA BINTI SILAHUDIN",
+      "Full Name": "SHAFA ATUSSARA BINTI SILAHUDIN",
       "E-mail": "SYAFASARA@UM.EDU.MY",
       "Primary field": "00010034",
-      "Secondary field": "SHAFA'ATUSSARA BINTI SILAHUDIN",
+      "Secondary field": "SHAFA ATUSSARA BINTI SILAHUDIN",
       "Code": "00010034",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -64738,10 +64738,10 @@
   {
     "id": 12218,
     "details": {
-      "Full Name": "NUR 'AFIFAH BINTI ELIAS",
+      "Full Name": "NUR  AFIFAH BINTI ELIAS",
       "E-mail": "NURAFIFAH@UM.EDU.MY",
       "Primary field": "00015674",
-      "Secondary field": "NUR 'AFIFAH BINTI ELIAS",
+      "Secondary field": "NUR  AFIFAH BINTI ELIAS",
       "Code": "00015674",
       "In Use? (Y/N)": "Y",
       "Title": "MISS",
@@ -66124,7 +66124,7 @@
       "Secondary field": "FIRDAUS BIN HJ ABDULLAH",
       "Code": "00001655",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' DR.",
+      "Title": "DATO  DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "J",
@@ -66535,10 +66535,10 @@
   {
     "id": 12321,
     "details": {
-      "Full Name": "SHARIL NIZAM SHA'RI",
+      "Full Name": "SHARIL NIZAM SHA RI",
       "E-mail": "SHARIL.NIZAM@UM.EDU.MY",
       "Primary field": "761128086381",
-      "Secondary field": "SHARIL NIZAM SHA'RI",
+      "Secondary field": "SHARIL NIZAM SHA RI",
       "Code": "761128086381",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -67157,10 +67157,10 @@
   {
     "id": 12356,
     "details": {
-      "Full Name": "NORHANIZA BINTI SUPA'AT",
+      "Full Name": "NORHANIZA BINTI SUPA AT",
       "E-mail": "NIZA80@UM.EDU.MY",
       "Primary field": "00008627",
-      "Secondary field": "NORHANIZA BINTI SUPA'AT",
+      "Secondary field": "NORHANIZA BINTI SUPA AT",
       "Code": "00008627",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -68105,7 +68105,7 @@
       "Secondary field": "WAN RAMLI BIN WAN DAUD",
       "Code": "00015807",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' IR. DR.",
+      "Title": "DATO  IR. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "G",
@@ -68177,7 +68177,7 @@
       "Secondary field": "AR. IDR. ZULKHAIRI  MD ZAIN",
       "Code": "680125025941",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO'",
+      "Title": "DATO ",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "B",
@@ -69483,10 +69483,10 @@
   {
     "id": 12490,
     "details": {
-      "Full Name": "NOR' AMIRAH BINTI NORDIN",
+      "Full Name": "NOR  AMIRAH BINTI NORDIN",
       "E-mail": "NORAMIRAHNORDIN@UM.EDU.MY",
       "Primary field": "00015885",
-      "Secondary field": "NOR' AMIRAH BINTI NORDIN",
+      "Secondary field": "NOR  AMIRAH BINTI NORDIN",
       "Code": "00015885",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -70090,10 +70090,10 @@
   {
     "id": 12525,
     "details": {
-      "Full Name": "DHIYA 'IZZATI BINTI AHMAD JAFAR",
+      "Full Name": "DHIYA  IZZATI BINTI AHMAD JAFAR",
       "E-mail": "DHIYA91@UM.EDU.MY",
       "Primary field": "00014526",
-      "Secondary field": "DHIYA 'IZZATI BINTI AHMAD JAFAR",
+      "Secondary field": "DHIYA  IZZATI BINTI AHMAD JAFAR",
       "Code": "00014526",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -71062,7 +71062,7 @@
       "Secondary field": "YANG FARIDAH BINTI ABDUL AZIZ",
       "Code": "00000828",
       "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR DATO' DR.",
+      "Title": "PROFESSOR DATO  DR.",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "M",
@@ -71321,10 +71321,10 @@
   {
     "id": 12606,
     "details": {
-      "Full Name": "MUHAMMAD NU'MAN BIN MOHD NASIR",
+      "Full Name": "MUHAMMAD NU MAN BIN MOHD NASIR",
       "E-mail": "NUMAN@UM.EDU.MY",
       "Primary field": "00015110",
-      "Secondary field": "MUHAMMAD NU'MAN BIN MOHD NASIR",
+      "Secondary field": "MUHAMMAD NU MAN BIN MOHD NASIR",
       "Code": "00015110",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -71549,10 +71549,10 @@
   {
     "id": 12619,
     "details": {
-      "Full Name": "SITI NUR 'IZZATUL BALQIS BINTI AZAHAR",
+      "Full Name": "SITI NUR  IZZATUL BALQIS BINTI AZAHAR",
       "E-mail": "BALQISAZAH@UM.EDU.MY",
       "Primary field": "00015857",
-      "Secondary field": "SITI NUR 'IZZATUL BALQIS BINTI AZAHAR",
+      "Secondary field": "SITI NUR  IZZATUL BALQIS BINTI AZAHAR",
       "Code": "00015857",
       "In Use? (Y/N)": "Y",
       "Title": "MADAM",
@@ -71925,7 +71925,7 @@
       "Secondary field": "MANSOR BIN MD ISA",
       "Code": "00004739",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "AA",
@@ -73977,24 +73977,6 @@
       "Location": "UMKL",
       "Faculty": "M",
       "Department": "M-S",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12762,
-    "details": {
-      "Full Name": "MOHAMMED RAFIQ BIN DATO' ABDUL KADIR",
-      "E-mail": "RAFIQKADIR@UM.EDU.MY",
-      "Primary field": "00016208",
-      "Secondary field": "MOHAMMED RAFIQ BIN DATO' ABDUL KADIR",
-      "Code": "00016208",
-      "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. IR. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-U",
       "Job Title": "PROFESOR",
       "Job Category": "A"
     }
@@ -77948,10 +77930,10 @@
   {
     "id": 13005,
     "details": {
-      "Full Name": "HAMIZAH BINTI HJ SA'AT",
+      "Full Name": "HAMIZAH BINTI HJ SA AT",
       "E-mail": "HAMIZAHSAAT@UM.EDU.MY",
       "Primary field": "00015773",
-      "Secondary field": "HAMIZAH BINTI HJ SA'AT",
+      "Secondary field": "HAMIZAH BINTI HJ SA AT",
       "Code": "00015773",
       "Title": "DR.",
       "Gender": "FEMALE",
@@ -79580,10 +79562,10 @@
   {
     "id": 13100,
     "details": {
-      "Full Name": "UMAR SHU'AIBU GOKARU",
+      "Full Name": "UMAR SHU AIBU GOKARU",
       "E-mail": "GOKARU@UM.EDU.MY",
       "Primary field": "00016033",
-      "Secondary field": "UMAR SHU'AIBU GOKARU",
+      "Secondary field": "UMAR SHU AIBU GOKARU",
       "Code": "00016033",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -79781,7 +79763,7 @@
       "Secondary field": "AZIZAN BIN HJ ABU SAMAH",
       "Code": "00001101",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "G",
@@ -81668,6 +81650,23 @@
     }
   },
   {
+    "id": 13222,
+    "details": {
+      "Full Name": "ANGELA PENNISI DI FLORISTELLA",
+      "Primary field": "00015897",
+      "Secondary field": "ANGELA PENNISI DI FLORISTELLA",
+      "Code": "00015897",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "Q",
+      "Department": "Q-Q1",
+      "Job Title": "PENYELIDIK BERSEKUTU",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 13223,
     "details": {
       "Full Name": "SANJEEV RAJ A/L GOPAL",
@@ -82869,7 +82868,7 @@
       "Secondary field": "JOHAN SHAMSUDDIN BIN HJ SABARUDDIN",
       "Code": "00003354",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' ASSOCIATE PROF. DR.",
+      "Title": "DATO  ASSOCIATE PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "L",
@@ -83961,10 +83960,10 @@
   {
     "id": 13353,
     "details": {
-      "Full Name": "S. WADE'AH WAFA BINTI WAFA S.S.T",
+      "Full Name": "S. WADE AH WAFA BINTI WAFA S.S.T",
       "E-mail": "SWWAFA@UM.EDU.MY",
       "Primary field": "00014823",
-      "Secondary field": "S. WADE'AH WAFA BINTI WAFA S.S.T",
+      "Secondary field": "S. WADE AH WAFA BINTI WAFA S.S.T",
       "Code": "00014823",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -84734,7 +84733,7 @@
       "Secondary field": "MOHD SOFIAN BIN AZIRUN",
       "Code": "00004362",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "S",
@@ -85385,10 +85384,10 @@
   {
     "id": 13435,
     "details": {
-      "Full Name": "HANI'IZZATI BINTI TAHA",
+      "Full Name": "HANI IZZATI BINTI TAHA",
       "E-mail": "HANIIZZATI@UM.EDU.MY",
       "Primary field": "00014482",
-      "Secondary field": "HANI'IZZATI BINTI TAHA",
+      "Secondary field": "HANI IZZATI BINTI TAHA",
       "Code": "00014482",
       "In Use? (Y/N)": "Y",
       "Title": "MISS",
@@ -85686,10 +85685,10 @@
   {
     "id": 13452,
     "details": {
-      "Full Name": "ZUBAIDAH BINTI YA'COB",
+      "Full Name": "ZUBAIDAH BINTI YA COB",
       "E-mail": "ZYACOB@UM.EDU.MY",
       "Primary field": "00014311",
-      "Secondary field": "ZUBAIDAH BINTI YA'COB",
+      "Secondary field": "ZUBAIDAH BINTI YA COB",
       "Code": "00014311",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -86411,7 +86410,7 @@
       "Secondary field": "ABDUL JALIL BIN OTHMAN",
       "Code": "00003763",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "P",
@@ -87368,10 +87367,10 @@
   {
     "id": 13549,
     "details": {
-      "Full Name": "DUA' ABDUL KAREEM SALMAN ALSOUDI",
+      "Full Name": "DUA  ABDUL KAREEM SALMAN ALSOUDI",
       "E-mail": "S2184138@SISWA.UM.EDU.MY",
       "Primary field": "Q530531",
-      "Secondary field": "DUA' ABDUL KAREEM SALMAN ALSOUDI",
+      "Secondary field": "DUA  ABDUL KAREEM SALMAN ALSOUDI",
       "Code": "Q530531",
       "In Use? (Y/N)": "Y",
       "Title": "MISS",
@@ -87583,7 +87582,7 @@
       "Secondary field": "NORAINI BINTI IDRIS",
       "Code": "00003836",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "FEMALE",
       "Location": "UMKL",
       "Faculty": "G",
@@ -88069,10 +88068,10 @@
   {
     "id": 13589,
     "details": {
-      "Full Name": "RAFI'UDDIN RADZI BIN RUSLAY",
+      "Full Name": "RAFI UDDIN RADZI BIN RUSLAY",
       "E-mail": "RADZIRUSLAY@UM.EDU.MY",
       "Primary field": "00015424",
-      "Secondary field": "RAFI'UDDIN RADZI BIN RUSLAY",
+      "Secondary field": "RAFI UDDIN RADZI BIN RUSLAY",
       "Code": "00015424",
       "In Use? (Y/N)": "Y",
       "Title": "DR.",
@@ -88129,7 +88128,7 @@
       "Secondary field": "KAMARUZAMAN JUSOFF",
       "Code": "00015514",
       "In Use? (Y/N)": "Y",
-      "Title": "DATO' PROF. DR.",
+      "Title": "DATO  PROF. DR.",
       "Gender": "MALE",
       "Location": "UMKL",
       "Faculty": "G",
