@@ -38741,6 +38741,24 @@
     }
   },
   {
+    "id": 10771,
+    "details": {
+      "Full Name": "NORAZWANI BINTI MOHAMAD YUSOP",
+      "E-mail": "AZWANIYUSOP@UM.EDU.MY",
+      "Primary field": "00012571",
+      "Secondary field": "NORAZWANI BINTI MOHAMAD YUSOP",
+      "Code": "00012571",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "AA",
+      "Department": "AA08",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
+    }
+  },
+  {
     "id": 10772,
     "details": {
       "Full Name": "SHARIFAH NURULHASHIRA BINTI SHARIF HASAN",
@@ -46151,23 +46169,6 @@
       "Location": "UMKL",
       "Faculty": "S",
       "Department": "S-C",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11184,
-    "details": {
-      "Full Name": "MALATHI A/P A.KASIPPILLAI",
-      "E-mail": "MALATHIK@UM.EDU.MY",
-      "Primary field": "601226105846",
-      "Secondary field": "MALATHI A/P A.KASIPPILLAI",
-      "Code": "601226105846",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "T",
       "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
@@ -83994,24 +83995,6 @@
     }
   },
   {
-    "id": 13351,
-    "details": {
-      "Full Name": "VISHALACHE A/P BALAKRISHNAN",
-      "E-mail": "VISHA@UM.EDU.MY",
-      "Primary field": "00007397",
-      "Secondary field": "VISHALACHE A/P BALAKRISHNAN",
-      "Code": "00007397",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-A",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 13352,
     "details": {
       "Full Name": "FATHILAH BINTI ABDUL RAZAK",
@@ -85823,6 +85806,24 @@
       "Faculty": "G",
       "Department": "G-7C",
       "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13456,
+    "details": {
+      "Full Name": "MOHD NASHRUL BIN MOHD ZUBIR",
+      "E-mail": "NASHRUL@UM.EDU.MY",
+      "Primary field": "00008753",
+      "Secondary field": "MOHD NASHRUL BIN MOHD ZUBIR",
+      "Code": "00008753",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "K",
+      "Department": "K-B",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
