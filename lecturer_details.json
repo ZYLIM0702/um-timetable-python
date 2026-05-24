@@ -46174,6 +46174,23 @@
     }
   },
   {
+    "id": 11184,
+    "details": {
+      "Full Name": "MALATHI A/P A.KASIPPILLAI",
+      "E-mail": "MALATHIK@UM.EDU.MY",
+      "Primary field": "601226105846",
+      "Secondary field": "MALATHI A/P A.KASIPPILLAI",
+      "Code": "601226105846",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11185,
     "details": {
       "Full Name": "ONN BIN HAJI HASHIM",
@@ -83991,6 +84008,24 @@
       "Faculty": "P",
       "Department": "P-S",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13351,
+    "details": {
+      "Full Name": "VISHALACHE A/P BALAKRISHNAN",
+      "E-mail": "VISHA@UM.EDU.MY",
+      "Primary field": "00007397",
+      "Secondary field": "VISHALACHE A/P BALAKRISHNAN",
+      "Code": "00007397",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-A",
+      "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
     }
   },
