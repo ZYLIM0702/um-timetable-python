@@ -3036,6 +3036,24 @@
     }
   },
   {
+    "id": 8791,
+    "details": {
+      "Full Name": "TAN TIAN TIAN",
+      "E-mail": "TIANTIAN@UM.EDU.MY",
+      "Primary field": "00014363",
+      "Secondary field": "TAN TIAN TIAN",
+      "Code": "00014363",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8N",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8792,
     "details": {
       "Full Name": "TAN TIAN CHYE",
@@ -5274,24 +5292,6 @@
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
-    "id": 8916,
-    "details": {
-      "Full Name": "AHMAD SUHAIL BIN KHAZALI",
-      "E-mail": "ASKHAZALI@UM.EDU.MY",
-      "Primary field": "00014706",
-      "Secondary field": "AHMAD SUHAIL BIN KHAZALI",
-      "Code": "00014706",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-C",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
     }
   },
   {
@@ -37084,24 +37084,6 @@
     }
   },
   {
-    "id": 10680,
-    "details": {
-      "Full Name": "NUR FHATIN NADIA BINTI JASNI",
-      "E-mail": "FHATINNADIA@UM.EDU.MY",
-      "Primary field": "00014427",
-      "Secondary field": "NUR FHATIN NADIA BINTI JASNI",
-      "Code": "00014427",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "D",
-      "Department": "D-H",
-      "Job Title": "PENSYARAH PELATIH",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10681,
     "details": {
       "Full Name": "HELENA AMAN BINTI HASHIM",
@@ -39259,24 +39241,6 @@
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
-    "id": 10801,
-    "details": {
-      "Full Name": "NUKMAN BIN YUSOFF",
-      "E-mail": "NUKMAN@UM.EDU.MY",
-      "Primary field": "00004880",
-      "Secondary field": "NUKMAN BIN YUSOFF",
-      "Code": "00004880",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROFESSOR IR. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-B",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
     }
   },
   {
@@ -58524,24 +58488,6 @@
     }
   },
   {
-    "id": 11869,
-    "details": {
-      "Full Name": "NOR SYAKIRIN BINTI MOHAMED NASRUDIN",
-      "E-mail": "AWINSYAKIRIN@UM.EDU.MY",
-      "Primary field": "00015543",
-      "Secondary field": "NOR SYAKIRIN BINTI MOHAMED NASRUDIN",
-      "Code": "00015543",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-C",
-      "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11870,
     "details": {
       "Full Name": "WAN NUR NADIAH BINTI WAN AHMAD RIDZUAN",
@@ -61691,6 +61637,24 @@
       "Department": "AA08",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
+    }
+  },
+  {
+    "id": 12045,
+    "details": {
+      "Full Name": "NABILA BINTI MUHAMAD SHIDIK",
+      "E-mail": "NABILASHIDIK@UM.EDU.MY",
+      "Primary field": "00012385",
+      "Secondary field": "NABILA BINTI MUHAMAD SHIDIK",
+      "Code": "00012385",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-9B",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "EA"
     }
   },
   {
@@ -67968,24 +67932,6 @@
       "Department": "M-L",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
-    }
-  },
-  {
-    "id": 12400,
-    "details": {
-      "Full Name": "KHAIRUL ELMI KHALIDAH BINTI ADHAM",
-      "E-mail": "KHAIRULELMI@UM.EDU.MY",
-      "Primary field": "00011459",
-      "Secondary field": "KHAIRUL ELMI KHALIDAH BINTI ADHAM",
-      "Code": "00011459",
-      "In Use? (Y/N)": "Y",
-      "Title": "MRS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-1A",
-      "Job Title": "PENOLONG PENDAFTAR KANAN",
-      "Job Category": "E"
     }
   },
   {
