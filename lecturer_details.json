@@ -3036,24 +3036,6 @@
     }
   },
   {
-    "id": 8791,
-    "details": {
-      "Full Name": "TAN TIAN TIAN",
-      "E-mail": "TIANTIAN@UM.EDU.MY",
-      "Primary field": "00014363",
-      "Secondary field": "TAN TIAN TIAN",
-      "Code": "00014363",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8N",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 8792,
     "details": {
       "Full Name": "TAN TIAN CHYE",
@@ -61709,24 +61691,6 @@
       "Department": "AA08",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
-    }
-  },
-  {
-    "id": 12045,
-    "details": {
-      "Full Name": "NABILA BINTI MUHAMAD SHIDIK",
-      "E-mail": "NABILASHIDIK@UM.EDU.MY",
-      "Primary field": "00012385",
-      "Secondary field": "NABILA BINTI MUHAMAD SHIDIK",
-      "Code": "00012385",
-      "In Use? (Y/N)": "Y",
-      "Title": "MRS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-9B",
-      "Job Title": "PENOLONG PENDAFTAR",
-      "Job Category": "EA"
     }
   },
   {
