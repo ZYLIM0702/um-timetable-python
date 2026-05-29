@@ -6019,6 +6019,24 @@
     }
   },
   {
+    "id": 8956,
+    "details": {
+      "Full Name": "TEOH TEOW CHONG",
+      "E-mail": "TTCHONG@UM.EDU.MY",
+      "Primary field": "00010490",
+      "Secondary field": "TEOH TEOW CHONG",
+      "Code": "00010490",
+      "In Use? (Y/N)": "Y",
+      "Title": "ASSOCIATE PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-H",
+      "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8957,
     "details": {
       "Full Name": "RAMIN ANDALIB",
@@ -6342,24 +6360,6 @@
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A",
       "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
-    "id": 8975,
-    "details": {
-      "Full Name": "MOHD ZUKIFLEE BIN ABU BAKAR",
-      "E-mail": "ABZULKIFLEE@UM.EDU.MY",
-      "Primary field": "00007728",
-      "Secondary field": "MOHD ZUKIFLEE BIN ABU BAKAR",
-      "Code": "00007728",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-I",
-      "Job Title": "PROFESOR",
-      "Job Category": "A"
     }
   },
   {
@@ -40748,6 +40748,24 @@
     }
   },
   {
+    "id": 10884,
+    "details": {
+      "Full Name": "MUAIYED MAHMOUD ALI BUZAYAN",
+      "E-mail": "MUAIYEDBUZAYAN@UM.EDU.MY",
+      "Primary field": "00014883",
+      "Secondary field": "MUAIYED MAHMOUD ALI BUZAYAN",
+      "Code": "00014883",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "D",
+      "Department": "D-R",
+      "Job Title": "PENSYARAH PERGIGIAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10885,
     "details": {
       "Full Name": "NADIA FAREEDA BINTI MUHAMMAD GOWDH",
@@ -44383,6 +44401,23 @@
       "Department": "G-8T",
       "Job Title": "PENOLONG PENDAFTAR KANAN",
       "Job Category": "E"
+    }
+  },
+  {
+    "id": 11087,
+    "details": {
+      "Full Name": "WANG SOK WAI",
+      "E-mail": "WAIWAI@UM.EDU.MY",
+      "Primary field": "00010555",
+      "Secondary field": "WANG SOK WAI",
+      "Code": "00010555",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Job Title": "PENOLONG PENDAFTAR KANAN",
+      "Job Category": "E",
+      "Position Held (e.g. Dean)": "E"
     }
   },
   {
@@ -48661,6 +48696,24 @@
       "Faculty": "M",
       "Department": "M-S",
       "Job Title": "PEMBANTU PROJEK",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 11325,
+    "details": {
+      "Full Name": "JANATHAL A/P KARUPPAYA",
+      "E-mail": "JANA@UM.EDU.MY",
+      "Primary field": "00006995",
+      "Secondary field": "JANATHAL A/P KARUPPAYA",
+      "Code": "00006995",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
     }
   },
@@ -79931,24 +79984,6 @@
     }
   },
   {
-    "id": 13120,
-    "details": {
-      "Full Name": "NORLIANA BINTI RAMELI",
-      "E-mail": "NORLIANA@UM.EDU.MY",
-      "Primary field": "00001842",
-      "Secondary field": "NORLIANA BINTI RAMELI",
-      "Code": "00001842",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "Q",
-      "Department": "Q-Q1",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
-    }
-  },
-  {
     "id": 13121,
     "details": {
       "Full Name": "NAZATUL ANIS NADIA BINTI AZMI",
@@ -85380,6 +85415,24 @@
       "Department": "L-X",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 13434,
+    "details": {
+      "Full Name": "MOHAMAD KHUZRIN BIN KAMARUDIN",
+      "E-mail": "KHUZRINKAMARUDIN@UM.EDU.MY",
+      "Primary field": "00014439",
+      "Secondary field": "MOHAMAD KHUZRIN BIN KAMARUDIN",
+      "Code": "00014439",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-10A",
+      "Job Title": "PEMBANTU TADBIR (KEWANGAN)",
+      "Job Category": "N"
     }
   },
   {
