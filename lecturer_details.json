@@ -15086,6 +15086,24 @@
     }
   },
   {
+    "id": 9459,
+    "details": {
+      "Full Name": "SEE HOOI YAN",
+      "E-mail": "HOOIYANSEE@UM.EDU.MY",
+      "Primary field": "751014025522",
+      "Secondary field": "SEE HOOI YAN",
+      "Code": "751014025522",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-F",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9460,
     "details": {
       "Full Name": "GIRIBABU NELLI",
@@ -19163,6 +19181,24 @@
       "Faculty": "K",
       "Department": "K-A",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 9686,
+    "details": {
+      "Full Name": "AZEANA BINTI ZAHARI",
+      "E-mail": "AZEANAZAHARI@UM.EDU.MY",
+      "Primary field": "00010041",
+      "Secondary field": "AZEANA BINTI ZAHARI",
+      "Code": "00010041",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-C",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -44242,6 +44278,24 @@
     }
   },
   {
+    "id": 11079,
+    "details": {
+      "Full Name": "MOHD KHAIRULAZWAN BIN HALID",
+      "E-mail": "KHAIRULAZWAN@UM.EDU.MY",
+      "Primary field": "00013796",
+      "Secondary field": "MOHD KHAIRULAZWAN BIN HALID",
+      "Code": "00013796",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 11080,
     "details": {
       "Full Name": "MUHAMAD AZHAR BIN JUHARI",
@@ -62036,23 +62090,6 @@
     }
   },
   {
-    "id": 12066,
-    "details": {
-      "Full Name": "MOSES STEPHENS GUNAMS SAMUEL",
-      "E-mail": "MOSESS@UM.EDU.MY",
-      "Primary field": "541125015583",
-      "Secondary field": "MOSES STEPHENS GUNAMS SAMUEL",
-      "Code": "541125015583",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-X",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12067,
     "details": {
       "Full Name": "DALILA BINTI MD IDRIS",
@@ -76511,6 +76548,24 @@
       "Faculty": "M",
       "Department": "M-Y",
       "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 12912,
+    "details": {
+      "Full Name": "MUHAMMAD KHEDIR BIN ARIFFIN",
+      "E-mail": "KHED@UM.EDU.MY",
+      "Primary field": "00015850",
+      "Secondary field": "MUHAMMAD KHEDIR BIN ARIFFIN",
+      "Code": "00015850",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Title": "PEREKA",
       "Job Category": "N"
     }
   },
