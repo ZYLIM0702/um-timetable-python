@@ -4406,25 +4406,6 @@
     }
   },
   {
-    "id": 8867,
-    "details": {
-      "Full Name": "TAN SOO KEE",
-      "E-mail": "CHENSK@UM.EDU.MY",
-      "Primary field": "00007734",
-      "Secondary field": "TAN SOO KEE",
-      "Code": "00007734",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "A",
-      "Department": "A-Y",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "HEAD OF DEPARTMENT"
-    }
-  },
-  {
     "id": 8868,
     "details": {
       "Full Name": "SUMAIYAH BINTI MAT",
@@ -15209,24 +15190,6 @@
       "Faculty": "M",
       "Department": "M-M",
       "Job Title": "PROFESOR",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9466,
-    "details": {
-      "Full Name": "ZUNAIBI BIN ABDULLAH",
-      "E-mail": "BONN@UM.EDU.MY",
-      "Primary field": "00005452",
-      "Secondary field": "ZUNAIBI BIN ABDULLAH",
-      "Code": "00005452",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "B",
-      "Department": "B-A",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -61712,24 +61675,6 @@
     }
   },
   {
-    "id": 12045,
-    "details": {
-      "Full Name": "NABILA BINTI MUHAMAD SHIDIK",
-      "E-mail": "NABILASHIDIK@UM.EDU.MY",
-      "Primary field": "00012385",
-      "Secondary field": "NABILA BINTI MUHAMAD SHIDIK",
-      "Code": "00012385",
-      "In Use? (Y/N)": "Y",
-      "Title": "MRS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-9B",
-      "Job Title": "PENOLONG PENDAFTAR",
-      "Job Category": "EA"
-    }
-  },
-  {
     "id": 12046,
     "details": {
       "Full Name": "THANALETCHUMI A/P DHARMALINGAM",
@@ -86844,24 +86789,6 @@
     }
   },
   {
-    "id": 13513,
-    "details": {
-      "Full Name": "HO SHIAW HOOI",
-      "E-mail": "SHHO@UM.EDU.MY",
-      "Primary field": "00011731",
-      "Secondary field": "HO SHIAW HOOI",
-      "Code": "00011731",
-      "In Use? (Y/N)": "Y",
-      "Title": "ASSOCIATE PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-P",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 13514,
     "details": {
       "Full Name": "KHOR HUI MIN",
@@ -87822,6 +87749,24 @@
       "Faculty": "K",
       "Department": "K-B",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13570,
+    "details": {
+      "Full Name": "SHARIFAH NABILAH BT SYED MOHD HAMDAN",
+      "E-mail": "SH.NABILAH@UM.EDU.MY",
+      "Primary field": "00015348",
+      "Secondary field": "SHARIFAH NABILAH BT SYED MOHD HAMDAN",
+      "Code": "00015348",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "D",
+      "Department": "D-C",
+      "Job Title": "PENSYARAH PELATIH",
       "Job Category": "A"
     }
   },
