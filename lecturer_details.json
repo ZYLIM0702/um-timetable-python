@@ -35131,6 +35131,24 @@
     }
   },
   {
+    "id": 10570,
+    "details": {
+      "Full Name": "WILLIAM R STEVENSON",
+      "E-mail": "STEVENSONWILLIAM@HOTMAIL.COM",
+      "Primary field": "T370533",
+      "Secondary field": "WILLIAM R STEVENSON",
+      "Code": "T370533",
+      "In Use? (Y/N)": "Y",
+      "Title": "BRIGIDIER JENDERAL DATO ",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "C",
+      "Department": "C-B",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10571,
     "details": {
       "Full Name": "NOORHISYAM BIN JASMIN",
@@ -45867,6 +45885,24 @@
     }
   },
   {
+    "id": 11168,
+    "details": {
+      "Full Name": "JAMILAH BINTI HJ MOHD SALEH",
+      "E-mail": "JAMILAHS@UM.EDU.MY",
+      "Primary field": "00005530",
+      "Secondary field": "JAMILAH BINTI HJ MOHD SALEH",
+      "Code": "00005530",
+      "In Use? (Y/N)": "Y",
+      "Title": "DATIN",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-A",
+      "Job Title": "GURU BAHASA",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 11169,
     "details": {
       "Full Name": "MAIZIRA BINTI ABDUL MAJID",
@@ -53512,24 +53548,6 @@
     }
   },
   {
-    "id": 11592,
-    "details": {
-      "Full Name": "NOR AISHAH BINTI ABDULLAH",
-      "E-mail": "AISHAH.ABDULLAH@UM.EDU.MY",
-      "Primary field": "00011633",
-      "Secondary field": "NOR AISHAH BINTI ABDULLAH",
-      "Code": "00011633",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-F",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11593,
     "details": {
       "Full Name": "NOR AZLINA BINTI ABD AZIZ",
@@ -54788,24 +54806,6 @@
       "Faculty": "M",
       "Department": "M-S",
       "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11663,
-    "details": {
-      "Full Name": "NORHIDAYAH BINTI PAUZI",
-      "E-mail": "DA_MY85@UM.EDU.MY",
-      "Primary field": "00012533",
-      "Secondary field": "NORHIDAYAH BINTI PAUZI",
-      "Code": "00012533",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "I",
-      "Department": "I-F",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -61457,24 +61457,6 @@
       "Department": "G-7F",
       "Job Title": "PENOLONG PENDAFTAR",
       "Job Category": "E"
-    }
-  },
-  {
-    "id": 12033,
-    "details": {
-      "Full Name": "MUHAMAD HIFZHUDIN BIN NOOR AZIZ",
-      "E-mail": "HIFZ_DIN@UM.EDU.MY",
-      "Primary field": "00013391",
-      "Secondary field": "MUHAMAD HIFZHUDIN BIN NOOR AZIZ",
-      "Code": "00013391",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-J",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "AE"
     }
   },
   {
@@ -70996,6 +70978,24 @@
       "Faculty": "M",
       "Department": "M-R",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12586,
+    "details": {
+      "Full Name": "THAMBIDORAI A/L RAJENDRA RAO",
+      "E-mail": "THAMBI@UM.EDU.MY",
+      "Primary field": "00010694",
+      "Secondary field": "THAMBIDORAI A/L RAJENDRA RAO",
+      "Code": "00010694",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-S",
+      "Job Title": "PROFESOR",
       "Job Category": "A"
     }
   },
@@ -81294,6 +81294,24 @@
       "Department": "M-TA",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
+    }
+  },
+  {
+    "id": 13198,
+    "details": {
+      "Full Name": "NASRUDIN BIN SUBHI",
+      "E-mail": "NASRUDIN_SUBHI@UM.EDU.MY",
+      "Primary field": "720125105929",
+      "Secondary field": "NASRUDIN BIN SUBHI",
+      "Code": "720125105929",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "P",
+      "Department": "P-P",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
     }
   },
   {
