@@ -9060,24 +9060,6 @@
     }
   },
   {
-    "id": 9125,
-    "details": {
-      "Full Name": "LAU SU KIA",
-      "E-mail": "LAUSK@UM.EDU.MY",
-      "Primary field": "00009322",
-      "Secondary field": "LAU SU KIA",
-      "Code": "00009322",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-D",
-      "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9126,
     "details": {
       "Full Name": "GAN ENG CHENG",
@@ -37750,6 +37732,24 @@
     }
   },
   {
+    "id": 10716,
+    "details": {
+      "Full Name": "NURUL AIN BINTI ABDUL LATIFF",
+      "E-mail": "AINLATIFF@UM.EDU.MY",
+      "Primary field": "00014902",
+      "Secondary field": "NURUL AIN BINTI ABDUL LATIFF",
+      "Code": "00014902",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8F",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 10717,
     "details": {
       "Full Name": "KEUM HYUN KIM",
@@ -38844,6 +38844,24 @@
       "Location": "UMKL",
       "Faculty": "A",
       "Department": "A-P",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 10778,
+    "details": {
+      "Full Name": "NORMADINAH BINTI ABDUL LATIFF",
+      "E-mail": "BDINA@UM.EDU.MY",
+      "Primary field": "00007028",
+      "Secondary field": "NORMADINAH BINTI ABDUL LATIFF",
+      "Code": "00007028",
+      "In Use? (Y/N)": "Y",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N"
     }
@@ -45414,25 +45432,6 @@
     }
   },
   {
-    "id": 11144,
-    "details": {
-      "Full Name": "YAP TENG TENG",
-      "E-mail": "YAPTENGTENG@UM.EDU.MY",
-      "Primary field": "00013924",
-      "Secondary field": "YAP TENG TENG",
-      "Code": "00013924",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Department": "T-D",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A",
-      "Position Held (e.g. Dean)": "COORDINATOR BY DEPARTMENT"
-    }
-  },
-  {
     "id": 11145,
     "details": {
       "Full Name": "WAN AHMAD TAJUDDIN BIN WAN ABDULLAH",
@@ -50440,24 +50439,6 @@
     }
   },
   {
-    "id": 11422,
-    "details": {
-      "Full Name": "MOHD FAKHRUL ZAMANI BIN ABDUL KADIR",
-      "E-mail": "MFZKADIR@UM.EDU.MY",
-      "Primary field": "00011708",
-      "Secondary field": "MOHD FAKHRUL ZAMANI BIN ABDUL KADIR",
-      "Code": "00011708",
-      "In Use? (Y/N)": "Y",
-      "Title": "PROF. DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-M",
-      "Job Title": "PROFESOR MADYA",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 11423,
     "details": {
       "Full Name": "ABDOLLATIF AHMADI RAMCHAHI",
@@ -51951,6 +51932,24 @@
       "Location": "UMKL",
       "Faculty": "W",
       "Department": "W-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N",
+      "Position Held (e.g. Dean)": "N"
+    }
+  },
+  {
+    "id": 11506,
+    "details": {
+      "Full Name": "HANIZA BINTI ALIAS",
+      "E-mail": "NIZA3108@UM.EDU.MY",
+      "Primary field": "00006767",
+      "Secondary field": "HANIZA BINTI ALIAS",
+      "Code": "00006767",
+      "Title": "MADAM",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "H",
+      "Department": "H-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
       "Job Category": "N",
       "Position Held (e.g. Dean)": "N"
@@ -71810,6 +71809,24 @@
       "Department": "G-7I-A",
       "Job Title": "PENOLONG PENDAFTAR",
       "Job Category": "E"
+    }
+  },
+  {
+    "id": 12633,
+    "details": {
+      "Full Name": "RAFIDAH BINTI MOHD NOLI",
+      "E-mail": "RAFIDAHNOLI@UM.EDU.MY",
+      "Primary field": "00016333",
+      "Secondary field": "RAFIDAH BINTI MOHD NOLI",
+      "Code": "00016333",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "D",
+      "Department": "D-X",
+      "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
     }
   },
   {
