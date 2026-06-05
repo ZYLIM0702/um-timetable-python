@@ -42565,24 +42565,6 @@
     }
   },
   {
-    "id": 10984,
-    "details": {
-      "Full Name": "MAZNAH BINTI OTHMAN",
-      "E-mail": "MAZNAH_O@UM.EDU.MY",
-      "Primary field": "00004848",
-      "Secondary field": "MAZNAH BINTI OTHMAN",
-      "Code": "00004848",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "B",
-      "Department": "B-Q",
-      "Job Title": "PENSYARAH",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 10985,
     "details": {
       "Full Name": "LIM BOON KIONG",
@@ -59747,6 +59729,24 @@
     }
   },
   {
+    "id": 11936,
+    "details": {
+      "Full Name": "NORSYUHADAH BINTI YAHYA",
+      "E-mail": "NORSYUHADAH88@UM.EDU.MY",
+      "Primary field": "00012773",
+      "Secondary field": "NORSYUHADAH BINTI YAHYA",
+      "Code": "00012773",
+      "In Use? (Y/N)": "Y",
+      "Title": "MRS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "F",
+      "Department": "F-X",
+      "Job Title": "PENOLONG PEGAWAI SAINS",
+      "Job Category": "N"
+    }
+  },
+  {
     "id": 11937,
     "details": {
       "Full Name": "KAMALIAH BINTI SIRAT@SIRAJ",
@@ -63820,6 +63820,23 @@
     }
   },
   {
+    "id": 12164,
+    "details": {
+      "Full Name": "SHANKARAN NAMBIAR",
+      "E-mail": "SNAMBIAR@UM.EDU.MY",
+      "Primary field": "570126075345",
+      "Secondary field": "SHANKARAN NAMBIAR",
+      "Code": "570126075345",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Location": "UMKL",
+      "Faculty": "E",
+      "Department": "E-R",
+      "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 12165,
     "details": {
       "Full Name": "NORFAZLIN AIDA BINTI RADZUAN",
@@ -65163,23 +65180,6 @@
       "Faculty": "K",
       "Department": "K-E",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 12240,
-    "details": {
-      "Full Name": "GAO HEYI",
-      "Primary field": "00015654",
-      "Secondary field": "GAO HEYI",
-      "Code": "00015654",
-      "In Use? (Y/N)": "Y",
-      "Title": "MISS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-7C",
-      "Job Title": "GURU BAHASA",
       "Job Category": "A"
     }
   },
@@ -75368,24 +75368,6 @@
     }
   },
   {
-    "id": 12843,
-    "details": {
-      "Full Name": "KONG ZHI XIAN",
-      "E-mail": "KONGZHIXIAN@UM.EDU.MY",
-      "Primary field": "00016486",
-      "Secondary field": "KONG ZHI XIAN",
-      "Code": "00016486",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "MALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-F",
-      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12845,
     "details": {
       "Full Name": "RAJA SOTHI A/P RAJA SAPAI",
@@ -77360,6 +77342,24 @@
       "Faculty": "P",
       "Department": "P-P",
       "Job Title": "PENGAJAR SAMBILAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 12967,
+    "details": {
+      "Full Name": "ELENI PETRAKOU",
+      "E-mail": "PETRAKOU@UM.EDU.MY",
+      "Primary field": "00016028",
+      "Secondary field": "ELENI PETRAKOU",
+      "Code": "00016028",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-M",
+      "Job Title": "PENSYARAH",
       "Job Category": "A"
     }
   },
@@ -87961,24 +87961,6 @@
       "Faculty": "S",
       "Department": "S-J",
       "Job Category": "A"
-    }
-  },
-  {
-    "id": 13581,
-    "details": {
-      "Full Name": "FAZIATI BINTI MOHD",
-      "E-mail": "FAZIATI@UM.EDU.MY",
-      "Primary field": "00011156",
-      "Secondary field": "FAZIATI BINTI MOHD",
-      "Code": "00011156",
-      "In Use? (Y/N)": "Y",
-      "Title": "MADAM",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "S",
-      "Department": "S-X",
-      "Job Title": "PEMBANTU TADBIR (P/O)",
-      "Job Category": "N"
     }
   },
   {
