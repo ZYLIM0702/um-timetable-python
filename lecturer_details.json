@@ -3036,6 +3036,24 @@
     }
   },
   {
+    "id": 8791,
+    "details": {
+      "Full Name": "TAN TIAN TIAN",
+      "E-mail": "TIANTIAN@UM.EDU.MY",
+      "Primary field": "00014363",
+      "Secondary field": "TAN TIAN TIAN",
+      "Code": "00014363",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-8N",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 8792,
     "details": {
       "Full Name": "TAN TIAN CHYE",
@@ -3050,6 +3068,24 @@
       "Faculty": "M",
       "Department": "M-J",
       "Job Title": "PROFESOR MADYA",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 8793,
+    "details": {
+      "Full Name": "MUHAMMAD HAMEEDULLAH BIN MD ASRI",
+      "E-mail": "HAMEEDULLAH_ASRI@UM.EDU.MY",
+      "Primary field": "00015055",
+      "Secondary field": "MUHAMMAD HAMEEDULLAH BIN MD ASRI",
+      "Code": "00015055",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -25070,6 +25106,24 @@
       "Department": "G-7I-A",
       "Job Title": "PENOLONG PEGAWAI TEKNOLOGI MAKLUMAT",
       "Job Category": "N"
+    }
+  },
+  {
+    "id": 10014,
+    "details": {
+      "Full Name": "MUHAMMAD AMIRUL BIN HARUN",
+      "E-mail": "AMIRULHARUN@UM.EDU.MY",
+      "Primary field": "00015050",
+      "Secondary field": "MUHAMMAD AMIRUL BIN HARUN",
+      "Code": "00015050",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-10C",
+      "Job Title": "PEMBANTU PROJEK",
+      "Job Category": "N",
+      "Position Held (e.g. Dean)": "N"
     }
   },
   {
@@ -77731,24 +77785,6 @@
     }
   },
   {
-    "id": 12991,
-    "details": {
-      "Full Name": "TAE SOK KUN",
-      "E-mail": "TAESOKKUN@UM.EDU.MY",
-      "Primary field": "00014581",
-      "Secondary field": "TAE SOK KUN",
-      "Code": "00014581",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "M",
-      "Department": "M-L",
-      "Job Title": "PENSYARAH PERUBATAN (TANPA GELARAN)",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12992,
     "details": {
       "Full Name": "TAI MEI- LING SHARON",
@@ -79016,6 +79052,24 @@
       "Faculty": "B",
       "Department": "B-Q",
       "Job Title": "PENSYARAH KANAN",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13067,
+    "details": {
+      "Full Name": "ABUBAKAR USMAN ABUBAKAR",
+      "E-mail": "ABUBAKAR.USMAN@UM.EDU.MY",
+      "Primary field": "A11446135",
+      "Secondary field": "ABUBAKAR USMAN ABUBAKAR",
+      "Code": "A11446135",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "A",
+      "Department": "A-U",
+      "Job Title": "PENGAJAR SAMBILAN",
       "Job Category": "A"
     }
   },
@@ -82017,6 +82071,22 @@
     }
   },
   {
+    "id": 13242,
+    "details": {
+      "Full Name": "HARUNA PETER WANTE",
+      "E-mail": "wante2h@gmailo.com",
+      "Primary field": "00016220",
+      "Secondary field": "HARUNA PETER WANTE",
+      "Code": "00016220",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Location": "UMKL",
+      "Faculty": "S",
+      "Department": "S-M",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 13243,
     "details": {
       "Full Name": "MUSTAFFA ALI AZHAR BIN TAIB",
@@ -82118,6 +82188,24 @@
       "Faculty": "Q",
       "Department": "Q-Q1",
       "Job Title": "PROFESOR KEHORMAT",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13249,
+    "details": {
+      "Full Name": "ONG HUI MING",
+      "E-mail": "ONGHUIMING@UM.EDU.MY",
+      "Primary field": "00015998",
+      "Secondary field": "ONG HUI MING",
+      "Code": "00015998",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-F",
+      "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
       "Job Category": "A"
     }
   },
@@ -84619,6 +84707,24 @@
       "Faculty": "M",
       "Department": "M-S",
       "Job Title": "PENYELIDIK BERSEKUTU",
+      "Job Category": "A"
+    }
+  },
+  {
+    "id": 13392,
+    "details": {
+      "Full Name": "YAP LENG LEE",
+      "E-mail": "LENGLEE@UM.EDU.MY",
+      "Primary field": "00015686",
+      "Secondary field": "YAP LENG LEE",
+      "Code": "00015686",
+      "In Use? (Y/N)": "Y",
+      "Title": "DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "T",
+      "Department": "T-B",
+      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
