@@ -13315,24 +13315,6 @@
     }
   },
   {
-    "id": 9361,
-    "details": {
-      "Full Name": "YONG SOOK LU",
-      "E-mail": "YONGSL@UM.EDU.MY",
-      "Primary field": "00007650",
-      "Secondary field": "YONG SOOK LU",
-      "Code": "00007650",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "AA",
-      "Department": "AA04",
-      "Job Title": "PENSYARAH KANAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9362,
     "details": {
       "Full Name": "NIK ELYNA MYEDA BT NIK MAT",
@@ -17103,24 +17085,6 @@
       "Faculty": "G",
       "Department": "G-7C",
       "Job Title": "GURU BAHASA",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 9571,
-    "details": {
-      "Full Name": "NORAZRIENA BINTI YUSOFF",
-      "E-mail": "NORAZRIENAYUSOFF@UM.EDU.MY",
-      "Primary field": "00014533",
-      "Secondary field": "NORAZRIENA BINTI YUSOFF",
-      "Code": "00014533",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "G",
-      "Department": "G-8K",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
@@ -52275,24 +52239,6 @@
       "Location": "UMKL",
       "Faculty": "M",
       "Job Title": "FELO PENYELIDIK PASCA DOKTORAL",
-      "Job Category": "A"
-    }
-  },
-  {
-    "id": 11522,
-    "details": {
-      "Full Name": "MAHAR DIANA BINTI HAMID",
-      "E-mail": "MAHAR.DIANA@UM.EDU.MY",
-      "Primary field": "00009105",
-      "Secondary field": "MAHAR DIANA BINTI HAMID",
-      "Code": "00009105",
-      "In Use? (Y/N)": "Y",
-      "Title": "DR.",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "K",
-      "Department": "K-K",
-      "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
     }
   },
