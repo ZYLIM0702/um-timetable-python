@@ -22322,6 +22322,24 @@
     }
   },
   {
+    "id": 9860,
+    "details": {
+      "Full Name": "NAZIRAH BINTI HASNAN",
+      "E-mail": "NAZIRAH@UM.EDU.MY",
+      "Primary field": "00000988",
+      "Secondary field": "NAZIRAH BINTI HASNAN",
+      "Code": "00000988",
+      "In Use? (Y/N)": "Y",
+      "Title": "PROF. DR.",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "M",
+      "Department": "M-RM",
+      "Job Title": "PROFESOR",
+      "Job Category": "A"
+    }
+  },
+  {
     "id": 9861,
     "details": {
       "Full Name": "KHAIRUZZAMAN OTHMAN",
@@ -38197,6 +38215,24 @@
       "Faculty": "T",
       "Department": "T-X",
       "Job Title": "PEMBANTU TADBIR (P/O)",
+      "Job Category": "N"
+    }
+  },
+  {
+    "id": 10742,
+    "details": {
+      "Full Name": "RAJA MAIZANARIAH BINTI RAJA AZMI",
+      "E-mail": "R.MAIZANARIAH@UM.EDU.MY",
+      "Primary field": "00013272",
+      "Secondary field": "RAJA MAIZANARIAH BINTI RAJA AZMI",
+      "Code": "00013272",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "L",
+      "Department": "L-X",
+      "Job Title": "PEMBANTU TADBIR (KEWANGAN)",
       "Job Category": "N"
     }
   },
@@ -78462,6 +78498,24 @@
       "Department": "R-R",
       "Job Title": "PENOLONG PENDAFTAR",
       "Job Category": "E"
+    }
+  },
+  {
+    "id": 13032,
+    "details": {
+      "Full Name": "MUHAMMAD ARIEF BIN MOHD ISA",
+      "E-mail": "ARIEFNAIM@UM.EDU.MY",
+      "Primary field": "00015986",
+      "Secondary field": "MUHAMMAD ARIEF BIN MOHD ISA",
+      "Code": "00015986",
+      "In Use? (Y/N)": "Y",
+      "Title": "MR.",
+      "Gender": "MALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-10C",
+      "Job Title": "PENOLONG PEGAWAI TEKNOLOGI MAKLUMAT",
+      "Job Category": "N"
     }
   },
   {
