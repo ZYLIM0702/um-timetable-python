@@ -19096,23 +19096,6 @@
     }
   },
   {
-    "id": 9681,
-    "details": {
-      "Full Name": "SIVAMANI A/P K RASIAH",
-      "E-mail": "SIVAMANIK@UM.EDU.MY",
-      "Primary field": "500125715108",
-      "Secondary field": "SIVAMANI A/P K RASIAH",
-      "Code": "500125715108",
-      "In Use? (Y/N)": "Y",
-      "Title": "DATIN",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "T",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 9682,
     "details": {
       "Full Name": "KULWANT KAUR A/P KARTAR SINGH",
@@ -69340,24 +69323,6 @@
     }
   },
   {
-    "id": 12478,
-    "details": {
-      "Full Name": "NUR IZAITUN BINTI KAMARUDDIN",
-      "E-mail": "NURIZAITUL@UM.EDU.MY",
-      "Primary field": "870403055372",
-      "Secondary field": "NUR IZAITUN BINTI KAMARUDDIN",
-      "Code": "870403055372",
-      "In Use? (Y/N)": "Y",
-      "Title": "MRS",
-      "Gender": "FEMALE",
-      "Location": "UMKL",
-      "Faculty": "P",
-      "Department": "P-A",
-      "Job Title": "PENGAJAR SAMBILAN",
-      "Job Category": "A"
-    }
-  },
-  {
     "id": 12479,
     "details": {
       "Full Name": "NUR NABIHAH BINTI MOHAMAD NIZAR",
@@ -72450,6 +72415,24 @@
       "Department": "S-H",
       "Job Title": "PROFESOR MADYA",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 12669,
+    "details": {
+      "Full Name": "NURHAFIZAH BINTI JAFRI",
+      "E-mail": "HAFIZAHJAFRI@UM.EDU.MY",
+      "Primary field": "00008600",
+      "Secondary field": "NURHAFIZAH BINTI JAFRI",
+      "Code": "00008600",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-7I-E",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
     }
   },
   {
@@ -78864,6 +78847,24 @@
       "Department": "R-A",
       "Job Title": "PENSYARAH KANAN",
       "Job Category": "A"
+    }
+  },
+  {
+    "id": 13054,
+    "details": {
+      "Full Name": "IZA AZWEEN BINTI FADZIL",
+      "E-mail": "IZAF@UM.EDU.MY",
+      "Primary field": "00011717",
+      "Secondary field": "IZA AZWEEN BINTI FADZIL",
+      "Code": "00011717",
+      "In Use? (Y/N)": "Y",
+      "Title": "MISS",
+      "Gender": "FEMALE",
+      "Location": "UMKL",
+      "Faculty": "G",
+      "Department": "G-7I-E",
+      "Job Title": "PENOLONG PENDAFTAR",
+      "Job Category": "E"
     }
   },
   {
